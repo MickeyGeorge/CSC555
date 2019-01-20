@@ -1,0 +1,35 @@
+content for hadoop-2.6.4/etc/hadoop/core-site.xml
+
+<property>
+  <name>fs.defaultFS</name>
+  <value>hdfs://localhost/</value>
+</property>
+
+
+content for hadoop-2.6.4/etc/hadoop/hdfs-site.xml
+
+<property>
+ <name>dfs.replication</name>
+ <value>1</value>
+</property>
+
+
+content for hadoop-2.6.4/etc/hadoop/mapred-site.xml
+
+<property>
+<name>mapreduce.framework.name</name>
+<value>yarn</value>
+</property>
+
+
+content for hadoop-2.6.4/etc/hadoop/yarn-site.xml
+
+<property>
+  <name>yarn.resourcemanager.hostname</name>
+  <value>localhost</value>
+</property>
+
+<property>
+  <name>yarn.nodemanager.aux-services</name>
+  <value>mapreduce_shuffle</value>
+</property>
