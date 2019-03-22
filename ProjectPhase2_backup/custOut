@@ -1,0 +1,5992 @@
+3 	ARGENTINA 	customer
+5 	CANADA 	customer
+8 	PERU 	customer
+13 	CANADA 	customer
+14 	ARGENTINA 	customer
+17 	BRAZIL 	customer
+22 	CANADA 	customer
+23 	CANADA 	customer
+27 	CANADA 	customer
+30 	ARGENTINA 	customer
+33 	PERU 	customer
+35 	PERU 	customer
+39 	BRAZIL 	customer
+40 	CANADA 	customer
+47 	BRAZIL 	customer
+59 	ARGENTINA 	customer
+61 	PERU 	customer
+64 	CANADA 	customer
+72 	BRAZIL 	customer
+77 	PERU 	customer
+92 	BRAZIL 	customer
+97 	PERU 	customer
+101 	BRAZIL 	customer
+106 	ARGENTINA 	customer
+117 	UNITED STATES 	customer
+121 	PERU 	customer
+122 	CANADA 	customer
+133 	PERU 	customer
+141 	ARGENTINA 	customer
+144 	ARGENTINA 	customer
+146 	CANADA 	customer
+177 	ARGENTINA 	customer
+182 	CANADA 	customer
+186 	CANADA 	customer
+197 	ARGENTINA 	customer
+198 	ARGENTINA 	customer
+201 	BRAZIL 	customer
+203 	ARGENTINA 	customer
+213 	UNITED STATES 	customer
+222 	ARGENTINA 	customer
+226 	CANADA 	customer
+229 	ARGENTINA 	customer
+233 	CANADA 	customer
+235 	CANADA 	customer
+242 	CANADA 	customer
+249 	CANADA 	customer
+254 	ARGENTINA 	customer
+255 	CANADA 	customer
+260 	ARGENTINA 	customer
+263 	ARGENTINA 	customer
+265 	PERU 	customer
+268 	CANADA 	customer
+272 	BRAZIL 	customer
+273 	BRAZIL 	customer
+288 	BRAZIL 	customer
+293 	BRAZIL 	customer
+303 	CANADA 	customer
+310 	ARGENTINA 	customer
+324 	BRAZIL 	customer
+326 	BRAZIL 	customer
+336 	BRAZIL 	customer
+339 	UNITED STATES 	customer
+340 	BRAZIL 	customer
+343 	CANADA 	customer
+344 	BRAZIL 	customer
+346 	BRAZIL 	customer
+347 	ARGENTINA 	customer
+354 	BRAZIL 	customer
+360 	PERU 	customer
+362 	PERU 	customer
+363 	PERU 	customer
+365 	UNITED STATES 	customer
+366 	CANADA 	customer
+383 	BRAZIL 	customer
+385 	CANADA 	customer
+386 	UNITED STATES 	customer
+392 	PERU 	customer
+407 	ARGENTINA 	customer
+427 	BRAZIL 	customer
+430 	CANADA 	customer
+434 	CANADA 	customer
+435 	BRAZIL 	customer
+440 	CANADA 	customer
+442 	ARGENTINA 	customer
+443 	CANADA 	customer
+444 	ARGENTINA 	customer
+446 	UNITED STATES 	customer
+447 	CANADA 	customer
+448 	UNITED STATES 	customer
+465 	BRAZIL 	customer
+476 	BRAZIL 	customer
+478 	ARGENTINA 	customer
+487 	BRAZIL 	customer
+488 	CANADA 	customer
+505 	BRAZIL 	customer
+512 	BRAZIL 	customer
+513 	ARGENTINA 	customer
+518 	PERU 	customer
+520 	CANADA 	customer
+521 	BRAZIL 	customer
+526 	ARGENTINA 	customer
+534 	ARGENTINA 	customer
+535 	BRAZIL 	customer
+543 	PERU 	customer
+549 	UNITED STATES 	customer
+550 	PERU 	customer
+552 	BRAZIL 	customer
+554 	BRAZIL 	customer
+556 	ARGENTINA 	customer
+558 	PERU 	customer
+566 	UNITED STATES 	customer
+569 	BRAZIL 	customer
+571 	BRAZIL 	customer
+575 	ARGENTINA 	customer
+576 	ARGENTINA 	customer
+581 	UNITED STATES 	customer
+582 	CANADA 	customer
+588 	PERU 	customer
+592 	UNITED STATES 	customer
+601 	ARGENTINA 	customer
+606 	ARGENTINA 	customer
+607 	UNITED STATES 	customer
+615 	BRAZIL 	customer
+616 	ARGENTINA 	customer
+619 	UNITED STATES 	customer
+621 	PERU 	customer
+628 	PERU 	customer
+630 	UNITED STATES 	customer
+632 	CANADA 	customer
+633 	BRAZIL 	customer
+635 	BRAZIL 	customer
+638 	UNITED STATES 	customer
+640 	BRAZIL 	customer
+641 	UNITED STATES 	customer
+646 	BRAZIL 	customer
+647 	ARGENTINA 	customer
+658 	ARGENTINA 	customer
+666 	BRAZIL 	customer
+670 	BRAZIL 	customer
+676 	UNITED STATES 	customer
+677 	CANADA 	customer
+685 	PERU 	customer
+689 	UNITED STATES 	customer
+690 	CANADA 	customer
+693 	ARGENTINA 	customer
+701 	BRAZIL 	customer
+702 	CANADA 	customer
+708 	PERU 	customer
+726 	CANADA 	customer
+728 	UNITED STATES 	customer
+730 	BRAZIL 	customer
+736 	ARGENTINA 	customer
+749 	UNITED STATES 	customer
+753 	PERU 	customer
+757 	CANADA 	customer
+758 	PERU 	customer
+759 	ARGENTINA 	customer
+760 	BRAZIL 	customer
+763 	ARGENTINA 	customer
+767 	PERU 	customer
+775 	PERU 	customer
+783 	ARGENTINA 	customer
+796 	CANADA 	customer
+804 	UNITED STATES 	customer
+807 	PERU 	customer
+812 	PERU 	customer
+816 	UNITED STATES 	customer
+849 	UNITED STATES 	customer
+853 	BRAZIL 	customer
+855 	ARGENTINA 	customer
+859 	PERU 	customer
+862 	BRAZIL 	customer
+863 	CANADA 	customer
+869 	BRAZIL 	customer
+870 	BRAZIL 	customer
+872 	PERU 	customer
+875 	CANADA 	customer
+879 	BRAZIL 	customer
+882 	BRAZIL 	customer
+883 	CANADA 	customer
+887 	ARGENTINA 	customer
+898 	CANADA 	customer
+899 	BRAZIL 	customer
+900 	ARGENTINA 	customer
+905 	CANADA 	customer
+909 	UNITED STATES 	customer
+917 	ARGENTINA 	customer
+920 	BRAZIL 	customer
+927 	PERU 	customer
+948 	PERU 	customer
+949 	BRAZIL 	customer
+952 	UNITED STATES 	customer
+965 	BRAZIL 	customer
+971 	ARGENTINA 	customer
+977 	BRAZIL 	customer
+978 	UNITED STATES 	customer
+980 	ARGENTINA 	customer
+986 	ARGENTINA 	customer
+988 	CANADA 	customer
+997 	PERU 	customer
+998 	PERU 	customer
+1008 	BRAZIL 	customer
+1020 	CANADA 	customer
+1023 	PERU 	customer
+1026 	PERU 	customer
+1027 	BRAZIL 	customer
+1038 	PERU 	customer
+1051 	BRAZIL 	customer
+1057 	UNITED STATES 	customer
+1084 	BRAZIL 	customer
+1091 	PERU 	customer
+1093 	UNITED STATES 	customer
+1094 	BRAZIL 	customer
+1099 	ARGENTINA 	customer
+1101 	CANADA 	customer
+1102 	UNITED STATES 	customer
+1107 	ARGENTINA 	customer
+1120 	BRAZIL 	customer
+1124 	ARGENTINA 	customer
+1125 	CANADA 	customer
+1136 	UNITED STATES 	customer
+1144 	ARGENTINA 	customer
+1145 	BRAZIL 	customer
+1149 	CANADA 	customer
+1153 	CANADA 	customer
+1159 	BRAZIL 	customer
+1160 	UNITED STATES 	customer
+1162 	BRAZIL 	customer
+1163 	BRAZIL 	customer
+1166 	PERU 	customer
+1168 	PERU 	customer
+1183 	ARGENTINA 	customer
+1207 	CANADA 	customer
+1216 	CANADA 	customer
+1234 	ARGENTINA 	customer
+1235 	UNITED STATES 	customer
+1241 	CANADA 	customer
+1242 	BRAZIL 	customer
+1251 	UNITED STATES 	customer
+1253 	ARGENTINA 	customer
+1257 	BRAZIL 	customer
+1258 	CANADA 	customer
+1260 	BRAZIL 	customer
+1262 	CANADA 	customer
+1265 	UNITED STATES 	customer
+1266 	CANADA 	customer
+1267 	UNITED STATES 	customer
+1268 	UNITED STATES 	customer
+1274 	UNITED STATES 	customer
+1288 	CANADA 	customer
+1289 	UNITED STATES 	customer
+1290 	UNITED STATES 	customer
+1295 	UNITED STATES 	customer
+1307 	CANADA 	customer
+1310 	PERU 	customer
+1312 	CANADA 	customer
+1314 	ARGENTINA 	customer
+1329 	PERU 	customer
+1330 	ARGENTINA 	customer
+1333 	BRAZIL 	customer
+1347 	UNITED STATES 	customer
+1350 	CANADA 	customer
+1351 	ARGENTINA 	customer
+1353 	ARGENTINA 	customer
+1358 	CANADA 	customer
+1365 	PERU 	customer
+1377 	PERU 	customer
+1378 	PERU 	customer
+1380 	PERU 	customer
+1385 	CANADA 	customer
+1393 	UNITED STATES 	customer
+1394 	CANADA 	customer
+1396 	CANADA 	customer
+1417 	ARGENTINA 	customer
+1418 	PERU 	customer
+1422 	PERU 	customer
+1425 	ARGENTINA 	customer
+1429 	CANADA 	customer
+1433 	PERU 	customer
+1437 	PERU 	customer
+1438 	PERU 	customer
+1447 	PERU 	customer
+1448 	UNITED STATES 	customer
+1450 	CANADA 	customer
+1451 	BRAZIL 	customer
+1454 	UNITED STATES 	customer
+1455 	CANADA 	customer
+1458 	CANADA 	customer
+1461 	CANADA 	customer
+1462 	PERU 	customer
+1466 	PERU 	customer
+1467 	UNITED STATES 	customer
+1470 	PERU 	customer
+1485 	UNITED STATES 	customer
+1486 	UNITED STATES 	customer
+1487 	PERU 	customer
+1492 	ARGENTINA 	customer
+1493 	UNITED STATES 	customer
+1496 	CANADA 	customer
+1499 	CANADA 	customer
+1503 	BRAZIL 	customer
+1506 	ARGENTINA 	customer
+1510 	ARGENTINA 	customer
+1520 	UNITED STATES 	customer
+1527 	UNITED STATES 	customer
+1529 	BRAZIL 	customer
+1530 	BRAZIL 	customer
+1532 	ARGENTINA 	customer
+1534 	PERU 	customer
+1538 	BRAZIL 	customer
+1539 	PERU 	customer
+1540 	PERU 	customer
+1545 	ARGENTINA 	customer
+1549 	UNITED STATES 	customer
+1553 	ARGENTINA 	customer
+1565 	BRAZIL 	customer
+1567 	UNITED STATES 	customer
+1578 	PERU 	customer
+1579 	CANADA 	customer
+1586 	BRAZIL 	customer
+1587 	PERU 	customer
+1588 	ARGENTINA 	customer
+1595 	CANADA 	customer
+1614 	ARGENTINA 	customer
+1617 	BRAZIL 	customer
+1624 	PERU 	customer
+1630 	UNITED STATES 	customer
+1632 	UNITED STATES 	customer
+1634 	UNITED STATES 	customer
+1638 	PERU 	customer
+1639 	ARGENTINA 	customer
+1646 	UNITED STATES 	customer
+1650 	UNITED STATES 	customer
+1651 	CANADA 	customer
+1671 	BRAZIL 	customer
+1673 	CANADA 	customer
+1674 	CANADA 	customer
+1675 	UNITED STATES 	customer
+1682 	PERU 	customer
+1688 	CANADA 	customer
+1690 	ARGENTINA 	customer
+1697 	UNITED STATES 	customer
+1699 	ARGENTINA 	customer
+1701 	CANADA 	customer
+1706 	BRAZIL 	customer
+1708 	BRAZIL 	customer
+1717 	CANADA 	customer
+1718 	UNITED STATES 	customer
+1722 	ARGENTINA 	customer
+1730 	ARGENTINA 	customer
+1731 	BRAZIL 	customer
+1732 	BRAZIL 	customer
+1744 	PERU 	customer
+1746 	PERU 	customer
+1755 	CANADA 	customer
+1763 	ARGENTINA 	customer
+1768 	PERU 	customer
+1775 	BRAZIL 	customer
+1777 	UNITED STATES 	customer
+1780 	PERU 	customer
+1783 	CANADA 	customer
+1788 	UNITED STATES 	customer
+1792 	ARGENTINA 	customer
+1801 	CANADA 	customer
+1813 	CANADA 	customer
+1826 	CANADA 	customer
+1827 	UNITED STATES 	customer
+1830 	PERU 	customer
+1833 	CANADA 	customer
+1834 	UNITED STATES 	customer
+1840 	CANADA 	customer
+1843 	ARGENTINA 	customer
+1851 	CANADA 	customer
+1859 	ARGENTINA 	customer
+1867 	ARGENTINA 	customer
+1868 	BRAZIL 	customer
+1870 	ARGENTINA 	customer
+1873 	CANADA 	customer
+1874 	PERU 	customer
+1879 	PERU 	customer
+1882 	CANADA 	customer
+1889 	UNITED STATES 	customer
+1893 	ARGENTINA 	customer
+1901 	UNITED STATES 	customer
+1902 	CANADA 	customer
+1904 	UNITED STATES 	customer
+1907 	UNITED STATES 	customer
+1908 	PERU 	customer
+1911 	ARGENTINA 	customer
+1927 	ARGENTINA 	customer
+1937 	CANADA 	customer
+1940 	UNITED STATES 	customer
+1942 	CANADA 	customer
+1943 	CANADA 	customer
+1960 	ARGENTINA 	customer
+1963 	BRAZIL 	customer
+1968 	UNITED STATES 	customer
+1974 	UNITED STATES 	customer
+1977 	BRAZIL 	customer
+1992 	ARGENTINA 	customer
+1994 	ARGENTINA 	customer
+1995 	BRAZIL 	customer
+1996 	PERU 	customer
+1997 	UNITED STATES 	customer
+1999 	BRAZIL 	customer
+2001 	PERU 	customer
+2008 	ARGENTINA 	customer
+2009 	UNITED STATES 	customer
+2014 	BRAZIL 	customer
+2015 	BRAZIL 	customer
+2018 	CANADA 	customer
+2019 	PERU 	customer
+2020 	UNITED STATES 	customer
+2026 	ARGENTINA 	customer
+2034 	ARGENTINA 	customer
+2037 	CANADA 	customer
+2064 	BRAZIL 	customer
+2066 	PERU 	customer
+2068 	UNITED STATES 	customer
+2077 	BRAZIL 	customer
+2083 	CANADA 	customer
+2086 	BRAZIL 	customer
+2087 	UNITED STATES 	customer
+2088 	BRAZIL 	customer
+2090 	PERU 	customer
+2095 	ARGENTINA 	customer
+2102 	PERU 	customer
+2104 	UNITED STATES 	customer
+2106 	PERU 	customer
+2107 	PERU 	customer
+2109 	BRAZIL 	customer
+2113 	PERU 	customer
+2115 	PERU 	customer
+2123 	ARGENTINA 	customer
+2136 	ARGENTINA 	customer
+2151 	PERU 	customer
+2155 	BRAZIL 	customer
+2159 	CANADA 	customer
+2164 	CANADA 	customer
+2172 	PERU 	customer
+2175 	BRAZIL 	customer
+2176 	BRAZIL 	customer
+2185 	UNITED STATES 	customer
+2189 	CANADA 	customer
+2198 	ARGENTINA 	customer
+2211 	ARGENTINA 	customer
+2212 	BRAZIL 	customer
+2215 	CANADA 	customer
+2223 	UNITED STATES 	customer
+2227 	CANADA 	customer
+2232 	PERU 	customer
+2235 	UNITED STATES 	customer
+2238 	PERU 	customer
+2246 	PERU 	customer
+2248 	ARGENTINA 	customer
+2249 	UNITED STATES 	customer
+2252 	ARGENTINA 	customer
+2255 	CANADA 	customer
+2256 	UNITED STATES 	customer
+2258 	PERU 	customer
+2261 	UNITED STATES 	customer
+2262 	UNITED STATES 	customer
+2263 	BRAZIL 	customer
+2273 	BRAZIL 	customer
+2281 	UNITED STATES 	customer
+2287 	CANADA 	customer
+2296 	PERU 	customer
+2297 	PERU 	customer
+2301 	ARGENTINA 	customer
+2306 	BRAZIL 	customer
+2313 	CANADA 	customer
+2317 	PERU 	customer
+2322 	BRAZIL 	customer
+2326 	UNITED STATES 	customer
+2340 	BRAZIL 	customer
+2357 	UNITED STATES 	customer
+2361 	UNITED STATES 	customer
+2362 	CANADA 	customer
+2367 	UNITED STATES 	customer
+2368 	CANADA 	customer
+2372 	UNITED STATES 	customer
+2373 	UNITED STATES 	customer
+2379 	PERU 	customer
+2382 	CANADA 	customer
+2384 	ARGENTINA 	customer
+2385 	ARGENTINA 	customer
+2386 	PERU 	customer
+2388 	BRAZIL 	customer
+2389 	BRAZIL 	customer
+2391 	UNITED STATES 	customer
+2396 	ARGENTINA 	customer
+2399 	ARGENTINA 	customer
+2407 	PERU 	customer
+2408 	CANADA 	customer
+2410 	UNITED STATES 	customer
+2411 	PERU 	customer
+2414 	PERU 	customer
+2416 	PERU 	customer
+2418 	CANADA 	customer
+2423 	UNITED STATES 	customer
+2424 	ARGENTINA 	customer
+2432 	ARGENTINA 	customer
+2441 	ARGENTINA 	customer
+2444 	BRAZIL 	customer
+2457 	UNITED STATES 	customer
+2460 	ARGENTINA 	customer
+2461 	ARGENTINA 	customer
+2463 	ARGENTINA 	customer
+2470 	CANADA 	customer
+2474 	BRAZIL 	customer
+2480 	CANADA 	customer
+2482 	UNITED STATES 	customer
+2484 	CANADA 	customer
+2487 	UNITED STATES 	customer
+2493 	UNITED STATES 	customer
+2496 	ARGENTINA 	customer
+2501 	PERU 	customer
+2507 	BRAZIL 	customer
+2513 	CANADA 	customer
+2520 	PERU 	customer
+2528 	PERU 	customer
+2532 	CANADA 	customer
+2536 	BRAZIL 	customer
+2543 	UNITED STATES 	customer
+2544 	PERU 	customer
+2545 	ARGENTINA 	customer
+2553 	PERU 	customer
+2554 	UNITED STATES 	customer
+2558 	BRAZIL 	customer
+2560 	BRAZIL 	customer
+2562 	PERU 	customer
+2569 	PERU 	customer
+2583 	CANADA 	customer
+2584 	UNITED STATES 	customer
+2585 	CANADA 	customer
+2587 	UNITED STATES 	customer
+2589 	BRAZIL 	customer
+2594 	ARGENTINA 	customer
+2597 	PERU 	customer
+2598 	BRAZIL 	customer
+2602 	BRAZIL 	customer
+2605 	UNITED STATES 	customer
+2607 	BRAZIL 	customer
+2609 	CANADA 	customer
+2611 	PERU 	customer
+2612 	BRAZIL 	customer
+2613 	BRAZIL 	customer
+2616 	UNITED STATES 	customer
+2617 	UNITED STATES 	customer
+2619 	PERU 	customer
+2623 	UNITED STATES 	customer
+2629 	PERU 	customer
+2630 	ARGENTINA 	customer
+2648 	CANADA 	customer
+2652 	UNITED STATES 	customer
+2659 	BRAZIL 	customer
+2661 	UNITED STATES 	customer
+2678 	BRAZIL 	customer
+2682 	BRAZIL 	customer
+2684 	BRAZIL 	customer
+2690 	PERU 	customer
+2693 	BRAZIL 	customer
+2696 	PERU 	customer
+2701 	PERU 	customer
+2703 	BRAZIL 	customer
+2713 	ARGENTINA 	customer
+2716 	ARGENTINA 	customer
+2723 	ARGENTINA 	customer
+2726 	CANADA 	customer
+2729 	UNITED STATES 	customer
+2733 	UNITED STATES 	customer
+2734 	ARGENTINA 	customer
+2739 	UNITED STATES 	customer
+2740 	PERU 	customer
+2741 	UNITED STATES 	customer
+2754 	UNITED STATES 	customer
+2769 	UNITED STATES 	customer
+2771 	ARGENTINA 	customer
+2777 	PERU 	customer
+2783 	PERU 	customer
+2799 	BRAZIL 	customer
+2808 	PERU 	customer
+2817 	UNITED STATES 	customer
+2818 	CANADA 	customer
+2820 	PERU 	customer
+2822 	UNITED STATES 	customer
+2828 	CANADA 	customer
+2829 	ARGENTINA 	customer
+2830 	BRAZIL 	customer
+2836 	BRAZIL 	customer
+2837 	UNITED STATES 	customer
+2844 	ARGENTINA 	customer
+2853 	PERU 	customer
+2856 	ARGENTINA 	customer
+2861 	BRAZIL 	customer
+2866 	PERU 	customer
+2874 	UNITED STATES 	customer
+2877 	UNITED STATES 	customer
+2878 	CANADA 	customer
+2879 	ARGENTINA 	customer
+2885 	CANADA 	customer
+2886 	PERU 	customer
+2889 	PERU 	customer
+2890 	UNITED STATES 	customer
+2894 	PERU 	customer
+2895 	CANADA 	customer
+2903 	CANADA 	customer
+2904 	BRAZIL 	customer
+2908 	BRAZIL 	customer
+2910 	ARGENTINA 	customer
+2917 	PERU 	customer
+2918 	UNITED STATES 	customer
+2922 	BRAZIL 	customer
+2930 	UNITED STATES 	customer
+2932 	BRAZIL 	customer
+2935 	PERU 	customer
+2937 	BRAZIL 	customer
+2941 	UNITED STATES 	customer
+2948 	BRAZIL 	customer
+2957 	ARGENTINA 	customer
+2968 	ARGENTINA 	customer
+2973 	BRAZIL 	customer
+2974 	PERU 	customer
+2982 	CANADA 	customer
+2983 	UNITED STATES 	customer
+2985 	BRAZIL 	customer
+2990 	PERU 	customer
+2994 	CANADA 	customer
+2995 	BRAZIL 	customer
+2996 	PERU 	customer
+2998 	PERU 	customer
+3002 	CANADA 	customer
+3006 	BRAZIL 	customer
+3014 	CANADA 	customer
+3015 	ARGENTINA 	customer
+3027 	BRAZIL 	customer
+3032 	UNITED STATES 	customer
+3033 	ARGENTINA 	customer
+3038 	UNITED STATES 	customer
+3043 	UNITED STATES 	customer
+3046 	CANADA 	customer
+3048 	UNITED STATES 	customer
+3052 	ARGENTINA 	customer
+3059 	ARGENTINA 	customer
+3060 	CANADA 	customer
+3061 	CANADA 	customer
+3063 	BRAZIL 	customer
+3064 	PERU 	customer
+3069 	ARGENTINA 	customer
+3073 	ARGENTINA 	customer
+3075 	PERU 	customer
+3077 	CANADA 	customer
+3080 	ARGENTINA 	customer
+3081 	PERU 	customer
+3087 	UNITED STATES 	customer
+3088 	ARGENTINA 	customer
+3091 	BRAZIL 	customer
+3094 	CANADA 	customer
+3100 	ARGENTINA 	customer
+3111 	ARGENTINA 	customer
+3124 	UNITED STATES 	customer
+3132 	BRAZIL 	customer
+3138 	ARGENTINA 	customer
+3143 	ARGENTINA 	customer
+3145 	CANADA 	customer
+3146 	CANADA 	customer
+3149 	UNITED STATES 	customer
+3150 	CANADA 	customer
+3158 	PERU 	customer
+3159 	UNITED STATES 	customer
+3161 	ARGENTINA 	customer
+3173 	UNITED STATES 	customer
+3174 	UNITED STATES 	customer
+3175 	ARGENTINA 	customer
+3176 	PERU 	customer
+3187 	CANADA 	customer
+3200 	PERU 	customer
+3205 	ARGENTINA 	customer
+3211 	ARGENTINA 	customer
+3217 	PERU 	customer
+3220 	PERU 	customer
+3222 	UNITED STATES 	customer
+3225 	PERU 	customer
+3226 	ARGENTINA 	customer
+3239 	PERU 	customer
+3240 	PERU 	customer
+3241 	BRAZIL 	customer
+3244 	ARGENTINA 	customer
+3247 	CANADA 	customer
+3248 	CANADA 	customer
+3249 	UNITED STATES 	customer
+3257 	CANADA 	customer
+3273 	PERU 	customer
+3275 	ARGENTINA 	customer
+3276 	PERU 	customer
+3305 	PERU 	customer
+3306 	PERU 	customer
+3316 	CANADA 	customer
+3317 	UNITED STATES 	customer
+3320 	CANADA 	customer
+3328 	CANADA 	customer
+3335 	BRAZIL 	customer
+3338 	CANADA 	customer
+3351 	UNITED STATES 	customer
+3354 	UNITED STATES 	customer
+3360 	BRAZIL 	customer
+3364 	BRAZIL 	customer
+3373 	UNITED STATES 	customer
+3374 	BRAZIL 	customer
+3376 	BRAZIL 	customer
+3383 	PERU 	customer
+3385 	BRAZIL 	customer
+3389 	ARGENTINA 	customer
+3390 	BRAZIL 	customer
+3391 	CANADA 	customer
+3393 	PERU 	customer
+3399 	BRAZIL 	customer
+3405 	BRAZIL 	customer
+3407 	BRAZIL 	customer
+3409 	CANADA 	customer
+3411 	BRAZIL 	customer
+3421 	CANADA 	customer
+3430 	CANADA 	customer
+3433 	UNITED STATES 	customer
+3437 	PERU 	customer
+3442 	ARGENTINA 	customer
+3443 	BRAZIL 	customer
+3446 	UNITED STATES 	customer
+3452 	UNITED STATES 	customer
+3456 	UNITED STATES 	customer
+3458 	ARGENTINA 	customer
+3468 	ARGENTINA 	customer
+3475 	UNITED STATES 	customer
+3485 	PERU 	customer
+3492 	BRAZIL 	customer
+3496 	BRAZIL 	customer
+3507 	CANADA 	customer
+3519 	BRAZIL 	customer
+3522 	CANADA 	customer
+3535 	PERU 	customer
+3538 	UNITED STATES 	customer
+3539 	UNITED STATES 	customer
+3542 	CANADA 	customer
+3566 	ARGENTINA 	customer
+3569 	CANADA 	customer
+3571 	PERU 	customer
+3572 	BRAZIL 	customer
+3573 	CANADA 	customer
+3581 	UNITED STATES 	customer
+3582 	ARGENTINA 	customer
+3584 	BRAZIL 	customer
+3586 	ARGENTINA 	customer
+3589 	CANADA 	customer
+3590 	UNITED STATES 	customer
+3591 	BRAZIL 	customer
+3592 	ARGENTINA 	customer
+3593 	PERU 	customer
+3595 	BRAZIL 	customer
+3616 	PERU 	customer
+3622 	UNITED STATES 	customer
+3625 	PERU 	customer
+3627 	ARGENTINA 	customer
+3632 	ARGENTINA 	customer
+3638 	BRAZIL 	customer
+3644 	BRAZIL 	customer
+3650 	PERU 	customer
+3652 	UNITED STATES 	customer
+3657 	CANADA 	customer
+3658 	CANADA 	customer
+3660 	BRAZIL 	customer
+3663 	UNITED STATES 	customer
+3673 	BRAZIL 	customer
+3674 	BRAZIL 	customer
+3675 	CANADA 	customer
+3678 	CANADA 	customer
+3679 	BRAZIL 	customer
+3683 	PERU 	customer
+3684 	PERU 	customer
+3685 	BRAZIL 	customer
+3686 	UNITED STATES 	customer
+3687 	CANADA 	customer
+3700 	UNITED STATES 	customer
+3707 	UNITED STATES 	customer
+3726 	CANADA 	customer
+3735 	PERU 	customer
+3740 	CANADA 	customer
+3745 	BRAZIL 	customer
+3758 	CANADA 	customer
+3762 	CANADA 	customer
+3768 	PERU 	customer
+3782 	PERU 	customer
+3791 	CANADA 	customer
+3794 	PERU 	customer
+3797 	BRAZIL 	customer
+3807 	CANADA 	customer
+3808 	ARGENTINA 	customer
+3822 	PERU 	customer
+3832 	ARGENTINA 	customer
+3834 	UNITED STATES 	customer
+3843 	BRAZIL 	customer
+3844 	ARGENTINA 	customer
+3850 	ARGENTINA 	customer
+3853 	BRAZIL 	customer
+3876 	PERU 	customer
+3878 	CANADA 	customer
+3890 	PERU 	customer
+3891 	ARGENTINA 	customer
+3892 	CANADA 	customer
+3896 	UNITED STATES 	customer
+3899 	PERU 	customer
+3903 	CANADA 	customer
+3914 	BRAZIL 	customer
+3917 	CANADA 	customer
+3920 	CANADA 	customer
+3929 	ARGENTINA 	customer
+3932 	BRAZIL 	customer
+3936 	PERU 	customer
+3938 	UNITED STATES 	customer
+3944 	PERU 	customer
+3945 	ARGENTINA 	customer
+3951 	BRAZIL 	customer
+3961 	ARGENTINA 	customer
+3962 	ARGENTINA 	customer
+3976 	ARGENTINA 	customer
+3987 	ARGENTINA 	customer
+3998 	ARGENTINA 	customer
+4001 	ARGENTINA 	customer
+4008 	UNITED STATES 	customer
+4018 	ARGENTINA 	customer
+4021 	BRAZIL 	customer
+4024 	UNITED STATES 	customer
+4031 	PERU 	customer
+4036 	BRAZIL 	customer
+4043 	UNITED STATES 	customer
+4045 	UNITED STATES 	customer
+4053 	ARGENTINA 	customer
+4057 	UNITED STATES 	customer
+4061 	UNITED STATES 	customer
+4064 	UNITED STATES 	customer
+4066 	UNITED STATES 	customer
+4068 	CANADA 	customer
+4071 	ARGENTINA 	customer
+4073 	ARGENTINA 	customer
+4074 	UNITED STATES 	customer
+4082 	UNITED STATES 	customer
+4084 	ARGENTINA 	customer
+4095 	UNITED STATES 	customer
+4097 	CANADA 	customer
+4098 	PERU 	customer
+4112 	PERU 	customer
+4116 	CANADA 	customer
+4123 	PERU 	customer
+4124 	ARGENTINA 	customer
+4129 	CANADA 	customer
+4132 	ARGENTINA 	customer
+4141 	CANADA 	customer
+4142 	PERU 	customer
+4144 	PERU 	customer
+4147 	UNITED STATES 	customer
+4149 	PERU 	customer
+4151 	PERU 	customer
+4155 	UNITED STATES 	customer
+4157 	CANADA 	customer
+4160 	ARGENTINA 	customer
+4163 	CANADA 	customer
+4165 	UNITED STATES 	customer
+4172 	ARGENTINA 	customer
+4175 	CANADA 	customer
+4185 	ARGENTINA 	customer
+4189 	CANADA 	customer
+4192 	UNITED STATES 	customer
+4195 	PERU 	customer
+4207 	CANADA 	customer
+4211 	CANADA 	customer
+4223 	UNITED STATES 	customer
+4224 	ARGENTINA 	customer
+4225 	ARGENTINA 	customer
+4230 	ARGENTINA 	customer
+4238 	ARGENTINA 	customer
+4241 	PERU 	customer
+4247 	UNITED STATES 	customer
+4251 	CANADA 	customer
+4263 	CANADA 	customer
+4267 	ARGENTINA 	customer
+4268 	UNITED STATES 	customer
+4275 	CANADA 	customer
+4281 	BRAZIL 	customer
+4282 	CANADA 	customer
+4286 	ARGENTINA 	customer
+4288 	UNITED STATES 	customer
+4292 	UNITED STATES 	customer
+4293 	UNITED STATES 	customer
+4294 	PERU 	customer
+4309 	BRAZIL 	customer
+4310 	BRAZIL 	customer
+4318 	ARGENTINA 	customer
+4330 	UNITED STATES 	customer
+4331 	BRAZIL 	customer
+4348 	PERU 	customer
+4353 	PERU 	customer
+4354 	BRAZIL 	customer
+4367 	BRAZIL 	customer
+4368 	BRAZIL 	customer
+4374 	UNITED STATES 	customer
+4381 	BRAZIL 	customer
+4383 	CANADA 	customer
+4385 	ARGENTINA 	customer
+4390 	ARGENTINA 	customer
+4393 	PERU 	customer
+4397 	PERU 	customer
+4398 	BRAZIL 	customer
+4401 	CANADA 	customer
+4406 	CANADA 	customer
+4408 	ARGENTINA 	customer
+4420 	PERU 	customer
+4422 	BRAZIL 	customer
+4427 	PERU 	customer
+4435 	PERU 	customer
+4448 	CANADA 	customer
+4449 	ARGENTINA 	customer
+4451 	CANADA 	customer
+4453 	CANADA 	customer
+4454 	UNITED STATES 	customer
+4455 	ARGENTINA 	customer
+4457 	CANADA 	customer
+4463 	ARGENTINA 	customer
+4464 	UNITED STATES 	customer
+4465 	BRAZIL 	customer
+4469 	PERU 	customer
+4471 	BRAZIL 	customer
+4473 	ARGENTINA 	customer
+4477 	CANADA 	customer
+4479 	UNITED STATES 	customer
+4484 	ARGENTINA 	customer
+4485 	ARGENTINA 	customer
+4493 	BRAZIL 	customer
+4501 	CANADA 	customer
+4503 	CANADA 	customer
+4509 	BRAZIL 	customer
+4515 	ARGENTINA 	customer
+4516 	BRAZIL 	customer
+4526 	BRAZIL 	customer
+4527 	CANADA 	customer
+4529 	BRAZIL 	customer
+4530 	ARGENTINA 	customer
+4535 	CANADA 	customer
+4538 	CANADA 	customer
+4539 	CANADA 	customer
+4547 	BRAZIL 	customer
+4550 	UNITED STATES 	customer
+4555 	BRAZIL 	customer
+4564 	UNITED STATES 	customer
+4566 	PERU 	customer
+4573 	PERU 	customer
+4574 	UNITED STATES 	customer
+4580 	CANADA 	customer
+4585 	UNITED STATES 	customer
+4586 	CANADA 	customer
+4587 	UNITED STATES 	customer
+4597 	BRAZIL 	customer
+4599 	PERU 	customer
+4601 	CANADA 	customer
+4602 	ARGENTINA 	customer
+4603 	UNITED STATES 	customer
+4604 	BRAZIL 	customer
+4616 	CANADA 	customer
+4618 	CANADA 	customer
+4619 	PERU 	customer
+4621 	ARGENTINA 	customer
+4627 	CANADA 	customer
+4634 	UNITED STATES 	customer
+4650 	BRAZIL 	customer
+4656 	ARGENTINA 	customer
+4657 	CANADA 	customer
+4672 	CANADA 	customer
+4685 	CANADA 	customer
+4691 	BRAZIL 	customer
+4694 	PERU 	customer
+4696 	PERU 	customer
+4712 	BRAZIL 	customer
+4715 	UNITED STATES 	customer
+4725 	UNITED STATES 	customer
+4728 	UNITED STATES 	customer
+4732 	ARGENTINA 	customer
+4750 	BRAZIL 	customer
+4775 	BRAZIL 	customer
+4783 	BRAZIL 	customer
+4784 	CANADA 	customer
+4785 	CANADA 	customer
+4787 	UNITED STATES 	customer
+4790 	BRAZIL 	customer
+4792 	BRAZIL 	customer
+4795 	PERU 	customer
+4798 	CANADA 	customer
+4803 	CANADA 	customer
+4806 	PERU 	customer
+4809 	UNITED STATES 	customer
+4817 	ARGENTINA 	customer
+4822 	PERU 	customer
+4825 	CANADA 	customer
+4841 	CANADA 	customer
+4842 	ARGENTINA 	customer
+4846 	ARGENTINA 	customer
+4855 	PERU 	customer
+4857 	BRAZIL 	customer
+4862 	PERU 	customer
+4864 	UNITED STATES 	customer
+4871 	UNITED STATES 	customer
+4899 	ARGENTINA 	customer
+4901 	ARGENTINA 	customer
+4902 	UNITED STATES 	customer
+4904 	ARGENTINA 	customer
+4907 	PERU 	customer
+4911 	ARGENTINA 	customer
+4914 	UNITED STATES 	customer
+4916 	BRAZIL 	customer
+4943 	UNITED STATES 	customer
+4949 	ARGENTINA 	customer
+4959 	UNITED STATES 	customer
+4964 	BRAZIL 	customer
+4968 	UNITED STATES 	customer
+4971 	ARGENTINA 	customer
+4975 	ARGENTINA 	customer
+4982 	PERU 	customer
+4998 	UNITED STATES 	customer
+4999 	UNITED STATES 	customer
+5003 	UNITED STATES 	customer
+5015 	BRAZIL 	customer
+5018 	CANADA 	customer
+5021 	BRAZIL 	customer
+5022 	ARGENTINA 	customer
+5025 	ARGENTINA 	customer
+5026 	BRAZIL 	customer
+5028 	CANADA 	customer
+5040 	UNITED STATES 	customer
+5047 	PERU 	customer
+5049 	PERU 	customer
+5051 	CANADA 	customer
+5053 	CANADA 	customer
+5054 	UNITED STATES 	customer
+5057 	ARGENTINA 	customer
+5065 	ARGENTINA 	customer
+5074 	UNITED STATES 	customer
+5077 	PERU 	customer
+5080 	PERU 	customer
+5091 	UNITED STATES 	customer
+5114 	BRAZIL 	customer
+5116 	CANADA 	customer
+5117 	CANADA 	customer
+5119 	UNITED STATES 	customer
+5120 	BRAZIL 	customer
+5132 	PERU 	customer
+5143 	PERU 	customer
+5154 	PERU 	customer
+5156 	PERU 	customer
+5165 	CANADA 	customer
+5166 	CANADA 	customer
+5178 	PERU 	customer
+5183 	PERU 	customer
+5184 	CANADA 	customer
+5193 	ARGENTINA 	customer
+5196 	ARGENTINA 	customer
+5199 	UNITED STATES 	customer
+5205 	BRAZIL 	customer
+5214 	PERU 	customer
+5215 	CANADA 	customer
+5224 	UNITED STATES 	customer
+5233 	ARGENTINA 	customer
+5237 	PERU 	customer
+5241 	CANADA 	customer
+5247 	BRAZIL 	customer
+5254 	PERU 	customer
+5275 	BRAZIL 	customer
+5282 	ARGENTINA 	customer
+5288 	BRAZIL 	customer
+5301 	PERU 	customer
+5307 	UNITED STATES 	customer
+5310 	BRAZIL 	customer
+5312 	CANADA 	customer
+5317 	UNITED STATES 	customer
+5321 	PERU 	customer
+5325 	UNITED STATES 	customer
+5326 	UNITED STATES 	customer
+5328 	PERU 	customer
+5340 	ARGENTINA 	customer
+5346 	UNITED STATES 	customer
+5348 	BRAZIL 	customer
+5355 	PERU 	customer
+5357 	PERU 	customer
+5364 	CANADA 	customer
+5367 	UNITED STATES 	customer
+5379 	PERU 	customer
+5388 	PERU 	customer
+5389 	UNITED STATES 	customer
+5405 	CANADA 	customer
+5414 	BRAZIL 	customer
+5418 	CANADA 	customer
+5419 	BRAZIL 	customer
+5434 	PERU 	customer
+5435 	ARGENTINA 	customer
+5437 	UNITED STATES 	customer
+5439 	CANADA 	customer
+5440 	CANADA 	customer
+5442 	ARGENTINA 	customer
+5443 	PERU 	customer
+5445 	PERU 	customer
+5458 	BRAZIL 	customer
+5464 	UNITED STATES 	customer
+5472 	BRAZIL 	customer
+5473 	PERU 	customer
+5474 	UNITED STATES 	customer
+5489 	PERU 	customer
+5490 	BRAZIL 	customer
+5491 	BRAZIL 	customer
+5501 	PERU 	customer
+5513 	CANADA 	customer
+5518 	ARGENTINA 	customer
+5528 	PERU 	customer
+5531 	CANADA 	customer
+5537 	BRAZIL 	customer
+5542 	PERU 	customer
+5544 	UNITED STATES 	customer
+5545 	BRAZIL 	customer
+5549 	ARGENTINA 	customer
+5551 	UNITED STATES 	customer
+5553 	ARGENTINA 	customer
+5558 	BRAZIL 	customer
+5559 	BRAZIL 	customer
+5562 	BRAZIL 	customer
+5567 	BRAZIL 	customer
+5569 	PERU 	customer
+5574 	PERU 	customer
+5580 	BRAZIL 	customer
+5592 	UNITED STATES 	customer
+5599 	BRAZIL 	customer
+5604 	ARGENTINA 	customer
+5613 	PERU 	customer
+5616 	BRAZIL 	customer
+5621 	PERU 	customer
+5625 	BRAZIL 	customer
+5627 	PERU 	customer
+5639 	ARGENTINA 	customer
+5640 	CANADA 	customer
+5645 	BRAZIL 	customer
+5653 	ARGENTINA 	customer
+5656 	ARGENTINA 	customer
+5666 	ARGENTINA 	customer
+5670 	PERU 	customer
+5675 	BRAZIL 	customer
+5679 	ARGENTINA 	customer
+5700 	UNITED STATES 	customer
+5702 	BRAZIL 	customer
+5710 	ARGENTINA 	customer
+5714 	PERU 	customer
+5715 	PERU 	customer
+5716 	ARGENTINA 	customer
+5719 	CANADA 	customer
+5736 	UNITED STATES 	customer
+5738 	PERU 	customer
+5742 	CANADA 	customer
+5745 	ARGENTINA 	customer
+5761 	BRAZIL 	customer
+5763 	CANADA 	customer
+5769 	PERU 	customer
+5778 	UNITED STATES 	customer
+5783 	UNITED STATES 	customer
+5791 	ARGENTINA 	customer
+5792 	BRAZIL 	customer
+5794 	ARGENTINA 	customer
+5798 	UNITED STATES 	customer
+5803 	UNITED STATES 	customer
+5806 	PERU 	customer
+5808 	ARGENTINA 	customer
+5818 	UNITED STATES 	customer
+5823 	ARGENTINA 	customer
+5829 	PERU 	customer
+5830 	CANADA 	customer
+5837 	ARGENTINA 	customer
+5840 	ARGENTINA 	customer
+5846 	ARGENTINA 	customer
+5852 	PERU 	customer
+5857 	CANADA 	customer
+5858 	CANADA 	customer
+5862 	PERU 	customer
+5870 	ARGENTINA 	customer
+5878 	CANADA 	customer
+5881 	UNITED STATES 	customer
+5884 	CANADA 	customer
+5886 	ARGENTINA 	customer
+5894 	UNITED STATES 	customer
+5902 	PERU 	customer
+5909 	PERU 	customer
+5912 	BRAZIL 	customer
+5914 	ARGENTINA 	customer
+5915 	CANADA 	customer
+5916 	ARGENTINA 	customer
+5934 	BRAZIL 	customer
+5938 	PERU 	customer
+5942 	ARGENTINA 	customer
+5944 	UNITED STATES 	customer
+5945 	CANADA 	customer
+5957 	BRAZIL 	customer
+5960 	BRAZIL 	customer
+5967 	UNITED STATES 	customer
+5977 	ARGENTINA 	customer
+5981 	ARGENTINA 	customer
+5983 	PERU 	customer
+5987 	BRAZIL 	customer
+5988 	CANADA 	customer
+5994 	CANADA 	customer
+6001 	CANADA 	customer
+6008 	BRAZIL 	customer
+6014 	UNITED STATES 	customer
+6024 	CANADA 	customer
+6029 	BRAZIL 	customer
+6031 	UNITED STATES 	customer
+6032 	UNITED STATES 	customer
+6035 	BRAZIL 	customer
+6046 	ARGENTINA 	customer
+6048 	UNITED STATES 	customer
+6056 	BRAZIL 	customer
+6062 	CANADA 	customer
+6071 	CANADA 	customer
+6075 	ARGENTINA 	customer
+6079 	UNITED STATES 	customer
+6080 	BRAZIL 	customer
+6087 	PERU 	customer
+6088 	UNITED STATES 	customer
+6091 	ARGENTINA 	customer
+6095 	PERU 	customer
+6096 	ARGENTINA 	customer
+6097 	BRAZIL 	customer
+6098 	CANADA 	customer
+6101 	ARGENTINA 	customer
+6102 	CANADA 	customer
+6112 	UNITED STATES 	customer
+6117 	UNITED STATES 	customer
+6119 	ARGENTINA 	customer
+6132 	ARGENTINA 	customer
+6135 	ARGENTINA 	customer
+6139 	PERU 	customer
+6143 	ARGENTINA 	customer
+6144 	ARGENTINA 	customer
+6150 	BRAZIL 	customer
+6151 	ARGENTINA 	customer
+6162 	CANADA 	customer
+6168 	UNITED STATES 	customer
+6176 	UNITED STATES 	customer
+6177 	UNITED STATES 	customer
+6181 	BRAZIL 	customer
+6185 	UNITED STATES 	customer
+6190 	BRAZIL 	customer
+6200 	CANADA 	customer
+6209 	BRAZIL 	customer
+6210 	PERU 	customer
+6211 	BRAZIL 	customer
+6229 	PERU 	customer
+6236 	PERU 	customer
+6247 	CANADA 	customer
+6250 	PERU 	customer
+6257 	PERU 	customer
+6264 	PERU 	customer
+6272 	BRAZIL 	customer
+6274 	UNITED STATES 	customer
+6285 	CANADA 	customer
+6289 	PERU 	customer
+6290 	CANADA 	customer
+6293 	CANADA 	customer
+6311 	PERU 	customer
+6314 	UNITED STATES 	customer
+6320 	CANADA 	customer
+6324 	UNITED STATES 	customer
+6334 	UNITED STATES 	customer
+6340 	BRAZIL 	customer
+6354 	ARGENTINA 	customer
+6355 	CANADA 	customer
+6364 	CANADA 	customer
+6367 	BRAZIL 	customer
+6369 	CANADA 	customer
+6370 	CANADA 	customer
+6375 	PERU 	customer
+6379 	ARGENTINA 	customer
+6386 	UNITED STATES 	customer
+6390 	PERU 	customer
+6394 	BRAZIL 	customer
+6395 	PERU 	customer
+6397 	CANADA 	customer
+6403 	UNITED STATES 	customer
+6405 	UNITED STATES 	customer
+6409 	PERU 	customer
+6412 	UNITED STATES 	customer
+6414 	UNITED STATES 	customer
+6416 	BRAZIL 	customer
+6418 	ARGENTINA 	customer
+6421 	CANADA 	customer
+6422 	BRAZIL 	customer
+6434 	BRAZIL 	customer
+6438 	CANADA 	customer
+6446 	BRAZIL 	customer
+6449 	ARGENTINA 	customer
+6450 	UNITED STATES 	customer
+6454 	ARGENTINA 	customer
+6455 	BRAZIL 	customer
+6457 	BRAZIL 	customer
+6464 	ARGENTINA 	customer
+6465 	UNITED STATES 	customer
+6470 	UNITED STATES 	customer
+6471 	ARGENTINA 	customer
+6477 	ARGENTINA 	customer
+6482 	BRAZIL 	customer
+6484 	CANADA 	customer
+6485 	ARGENTINA 	customer
+6490 	ARGENTINA 	customer
+6498 	CANADA 	customer
+6501 	UNITED STATES 	customer
+6509 	UNITED STATES 	customer
+6517 	PERU 	customer
+6520 	BRAZIL 	customer
+6521 	CANADA 	customer
+6522 	BRAZIL 	customer
+6530 	PERU 	customer
+6531 	BRAZIL 	customer
+6532 	ARGENTINA 	customer
+6545 	CANADA 	customer
+6548 	ARGENTINA 	customer
+6560 	CANADA 	customer
+6561 	UNITED STATES 	customer
+6569 	ARGENTINA 	customer
+6574 	PERU 	customer
+6578 	BRAZIL 	customer
+6582 	CANADA 	customer
+6585 	UNITED STATES 	customer
+6587 	PERU 	customer
+6588 	ARGENTINA 	customer
+6589 	BRAZIL 	customer
+6596 	CANADA 	customer
+6597 	BRAZIL 	customer
+6600 	CANADA 	customer
+6601 	CANADA 	customer
+6602 	CANADA 	customer
+6603 	PERU 	customer
+6607 	PERU 	customer
+6608 	ARGENTINA 	customer
+6611 	CANADA 	customer
+6612 	PERU 	customer
+6623 	UNITED STATES 	customer
+6624 	ARGENTINA 	customer
+6632 	BRAZIL 	customer
+6635 	UNITED STATES 	customer
+6636 	UNITED STATES 	customer
+6642 	BRAZIL 	customer
+6655 	UNITED STATES 	customer
+6656 	PERU 	customer
+6657 	CANADA 	customer
+6664 	UNITED STATES 	customer
+6678 	CANADA 	customer
+6680 	PERU 	customer
+6685 	PERU 	customer
+6687 	PERU 	customer
+6693 	UNITED STATES 	customer
+6697 	UNITED STATES 	customer
+6699 	BRAZIL 	customer
+6705 	CANADA 	customer
+6706 	CANADA 	customer
+6712 	PERU 	customer
+6722 	ARGENTINA 	customer
+6731 	BRAZIL 	customer
+6736 	PERU 	customer
+6738 	CANADA 	customer
+6742 	ARGENTINA 	customer
+6747 	CANADA 	customer
+6748 	PERU 	customer
+6752 	PERU 	customer
+6761 	ARGENTINA 	customer
+6771 	UNITED STATES 	customer
+6774 	BRAZIL 	customer
+6791 	UNITED STATES 	customer
+6797 	BRAZIL 	customer
+6800 	UNITED STATES 	customer
+6802 	UNITED STATES 	customer
+6805 	UNITED STATES 	customer
+6806 	CANADA 	customer
+6811 	BRAZIL 	customer
+6852 	UNITED STATES 	customer
+6859 	PERU 	customer
+6863 	ARGENTINA 	customer
+6865 	UNITED STATES 	customer
+6880 	UNITED STATES 	customer
+6882 	BRAZIL 	customer
+6885 	PERU 	customer
+6893 	CANADA 	customer
+6896 	UNITED STATES 	customer
+6901 	PERU 	customer
+6918 	CANADA 	customer
+6928 	BRAZIL 	customer
+6931 	UNITED STATES 	customer
+6935 	CANADA 	customer
+6937 	UNITED STATES 	customer
+6943 	UNITED STATES 	customer
+6946 	UNITED STATES 	customer
+6947 	UNITED STATES 	customer
+6948 	CANADA 	customer
+6952 	ARGENTINA 	customer
+6957 	ARGENTINA 	customer
+6969 	UNITED STATES 	customer
+6979 	CANADA 	customer
+6984 	BRAZIL 	customer
+6987 	PERU 	customer
+6988 	CANADA 	customer
+7004 	UNITED STATES 	customer
+7010 	CANADA 	customer
+7014 	CANADA 	customer
+7015 	CANADA 	customer
+7026 	PERU 	customer
+7029 	PERU 	customer
+7033 	CANADA 	customer
+7052 	CANADA 	customer
+7057 	BRAZIL 	customer
+7070 	BRAZIL 	customer
+7072 	BRAZIL 	customer
+7074 	ARGENTINA 	customer
+7075 	PERU 	customer
+7077 	CANADA 	customer
+7087 	UNITED STATES 	customer
+7095 	CANADA 	customer
+7110 	UNITED STATES 	customer
+7112 	UNITED STATES 	customer
+7120 	PERU 	customer
+7125 	CANADA 	customer
+7127 	PERU 	customer
+7130 	UNITED STATES 	customer
+7131 	BRAZIL 	customer
+7134 	CANADA 	customer
+7137 	PERU 	customer
+7138 	UNITED STATES 	customer
+7140 	ARGENTINA 	customer
+7149 	CANADA 	customer
+7151 	PERU 	customer
+7154 	BRAZIL 	customer
+7162 	BRAZIL 	customer
+7167 	CANADA 	customer
+7188 	BRAZIL 	customer
+7189 	UNITED STATES 	customer
+7196 	ARGENTINA 	customer
+7197 	UNITED STATES 	customer
+7205 	ARGENTINA 	customer
+7210 	BRAZIL 	customer
+7213 	PERU 	customer
+7230 	UNITED STATES 	customer
+7234 	BRAZIL 	customer
+7235 	ARGENTINA 	customer
+7240 	PERU 	customer
+7251 	UNITED STATES 	customer
+7263 	CANADA 	customer
+7268 	ARGENTINA 	customer
+7270 	BRAZIL 	customer
+7271 	BRAZIL 	customer
+7276 	PERU 	customer
+7279 	CANADA 	customer
+7280 	BRAZIL 	customer
+7284 	PERU 	customer
+7288 	UNITED STATES 	customer
+7289 	BRAZIL 	customer
+7291 	CANADA 	customer
+7294 	CANADA 	customer
+7300 	UNITED STATES 	customer
+7301 	ARGENTINA 	customer
+7302 	BRAZIL 	customer
+7314 	CANADA 	customer
+7320 	UNITED STATES 	customer
+7325 	BRAZIL 	customer
+7330 	UNITED STATES 	customer
+7334 	CANADA 	customer
+7337 	ARGENTINA 	customer
+7338 	PERU 	customer
+7343 	PERU 	customer
+7349 	CANADA 	customer
+7353 	BRAZIL 	customer
+7360 	CANADA 	customer
+7362 	CANADA 	customer
+7364 	BRAZIL 	customer
+7370 	PERU 	customer
+7372 	CANADA 	customer
+7375 	ARGENTINA 	customer
+7380 	PERU 	customer
+7382 	ARGENTINA 	customer
+7384 	CANADA 	customer
+7388 	CANADA 	customer
+7392 	UNITED STATES 	customer
+7395 	PERU 	customer
+7396 	BRAZIL 	customer
+7399 	PERU 	customer
+7401 	UNITED STATES 	customer
+7420 	CANADA 	customer
+7426 	ARGENTINA 	customer
+7432 	UNITED STATES 	customer
+7454 	ARGENTINA 	customer
+7455 	UNITED STATES 	customer
+7458 	ARGENTINA 	customer
+7459 	UNITED STATES 	customer
+7463 	BRAZIL 	customer
+7464 	PERU 	customer
+7470 	ARGENTINA 	customer
+7488 	PERU 	customer
+7492 	UNITED STATES 	customer
+7493 	CANADA 	customer
+7499 	ARGENTINA 	customer
+7502 	CANADA 	customer
+7520 	BRAZIL 	customer
+7547 	UNITED STATES 	customer
+7548 	UNITED STATES 	customer
+7552 	UNITED STATES 	customer
+7554 	BRAZIL 	customer
+7555 	CANADA 	customer
+7562 	PERU 	customer
+7567 	CANADA 	customer
+7573 	CANADA 	customer
+7582 	BRAZIL 	customer
+7590 	CANADA 	customer
+7593 	PERU 	customer
+7594 	CANADA 	customer
+7597 	PERU 	customer
+7600 	BRAZIL 	customer
+7601 	ARGENTINA 	customer
+7603 	UNITED STATES 	customer
+7605 	CANADA 	customer
+7608 	CANADA 	customer
+7613 	UNITED STATES 	customer
+7615 	PERU 	customer
+7620 	PERU 	customer
+7626 	BRAZIL 	customer
+7634 	CANADA 	customer
+7641 	PERU 	customer
+7645 	ARGENTINA 	customer
+7652 	ARGENTINA 	customer
+7663 	ARGENTINA 	customer
+7665 	ARGENTINA 	customer
+7668 	PERU 	customer
+7669 	CANADA 	customer
+7677 	BRAZIL 	customer
+7679 	BRAZIL 	customer
+7680 	CANADA 	customer
+7681 	BRAZIL 	customer
+7691 	UNITED STATES 	customer
+7695 	PERU 	customer
+7697 	ARGENTINA 	customer
+7701 	BRAZIL 	customer
+7706 	ARGENTINA 	customer
+7712 	PERU 	customer
+7715 	CANADA 	customer
+7718 	UNITED STATES 	customer
+7721 	ARGENTINA 	customer
+7735 	CANADA 	customer
+7739 	PERU 	customer
+7747 	ARGENTINA 	customer
+7749 	UNITED STATES 	customer
+7754 	ARGENTINA 	customer
+7755 	CANADA 	customer
+7757 	BRAZIL 	customer
+7761 	CANADA 	customer
+7763 	ARGENTINA 	customer
+7766 	UNITED STATES 	customer
+7767 	BRAZIL 	customer
+7769 	CANADA 	customer
+7784 	UNITED STATES 	customer
+7789 	BRAZIL 	customer
+7796 	UNITED STATES 	customer
+7798 	UNITED STATES 	customer
+7801 	ARGENTINA 	customer
+7808 	BRAZIL 	customer
+7817 	BRAZIL 	customer
+7818 	BRAZIL 	customer
+7822 	PERU 	customer
+7823 	UNITED STATES 	customer
+7825 	PERU 	customer
+7826 	PERU 	customer
+7827 	BRAZIL 	customer
+7830 	CANADA 	customer
+7833 	UNITED STATES 	customer
+7835 	UNITED STATES 	customer
+7838 	ARGENTINA 	customer
+7856 	CANADA 	customer
+7860 	ARGENTINA 	customer
+7861 	PERU 	customer
+7871 	PERU 	customer
+7880 	PERU 	customer
+7887 	UNITED STATES 	customer
+7890 	PERU 	customer
+7903 	CANADA 	customer
+7908 	ARGENTINA 	customer
+7923 	UNITED STATES 	customer
+7930 	UNITED STATES 	customer
+7931 	CANADA 	customer
+7950 	PERU 	customer
+7951 	BRAZIL 	customer
+7952 	UNITED STATES 	customer
+7958 	BRAZIL 	customer
+7962 	ARGENTINA 	customer
+7964 	BRAZIL 	customer
+7965 	UNITED STATES 	customer
+7967 	CANADA 	customer
+7969 	CANADA 	customer
+7975 	BRAZIL 	customer
+7980 	PERU 	customer
+7985 	PERU 	customer
+7989 	ARGENTINA 	customer
+7994 	BRAZIL 	customer
+8010 	CANADA 	customer
+8018 	CANADA 	customer
+8020 	PERU 	customer
+8026 	ARGENTINA 	customer
+8033 	ARGENTINA 	customer
+8035 	BRAZIL 	customer
+8036 	ARGENTINA 	customer
+8053 	BRAZIL 	customer
+8054 	ARGENTINA 	customer
+8058 	UNITED STATES 	customer
+8062 	PERU 	customer
+8067 	ARGENTINA 	customer
+8077 	CANADA 	customer
+8088 	ARGENTINA 	customer
+8089 	UNITED STATES 	customer
+8093 	BRAZIL 	customer
+8098 	CANADA 	customer
+8101 	BRAZIL 	customer
+8108 	CANADA 	customer
+8115 	BRAZIL 	customer
+8121 	UNITED STATES 	customer
+8122 	PERU 	customer
+8125 	ARGENTINA 	customer
+8127 	ARGENTINA 	customer
+8133 	PERU 	customer
+8136 	ARGENTINA 	customer
+8141 	CANADA 	customer
+8148 	UNITED STATES 	customer
+8155 	BRAZIL 	customer
+8168 	UNITED STATES 	customer
+8171 	CANADA 	customer
+8172 	CANADA 	customer
+8174 	BRAZIL 	customer
+8179 	CANADA 	customer
+8181 	PERU 	customer
+8186 	PERU 	customer
+8187 	BRAZIL 	customer
+8188 	CANADA 	customer
+8190 	CANADA 	customer
+8191 	BRAZIL 	customer
+8203 	CANADA 	customer
+8206 	ARGENTINA 	customer
+8207 	BRAZIL 	customer
+8215 	ARGENTINA 	customer
+8217 	BRAZIL 	customer
+8227 	BRAZIL 	customer
+8228 	CANADA 	customer
+8230 	BRAZIL 	customer
+8240 	CANADA 	customer
+8241 	CANADA 	customer
+8245 	ARGENTINA 	customer
+8246 	PERU 	customer
+8261 	ARGENTINA 	customer
+8272 	UNITED STATES 	customer
+8276 	UNITED STATES 	customer
+8281 	BRAZIL 	customer
+8283 	CANADA 	customer
+8289 	PERU 	customer
+8297 	ARGENTINA 	customer
+8299 	UNITED STATES 	customer
+8300 	BRAZIL 	customer
+8304 	ARGENTINA 	customer
+8305 	CANADA 	customer
+8311 	UNITED STATES 	customer
+8318 	PERU 	customer
+8320 	UNITED STATES 	customer
+8334 	ARGENTINA 	customer
+8336 	BRAZIL 	customer
+8340 	BRAZIL 	customer
+8341 	ARGENTINA 	customer
+8342 	CANADA 	customer
+8351 	CANADA 	customer
+8372 	ARGENTINA 	customer
+8374 	BRAZIL 	customer
+8375 	CANADA 	customer
+8378 	CANADA 	customer
+8379 	PERU 	customer
+8384 	PERU 	customer
+8385 	ARGENTINA 	customer
+8387 	PERU 	customer
+8388 	ARGENTINA 	customer
+8394 	BRAZIL 	customer
+8396 	UNITED STATES 	customer
+8398 	BRAZIL 	customer
+8399 	PERU 	customer
+8400 	CANADA 	customer
+8401 	PERU 	customer
+8407 	BRAZIL 	customer
+8415 	CANADA 	customer
+8418 	PERU 	customer
+8427 	CANADA 	customer
+8432 	CANADA 	customer
+8438 	UNITED STATES 	customer
+8450 	UNITED STATES 	customer
+8454 	ARGENTINA 	customer
+8455 	CANADA 	customer
+8461 	BRAZIL 	customer
+8467 	CANADA 	customer
+8468 	UNITED STATES 	customer
+8476 	UNITED STATES 	customer
+8479 	UNITED STATES 	customer
+8490 	BRAZIL 	customer
+8493 	UNITED STATES 	customer
+8494 	UNITED STATES 	customer
+8499 	BRAZIL 	customer
+8501 	ARGENTINA 	customer
+8504 	CANADA 	customer
+8506 	UNITED STATES 	customer
+8512 	BRAZIL 	customer
+8514 	ARGENTINA 	customer
+8521 	BRAZIL 	customer
+8523 	PERU 	customer
+8525 	CANADA 	customer
+8527 	BRAZIL 	customer
+8532 	PERU 	customer
+8536 	PERU 	customer
+8554 	UNITED STATES 	customer
+8555 	ARGENTINA 	customer
+8558 	CANADA 	customer
+8563 	UNITED STATES 	customer
+8565 	UNITED STATES 	customer
+8568 	ARGENTINA 	customer
+8591 	BRAZIL 	customer
+8593 	PERU 	customer
+8594 	BRAZIL 	customer
+8596 	CANADA 	customer
+8598 	BRAZIL 	customer
+8600 	BRAZIL 	customer
+8602 	PERU 	customer
+8608 	ARGENTINA 	customer
+8609 	BRAZIL 	customer
+8618 	CANADA 	customer
+8622 	CANADA 	customer
+8624 	PERU 	customer
+8631 	PERU 	customer
+8633 	CANADA 	customer
+8634 	UNITED STATES 	customer
+8636 	BRAZIL 	customer
+8647 	PERU 	customer
+8653 	CANADA 	customer
+8667 	ARGENTINA 	customer
+8679 	CANADA 	customer
+8684 	ARGENTINA 	customer
+8687 	PERU 	customer
+8689 	BRAZIL 	customer
+8694 	CANADA 	customer
+8698 	ARGENTINA 	customer
+8709 	BRAZIL 	customer
+8712 	CANADA 	customer
+8713 	UNITED STATES 	customer
+8714 	CANADA 	customer
+8717 	CANADA 	customer
+8722 	UNITED STATES 	customer
+8727 	CANADA 	customer
+8740 	CANADA 	customer
+8741 	PERU 	customer
+8743 	CANADA 	customer
+8746 	PERU 	customer
+8749 	ARGENTINA 	customer
+8750 	ARGENTINA 	customer
+8751 	BRAZIL 	customer
+8755 	BRAZIL 	customer
+8761 	ARGENTINA 	customer
+8762 	BRAZIL 	customer
+8770 	BRAZIL 	customer
+8772 	ARGENTINA 	customer
+8775 	UNITED STATES 	customer
+8791 	ARGENTINA 	customer
+8796 	UNITED STATES 	customer
+8797 	BRAZIL 	customer
+8804 	BRAZIL 	customer
+8808 	PERU 	customer
+8817 	ARGENTINA 	customer
+8821 	ARGENTINA 	customer
+8825 	BRAZIL 	customer
+8828 	CANADA 	customer
+8829 	ARGENTINA 	customer
+8830 	BRAZIL 	customer
+8835 	BRAZIL 	customer
+8839 	BRAZIL 	customer
+8843 	ARGENTINA 	customer
+8845 	ARGENTINA 	customer
+8862 	ARGENTINA 	customer
+8863 	BRAZIL 	customer
+8866 	UNITED STATES 	customer
+8878 	PERU 	customer
+8879 	PERU 	customer
+8880 	ARGENTINA 	customer
+8887 	PERU 	customer
+8891 	CANADA 	customer
+8895 	UNITED STATES 	customer
+8897 	ARGENTINA 	customer
+8922 	UNITED STATES 	customer
+8929 	UNITED STATES 	customer
+8942 	CANADA 	customer
+8946 	ARGENTINA 	customer
+8951 	ARGENTINA 	customer
+8954 	ARGENTINA 	customer
+8962 	UNITED STATES 	customer
+8963 	UNITED STATES 	customer
+8972 	CANADA 	customer
+8977 	BRAZIL 	customer
+8991 	CANADA 	customer
+8992 	CANADA 	customer
+8993 	BRAZIL 	customer
+8996 	PERU 	customer
+9011 	UNITED STATES 	customer
+9016 	BRAZIL 	customer
+9017 	CANADA 	customer
+9024 	CANADA 	customer
+9029 	ARGENTINA 	customer
+9032 	ARGENTINA 	customer
+9034 	BRAZIL 	customer
+9038 	PERU 	customer
+9040 	PERU 	customer
+9041 	UNITED STATES 	customer
+9042 	CANADA 	customer
+9044 	ARGENTINA 	customer
+9048 	PERU 	customer
+9072 	PERU 	customer
+9081 	UNITED STATES 	customer
+9085 	ARGENTINA 	customer
+9099 	ARGENTINA 	customer
+9100 	CANADA 	customer
+9102 	ARGENTINA 	customer
+9105 	BRAZIL 	customer
+9109 	ARGENTINA 	customer
+9116 	CANADA 	customer
+9118 	CANADA 	customer
+9134 	PERU 	customer
+9136 	ARGENTINA 	customer
+9140 	UNITED STATES 	customer
+9141 	CANADA 	customer
+9149 	ARGENTINA 	customer
+9162 	ARGENTINA 	customer
+9163 	BRAZIL 	customer
+9166 	CANADA 	customer
+9168 	ARGENTINA 	customer
+9169 	PERU 	customer
+9170 	PERU 	customer
+9174 	BRAZIL 	customer
+9176 	ARGENTINA 	customer
+9177 	CANADA 	customer
+9180 	BRAZIL 	customer
+9187 	PERU 	customer
+9200 	CANADA 	customer
+9207 	UNITED STATES 	customer
+9211 	PERU 	customer
+9216 	ARGENTINA 	customer
+9217 	PERU 	customer
+9220 	ARGENTINA 	customer
+9224 	ARGENTINA 	customer
+9235 	UNITED STATES 	customer
+9237 	UNITED STATES 	customer
+9243 	ARGENTINA 	customer
+9246 	ARGENTINA 	customer
+9247 	PERU 	customer
+9250 	PERU 	customer
+9254 	PERU 	customer
+9260 	PERU 	customer
+9266 	ARGENTINA 	customer
+9267 	PERU 	customer
+9272 	UNITED STATES 	customer
+9281 	CANADA 	customer
+9283 	BRAZIL 	customer
+9284 	ARGENTINA 	customer
+9300 	ARGENTINA 	customer
+9301 	ARGENTINA 	customer
+9313 	UNITED STATES 	customer
+9315 	PERU 	customer
+9316 	ARGENTINA 	customer
+9317 	PERU 	customer
+9318 	CANADA 	customer
+9326 	PERU 	customer
+9334 	UNITED STATES 	customer
+9335 	UNITED STATES 	customer
+9336 	PERU 	customer
+9342 	BRAZIL 	customer
+9344 	ARGENTINA 	customer
+9345 	UNITED STATES 	customer
+9348 	PERU 	customer
+9379 	ARGENTINA 	customer
+9381 	PERU 	customer
+9397 	UNITED STATES 	customer
+9398 	UNITED STATES 	customer
+9403 	BRAZIL 	customer
+9405 	BRAZIL 	customer
+9408 	UNITED STATES 	customer
+9412 	ARGENTINA 	customer
+9413 	UNITED STATES 	customer
+9416 	ARGENTINA 	customer
+9425 	PERU 	customer
+9427 	UNITED STATES 	customer
+9435 	ARGENTINA 	customer
+9441 	BRAZIL 	customer
+9447 	PERU 	customer
+9449 	PERU 	customer
+9463 	UNITED STATES 	customer
+9465 	CANADA 	customer
+9469 	ARGENTINA 	customer
+9480 	UNITED STATES 	customer
+9497 	BRAZIL 	customer
+9500 	PERU 	customer
+9502 	UNITED STATES 	customer
+9512 	ARGENTINA 	customer
+9529 	PERU 	customer
+9531 	UNITED STATES 	customer
+9536 	BRAZIL 	customer
+9541 	BRAZIL 	customer
+9548 	BRAZIL 	customer
+9550 	ARGENTINA 	customer
+9563 	CANADA 	customer
+9564 	BRAZIL 	customer
+9568 	ARGENTINA 	customer
+9571 	PERU 	customer
+9573 	UNITED STATES 	customer
+9574 	ARGENTINA 	customer
+9587 	ARGENTINA 	customer
+9603 	ARGENTINA 	customer
+9607 	PERU 	customer
+9608 	BRAZIL 	customer
+9609 	ARGENTINA 	customer
+9622 	ARGENTINA 	customer
+9623 	PERU 	customer
+9625 	UNITED STATES 	customer
+9633 	UNITED STATES 	customer
+9643 	CANADA 	customer
+9647 	ARGENTINA 	customer
+9648 	BRAZIL 	customer
+9653 	PERU 	customer
+9655 	BRAZIL 	customer
+9661 	PERU 	customer
+9667 	UNITED STATES 	customer
+9672 	BRAZIL 	customer
+9674 	UNITED STATES 	customer
+9681 	PERU 	customer
+9684 	CANADA 	customer
+9694 	BRAZIL 	customer
+9698 	PERU 	customer
+9699 	CANADA 	customer
+9700 	PERU 	customer
+9702 	BRAZIL 	customer
+9715 	ARGENTINA 	customer
+9722 	CANADA 	customer
+9749 	UNITED STATES 	customer
+9757 	ARGENTINA 	customer
+9760 	ARGENTINA 	customer
+9782 	UNITED STATES 	customer
+9784 	ARGENTINA 	customer
+9786 	PERU 	customer
+9791 	BRAZIL 	customer
+9797 	PERU 	customer
+9803 	UNITED STATES 	customer
+9809 	UNITED STATES 	customer
+9812 	BRAZIL 	customer
+9817 	CANADA 	customer
+9820 	CANADA 	customer
+9822 	BRAZIL 	customer
+9825 	PERU 	customer
+9829 	ARGENTINA 	customer
+9851 	UNITED STATES 	customer
+9867 	ARGENTINA 	customer
+9869 	BRAZIL 	customer
+9894 	UNITED STATES 	customer
+9895 	BRAZIL 	customer
+9899 	PERU 	customer
+9909 	ARGENTINA 	customer
+9915 	PERU 	customer
+9921 	PERU 	customer
+9929 	UNITED STATES 	customer
+9933 	ARGENTINA 	customer
+9934 	BRAZIL 	customer
+9936 	UNITED STATES 	customer
+9938 	PERU 	customer
+9949 	ARGENTINA 	customer
+9951 	PERU 	customer
+9953 	BRAZIL 	customer
+9980 	UNITED STATES 	customer
+9983 	BRAZIL 	customer
+10005 	ARGENTINA 	customer
+10010 	PERU 	customer
+10020 	UNITED STATES 	customer
+10024 	ARGENTINA 	customer
+10031 	BRAZIL 	customer
+10036 	ARGENTINA 	customer
+10039 	BRAZIL 	customer
+10054 	CANADA 	customer
+10059 	BRAZIL 	customer
+10066 	CANADA 	customer
+10067 	ARGENTINA 	customer
+10074 	PERU 	customer
+10075 	PERU 	customer
+10077 	BRAZIL 	customer
+10088 	CANADA 	customer
+10095 	UNITED STATES 	customer
+10098 	UNITED STATES 	customer
+10102 	PERU 	customer
+10107 	UNITED STATES 	customer
+10109 	CANADA 	customer
+10115 	BRAZIL 	customer
+10125 	BRAZIL 	customer
+10126 	BRAZIL 	customer
+10128 	CANADA 	customer
+10129 	BRAZIL 	customer
+10130 	UNITED STATES 	customer
+10132 	ARGENTINA 	customer
+10139 	CANADA 	customer
+10145 	ARGENTINA 	customer
+10162 	UNITED STATES 	customer
+10169 	UNITED STATES 	customer
+10173 	ARGENTINA 	customer
+10175 	ARGENTINA 	customer
+10177 	UNITED STATES 	customer
+10178 	UNITED STATES 	customer
+10184 	UNITED STATES 	customer
+10191 	BRAZIL 	customer
+10199 	CANADA 	customer
+10200 	ARGENTINA 	customer
+10202 	UNITED STATES 	customer
+10205 	ARGENTINA 	customer
+10209 	BRAZIL 	customer
+10212 	BRAZIL 	customer
+10214 	BRAZIL 	customer
+10215 	BRAZIL 	customer
+10221 	PERU 	customer
+10228 	BRAZIL 	customer
+10231 	UNITED STATES 	customer
+10232 	BRAZIL 	customer
+10233 	ARGENTINA 	customer
+10234 	ARGENTINA 	customer
+10236 	CANADA 	customer
+10238 	ARGENTINA 	customer
+10247 	UNITED STATES 	customer
+10257 	PERU 	customer
+10265 	CANADA 	customer
+10266 	CANADA 	customer
+10268 	UNITED STATES 	customer
+10271 	UNITED STATES 	customer
+10272 	UNITED STATES 	customer
+10281 	PERU 	customer
+10282 	PERU 	customer
+10284 	ARGENTINA 	customer
+10286 	UNITED STATES 	customer
+10305 	UNITED STATES 	customer
+10311 	PERU 	customer
+10314 	CANADA 	customer
+10318 	PERU 	customer
+10324 	CANADA 	customer
+10329 	PERU 	customer
+10339 	ARGENTINA 	customer
+10343 	CANADA 	customer
+10345 	CANADA 	customer
+10350 	UNITED STATES 	customer
+10369 	BRAZIL 	customer
+10378 	UNITED STATES 	customer
+10384 	UNITED STATES 	customer
+10387 	UNITED STATES 	customer
+10397 	ARGENTINA 	customer
+10400 	UNITED STATES 	customer
+10407 	UNITED STATES 	customer
+10408 	CANADA 	customer
+10410 	CANADA 	customer
+10411 	UNITED STATES 	customer
+10415 	CANADA 	customer
+10438 	PERU 	customer
+10439 	BRAZIL 	customer
+10443 	UNITED STATES 	customer
+10444 	CANADA 	customer
+10445 	UNITED STATES 	customer
+10454 	UNITED STATES 	customer
+10463 	PERU 	customer
+10473 	PERU 	customer
+10477 	UNITED STATES 	customer
+10482 	PERU 	customer
+10494 	UNITED STATES 	customer
+10506 	PERU 	customer
+10512 	UNITED STATES 	customer
+10516 	ARGENTINA 	customer
+10527 	PERU 	customer
+10534 	ARGENTINA 	customer
+10535 	UNITED STATES 	customer
+10538 	ARGENTINA 	customer
+10539 	UNITED STATES 	customer
+10546 	PERU 	customer
+10547 	PERU 	customer
+10549 	UNITED STATES 	customer
+10550 	UNITED STATES 	customer
+10552 	BRAZIL 	customer
+10553 	ARGENTINA 	customer
+10556 	BRAZIL 	customer
+10557 	UNITED STATES 	customer
+10561 	PERU 	customer
+10563 	PERU 	customer
+10564 	PERU 	customer
+10565 	UNITED STATES 	customer
+10566 	UNITED STATES 	customer
+10569 	UNITED STATES 	customer
+10582 	PERU 	customer
+10586 	UNITED STATES 	customer
+10603 	ARGENTINA 	customer
+10611 	UNITED STATES 	customer
+10614 	PERU 	customer
+10617 	CANADA 	customer
+10622 	BRAZIL 	customer
+10640 	ARGENTINA 	customer
+10641 	CANADA 	customer
+10644 	CANADA 	customer
+10653 	BRAZIL 	customer
+10657 	CANADA 	customer
+10664 	CANADA 	customer
+10668 	BRAZIL 	customer
+10671 	UNITED STATES 	customer
+10683 	PERU 	customer
+10684 	CANADA 	customer
+10703 	PERU 	customer
+10715 	UNITED STATES 	customer
+10720 	PERU 	customer
+10722 	CANADA 	customer
+10728 	ARGENTINA 	customer
+10729 	CANADA 	customer
+10730 	ARGENTINA 	customer
+10736 	PERU 	customer
+10741 	PERU 	customer
+10747 	PERU 	customer
+10748 	ARGENTINA 	customer
+10751 	CANADA 	customer
+10754 	UNITED STATES 	customer
+10761 	BRAZIL 	customer
+10762 	UNITED STATES 	customer
+10769 	BRAZIL 	customer
+10770 	PERU 	customer
+10782 	PERU 	customer
+10786 	PERU 	customer
+10791 	CANADA 	customer
+10795 	CANADA 	customer
+10807 	CANADA 	customer
+10808 	PERU 	customer
+10811 	UNITED STATES 	customer
+10819 	BRAZIL 	customer
+10821 	BRAZIL 	customer
+10829 	PERU 	customer
+10834 	CANADA 	customer
+10838 	CANADA 	customer
+10841 	PERU 	customer
+10844 	CANADA 	customer
+10845 	ARGENTINA 	customer
+10848 	CANADA 	customer
+10851 	PERU 	customer
+10853 	PERU 	customer
+10858 	BRAZIL 	customer
+10861 	ARGENTINA 	customer
+10862 	PERU 	customer
+10865 	UNITED STATES 	customer
+10868 	ARGENTINA 	customer
+10869 	BRAZIL 	customer
+10876 	BRAZIL 	customer
+10880 	ARGENTINA 	customer
+10884 	ARGENTINA 	customer
+10887 	ARGENTINA 	customer
+10891 	UNITED STATES 	customer
+10904 	PERU 	customer
+10909 	BRAZIL 	customer
+10913 	BRAZIL 	customer
+10916 	BRAZIL 	customer
+10917 	UNITED STATES 	customer
+10921 	UNITED STATES 	customer
+10924 	CANADA 	customer
+10928 	ARGENTINA 	customer
+10930 	PERU 	customer
+10943 	CANADA 	customer
+10944 	PERU 	customer
+10954 	ARGENTINA 	customer
+10956 	UNITED STATES 	customer
+10959 	BRAZIL 	customer
+10961 	BRAZIL 	customer
+10962 	CANADA 	customer
+10964 	UNITED STATES 	customer
+10971 	UNITED STATES 	customer
+10973 	ARGENTINA 	customer
+10981 	UNITED STATES 	customer
+10983 	UNITED STATES 	customer
+10989 	ARGENTINA 	customer
+10990 	PERU 	customer
+10995 	UNITED STATES 	customer
+11001 	BRAZIL 	customer
+11002 	ARGENTINA 	customer
+11011 	CANADA 	customer
+11018 	UNITED STATES 	customer
+11030 	BRAZIL 	customer
+11038 	CANADA 	customer
+11041 	CANADA 	customer
+11046 	ARGENTINA 	customer
+11054 	UNITED STATES 	customer
+11056 	BRAZIL 	customer
+11058 	CANADA 	customer
+11061 	PERU 	customer
+11063 	UNITED STATES 	customer
+11072 	UNITED STATES 	customer
+11077 	CANADA 	customer
+11088 	UNITED STATES 	customer
+11089 	UNITED STATES 	customer
+11090 	ARGENTINA 	customer
+11100 	BRAZIL 	customer
+11105 	UNITED STATES 	customer
+11107 	PERU 	customer
+11113 	CANADA 	customer
+11116 	CANADA 	customer
+11122 	ARGENTINA 	customer
+11138 	UNITED STATES 	customer
+11144 	UNITED STATES 	customer
+11150 	CANADA 	customer
+11163 	PERU 	customer
+11177 	CANADA 	customer
+11184 	UNITED STATES 	customer
+11185 	CANADA 	customer
+11188 	BRAZIL 	customer
+11195 	BRAZIL 	customer
+11201 	BRAZIL 	customer
+11205 	CANADA 	customer
+11210 	ARGENTINA 	customer
+11212 	CANADA 	customer
+11226 	UNITED STATES 	customer
+11227 	BRAZIL 	customer
+11232 	CANADA 	customer
+11241 	ARGENTINA 	customer
+11249 	CANADA 	customer
+11250 	ARGENTINA 	customer
+11256 	BRAZIL 	customer
+11257 	PERU 	customer
+11258 	CANADA 	customer
+11260 	ARGENTINA 	customer
+11264 	PERU 	customer
+11268 	PERU 	customer
+11270 	ARGENTINA 	customer
+11273 	CANADA 	customer
+11289 	UNITED STATES 	customer
+11290 	PERU 	customer
+11292 	ARGENTINA 	customer
+11296 	ARGENTINA 	customer
+11297 	ARGENTINA 	customer
+11311 	PERU 	customer
+11321 	UNITED STATES 	customer
+11325 	UNITED STATES 	customer
+11326 	ARGENTINA 	customer
+11332 	PERU 	customer
+11333 	CANADA 	customer
+11334 	PERU 	customer
+11342 	CANADA 	customer
+11353 	CANADA 	customer
+11354 	ARGENTINA 	customer
+11359 	BRAZIL 	customer
+11363 	PERU 	customer
+11366 	BRAZIL 	customer
+11379 	CANADA 	customer
+11386 	BRAZIL 	customer
+11394 	CANADA 	customer
+11395 	ARGENTINA 	customer
+11396 	UNITED STATES 	customer
+11397 	PERU 	customer
+11401 	UNITED STATES 	customer
+11408 	ARGENTINA 	customer
+11412 	PERU 	customer
+11413 	BRAZIL 	customer
+11417 	PERU 	customer
+11418 	BRAZIL 	customer
+11421 	PERU 	customer
+11423 	CANADA 	customer
+11425 	UNITED STATES 	customer
+11430 	UNITED STATES 	customer
+11435 	PERU 	customer
+11442 	ARGENTINA 	customer
+11443 	UNITED STATES 	customer
+11444 	ARGENTINA 	customer
+11446 	PERU 	customer
+11449 	CANADA 	customer
+11464 	BRAZIL 	customer
+11466 	BRAZIL 	customer
+11468 	CANADA 	customer
+11469 	PERU 	customer
+11475 	CANADA 	customer
+11478 	PERU 	customer
+11489 	CANADA 	customer
+11492 	ARGENTINA 	customer
+11494 	PERU 	customer
+11495 	BRAZIL 	customer
+11496 	BRAZIL 	customer
+11500 	PERU 	customer
+11508 	ARGENTINA 	customer
+11513 	PERU 	customer
+11515 	PERU 	customer
+11517 	PERU 	customer
+11519 	PERU 	customer
+11520 	UNITED STATES 	customer
+11527 	CANADA 	customer
+11531 	CANADA 	customer
+11533 	CANADA 	customer
+11537 	CANADA 	customer
+11548 	ARGENTINA 	customer
+11549 	ARGENTINA 	customer
+11553 	CANADA 	customer
+11554 	ARGENTINA 	customer
+11562 	CANADA 	customer
+11566 	BRAZIL 	customer
+11569 	UNITED STATES 	customer
+11585 	PERU 	customer
+11587 	PERU 	customer
+11590 	BRAZIL 	customer
+11593 	CANADA 	customer
+11594 	BRAZIL 	customer
+11600 	CANADA 	customer
+11604 	ARGENTINA 	customer
+11608 	BRAZIL 	customer
+11615 	ARGENTINA 	customer
+11620 	ARGENTINA 	customer
+11621 	ARGENTINA 	customer
+11625 	ARGENTINA 	customer
+11627 	CANADA 	customer
+11635 	CANADA 	customer
+11636 	ARGENTINA 	customer
+11647 	BRAZIL 	customer
+11651 	ARGENTINA 	customer
+11654 	ARGENTINA 	customer
+11659 	ARGENTINA 	customer
+11665 	CANADA 	customer
+11673 	UNITED STATES 	customer
+11674 	CANADA 	customer
+11675 	CANADA 	customer
+11685 	CANADA 	customer
+11689 	UNITED STATES 	customer
+11696 	ARGENTINA 	customer
+11697 	ARGENTINA 	customer
+11700 	UNITED STATES 	customer
+11702 	BRAZIL 	customer
+11703 	CANADA 	customer
+11708 	PERU 	customer
+11709 	UNITED STATES 	customer
+11714 	BRAZIL 	customer
+11730 	CANADA 	customer
+11739 	PERU 	customer
+11741 	CANADA 	customer
+11744 	ARGENTINA 	customer
+11746 	BRAZIL 	customer
+11748 	CANADA 	customer
+11757 	CANADA 	customer
+11774 	PERU 	customer
+11775 	CANADA 	customer
+11791 	UNITED STATES 	customer
+11796 	BRAZIL 	customer
+11818 	BRAZIL 	customer
+11819 	UNITED STATES 	customer
+11820 	UNITED STATES 	customer
+11828 	CANADA 	customer
+11847 	PERU 	customer
+11856 	PERU 	customer
+11857 	BRAZIL 	customer
+11869 	PERU 	customer
+11878 	PERU 	customer
+11885 	ARGENTINA 	customer
+11890 	UNITED STATES 	customer
+11893 	ARGENTINA 	customer
+11898 	BRAZIL 	customer
+11902 	ARGENTINA 	customer
+11903 	PERU 	customer
+11911 	PERU 	customer
+11914 	UNITED STATES 	customer
+11915 	BRAZIL 	customer
+11916 	ARGENTINA 	customer
+11922 	UNITED STATES 	customer
+11935 	PERU 	customer
+11938 	ARGENTINA 	customer
+11946 	BRAZIL 	customer
+11950 	PERU 	customer
+11951 	ARGENTINA 	customer
+11952 	ARGENTINA 	customer
+11960 	ARGENTINA 	customer
+11967 	BRAZIL 	customer
+11968 	PERU 	customer
+11969 	ARGENTINA 	customer
+11970 	CANADA 	customer
+11975 	UNITED STATES 	customer
+11977 	PERU 	customer
+11992 	BRAZIL 	customer
+12006 	ARGENTINA 	customer
+12011 	PERU 	customer
+12014 	CANADA 	customer
+12015 	CANADA 	customer
+12018 	ARGENTINA 	customer
+12022 	UNITED STATES 	customer
+12027 	BRAZIL 	customer
+12036 	BRAZIL 	customer
+12038 	UNITED STATES 	customer
+12043 	BRAZIL 	customer
+12049 	ARGENTINA 	customer
+12058 	CANADA 	customer
+12062 	PERU 	customer
+12073 	CANADA 	customer
+12077 	BRAZIL 	customer
+12080 	BRAZIL 	customer
+12082 	PERU 	customer
+12084 	CANADA 	customer
+12086 	PERU 	customer
+12089 	BRAZIL 	customer
+12097 	PERU 	customer
+12099 	PERU 	customer
+12106 	UNITED STATES 	customer
+12107 	PERU 	customer
+12112 	PERU 	customer
+12129 	BRAZIL 	customer
+12135 	UNITED STATES 	customer
+12151 	CANADA 	customer
+12153 	CANADA 	customer
+12160 	CANADA 	customer
+12163 	BRAZIL 	customer
+12164 	UNITED STATES 	customer
+12165 	UNITED STATES 	customer
+12168 	PERU 	customer
+12172 	ARGENTINA 	customer
+12195 	CANADA 	customer
+12201 	UNITED STATES 	customer
+12205 	ARGENTINA 	customer
+12209 	UNITED STATES 	customer
+12213 	CANADA 	customer
+12214 	ARGENTINA 	customer
+12240 	PERU 	customer
+12245 	BRAZIL 	customer
+12254 	CANADA 	customer
+12257 	CANADA 	customer
+12273 	UNITED STATES 	customer
+12278 	CANADA 	customer
+12279 	UNITED STATES 	customer
+12282 	CANADA 	customer
+12285 	ARGENTINA 	customer
+12286 	PERU 	customer
+12290 	ARGENTINA 	customer
+12291 	PERU 	customer
+12307 	BRAZIL 	customer
+12308 	BRAZIL 	customer
+12311 	UNITED STATES 	customer
+12314 	CANADA 	customer
+12321 	CANADA 	customer
+12337 	ARGENTINA 	customer
+12338 	ARGENTINA 	customer
+12345 	CANADA 	customer
+12360 	CANADA 	customer
+12367 	UNITED STATES 	customer
+12370 	ARGENTINA 	customer
+12371 	UNITED STATES 	customer
+12379 	ARGENTINA 	customer
+12380 	ARGENTINA 	customer
+12387 	ARGENTINA 	customer
+12389 	ARGENTINA 	customer
+12392 	UNITED STATES 	customer
+12393 	BRAZIL 	customer
+12395 	PERU 	customer
+12396 	ARGENTINA 	customer
+12414 	UNITED STATES 	customer
+12417 	UNITED STATES 	customer
+12421 	UNITED STATES 	customer
+12423 	CANADA 	customer
+12427 	ARGENTINA 	customer
+12431 	BRAZIL 	customer
+12432 	BRAZIL 	customer
+12437 	ARGENTINA 	customer
+12440 	UNITED STATES 	customer
+12443 	UNITED STATES 	customer
+12448 	UNITED STATES 	customer
+12449 	ARGENTINA 	customer
+12451 	CANADA 	customer
+12453 	PERU 	customer
+12459 	CANADA 	customer
+12462 	BRAZIL 	customer
+12477 	BRAZIL 	customer
+12483 	ARGENTINA 	customer
+12486 	PERU 	customer
+12492 	ARGENTINA 	customer
+12495 	BRAZIL 	customer
+12500 	PERU 	customer
+12504 	CANADA 	customer
+12507 	ARGENTINA 	customer
+12515 	UNITED STATES 	customer
+12516 	UNITED STATES 	customer
+12517 	BRAZIL 	customer
+12518 	ARGENTINA 	customer
+12521 	CANADA 	customer
+12527 	CANADA 	customer
+12538 	CANADA 	customer
+12539 	PERU 	customer
+12548 	PERU 	customer
+12561 	PERU 	customer
+12564 	BRAZIL 	customer
+12568 	BRAZIL 	customer
+12570 	BRAZIL 	customer
+12574 	UNITED STATES 	customer
+12576 	PERU 	customer
+12578 	CANADA 	customer
+12585 	PERU 	customer
+12588 	PERU 	customer
+12589 	ARGENTINA 	customer
+12594 	ARGENTINA 	customer
+12606 	UNITED STATES 	customer
+12613 	PERU 	customer
+12614 	CANADA 	customer
+12622 	PERU 	customer
+12625 	CANADA 	customer
+12634 	PERU 	customer
+12639 	BRAZIL 	customer
+12651 	CANADA 	customer
+12653 	UNITED STATES 	customer
+12657 	ARGENTINA 	customer
+12667 	CANADA 	customer
+12671 	UNITED STATES 	customer
+12684 	CANADA 	customer
+12694 	UNITED STATES 	customer
+12707 	CANADA 	customer
+12712 	ARGENTINA 	customer
+12722 	UNITED STATES 	customer
+12724 	PERU 	customer
+12725 	CANADA 	customer
+12727 	CANADA 	customer
+12729 	PERU 	customer
+12736 	UNITED STATES 	customer
+12743 	UNITED STATES 	customer
+12747 	PERU 	customer
+12748 	CANADA 	customer
+12762 	CANADA 	customer
+12767 	ARGENTINA 	customer
+12772 	UNITED STATES 	customer
+12774 	PERU 	customer
+12782 	ARGENTINA 	customer
+12783 	PERU 	customer
+12784 	CANADA 	customer
+12785 	UNITED STATES 	customer
+12786 	CANADA 	customer
+12787 	CANADA 	customer
+12789 	UNITED STATES 	customer
+12797 	CANADA 	customer
+12799 	CANADA 	customer
+12800 	PERU 	customer
+12808 	PERU 	customer
+12813 	BRAZIL 	customer
+12818 	BRAZIL 	customer
+12822 	ARGENTINA 	customer
+12824 	BRAZIL 	customer
+12826 	PERU 	customer
+12834 	UNITED STATES 	customer
+12836 	CANADA 	customer
+12847 	BRAZIL 	customer
+12848 	ARGENTINA 	customer
+12849 	PERU 	customer
+12850 	CANADA 	customer
+12852 	BRAZIL 	customer
+12855 	CANADA 	customer
+12856 	ARGENTINA 	customer
+12857 	PERU 	customer
+12861 	CANADA 	customer
+12862 	BRAZIL 	customer
+12864 	CANADA 	customer
+12868 	UNITED STATES 	customer
+12869 	UNITED STATES 	customer
+12875 	PERU 	customer
+12877 	BRAZIL 	customer
+12879 	ARGENTINA 	customer
+12880 	BRAZIL 	customer
+12881 	ARGENTINA 	customer
+12884 	BRAZIL 	customer
+12890 	CANADA 	customer
+12896 	PERU 	customer
+12901 	CANADA 	customer
+12913 	BRAZIL 	customer
+12922 	CANADA 	customer
+12926 	ARGENTINA 	customer
+12928 	BRAZIL 	customer
+12933 	UNITED STATES 	customer
+12937 	CANADA 	customer
+12940 	CANADA 	customer
+12948 	ARGENTINA 	customer
+12949 	BRAZIL 	customer
+12953 	BRAZIL 	customer
+12958 	BRAZIL 	customer
+12960 	CANADA 	customer
+12961 	BRAZIL 	customer
+12970 	ARGENTINA 	customer
+12976 	BRAZIL 	customer
+12978 	UNITED STATES 	customer
+12981 	UNITED STATES 	customer
+12985 	PERU 	customer
+12996 	UNITED STATES 	customer
+13003 	ARGENTINA 	customer
+13005 	ARGENTINA 	customer
+13007 	CANADA 	customer
+13009 	CANADA 	customer
+13015 	UNITED STATES 	customer
+13021 	ARGENTINA 	customer
+13024 	ARGENTINA 	customer
+13030 	BRAZIL 	customer
+13031 	ARGENTINA 	customer
+13034 	PERU 	customer
+13047 	ARGENTINA 	customer
+13053 	UNITED STATES 	customer
+13070 	ARGENTINA 	customer
+13071 	UNITED STATES 	customer
+13077 	ARGENTINA 	customer
+13083 	BRAZIL 	customer
+13093 	ARGENTINA 	customer
+13100 	UNITED STATES 	customer
+13105 	ARGENTINA 	customer
+13106 	BRAZIL 	customer
+13121 	UNITED STATES 	customer
+13124 	CANADA 	customer
+13125 	UNITED STATES 	customer
+13130 	ARGENTINA 	customer
+13133 	CANADA 	customer
+13135 	CANADA 	customer
+13136 	CANADA 	customer
+13137 	CANADA 	customer
+13143 	CANADA 	customer
+13144 	PERU 	customer
+13147 	ARGENTINA 	customer
+13149 	CANADA 	customer
+13165 	UNITED STATES 	customer
+13179 	CANADA 	customer
+13185 	UNITED STATES 	customer
+13191 	CANADA 	customer
+13208 	BRAZIL 	customer
+13226 	PERU 	customer
+13240 	UNITED STATES 	customer
+13243 	PERU 	customer
+13249 	CANADA 	customer
+13251 	ARGENTINA 	customer
+13268 	CANADA 	customer
+13281 	ARGENTINA 	customer
+13286 	ARGENTINA 	customer
+13287 	BRAZIL 	customer
+13288 	ARGENTINA 	customer
+13289 	BRAZIL 	customer
+13291 	ARGENTINA 	customer
+13293 	ARGENTINA 	customer
+13295 	UNITED STATES 	customer
+13297 	UNITED STATES 	customer
+13304 	UNITED STATES 	customer
+13307 	PERU 	customer
+13309 	PERU 	customer
+13315 	PERU 	customer
+13331 	UNITED STATES 	customer
+13339 	UNITED STATES 	customer
+13345 	CANADA 	customer
+13351 	ARGENTINA 	customer
+13352 	CANADA 	customer
+13358 	BRAZIL 	customer
+13363 	BRAZIL 	customer
+13365 	CANADA 	customer
+13366 	ARGENTINA 	customer
+13367 	UNITED STATES 	customer
+13370 	PERU 	customer
+13387 	ARGENTINA 	customer
+13389 	BRAZIL 	customer
+13391 	BRAZIL 	customer
+13393 	BRAZIL 	customer
+13395 	ARGENTINA 	customer
+13397 	ARGENTINA 	customer
+13398 	BRAZIL 	customer
+13400 	UNITED STATES 	customer
+13401 	PERU 	customer
+13410 	CANADA 	customer
+13417 	UNITED STATES 	customer
+13418 	UNITED STATES 	customer
+13420 	PERU 	customer
+13430 	PERU 	customer
+13434 	UNITED STATES 	customer
+13441 	BRAZIL 	customer
+13443 	ARGENTINA 	customer
+13448 	PERU 	customer
+13454 	CANADA 	customer
+13457 	CANADA 	customer
+13465 	PERU 	customer
+13466 	UNITED STATES 	customer
+13467 	CANADA 	customer
+13468 	ARGENTINA 	customer
+13472 	BRAZIL 	customer
+13476 	CANADA 	customer
+13481 	BRAZIL 	customer
+13488 	CANADA 	customer
+13489 	ARGENTINA 	customer
+13497 	ARGENTINA 	customer
+13499 	PERU 	customer
+13501 	UNITED STATES 	customer
+13502 	BRAZIL 	customer
+13504 	PERU 	customer
+13509 	BRAZIL 	customer
+13517 	UNITED STATES 	customer
+13521 	PERU 	customer
+13524 	BRAZIL 	customer
+13538 	BRAZIL 	customer
+13540 	BRAZIL 	customer
+13550 	UNITED STATES 	customer
+13560 	ARGENTINA 	customer
+13561 	ARGENTINA 	customer
+13571 	UNITED STATES 	customer
+13574 	PERU 	customer
+13576 	CANADA 	customer
+13591 	BRAZIL 	customer
+13593 	ARGENTINA 	customer
+13605 	BRAZIL 	customer
+13607 	BRAZIL 	customer
+13627 	UNITED STATES 	customer
+13631 	UNITED STATES 	customer
+13635 	UNITED STATES 	customer
+13650 	CANADA 	customer
+13681 	BRAZIL 	customer
+13683 	BRAZIL 	customer
+13684 	UNITED STATES 	customer
+13691 	ARGENTINA 	customer
+13699 	UNITED STATES 	customer
+13702 	ARGENTINA 	customer
+13712 	PERU 	customer
+13715 	ARGENTINA 	customer
+13720 	ARGENTINA 	customer
+13726 	PERU 	customer
+13737 	BRAZIL 	customer
+13759 	UNITED STATES 	customer
+13768 	UNITED STATES 	customer
+13771 	CANADA 	customer
+13776 	PERU 	customer
+13779 	BRAZIL 	customer
+13784 	ARGENTINA 	customer
+13786 	PERU 	customer
+13791 	CANADA 	customer
+13793 	PERU 	customer
+13796 	CANADA 	customer
+13799 	ARGENTINA 	customer
+13806 	CANADA 	customer
+13814 	PERU 	customer
+13816 	PERU 	customer
+13817 	CANADA 	customer
+13836 	BRAZIL 	customer
+13837 	CANADA 	customer
+13840 	UNITED STATES 	customer
+13847 	BRAZIL 	customer
+13848 	CANADA 	customer
+13850 	BRAZIL 	customer
+13853 	ARGENTINA 	customer
+13862 	CANADA 	customer
+13863 	CANADA 	customer
+13866 	ARGENTINA 	customer
+13869 	PERU 	customer
+13874 	CANADA 	customer
+13878 	UNITED STATES 	customer
+13880 	UNITED STATES 	customer
+13882 	CANADA 	customer
+13884 	CANADA 	customer
+13886 	CANADA 	customer
+13897 	CANADA 	customer
+13902 	UNITED STATES 	customer
+13904 	UNITED STATES 	customer
+13911 	PERU 	customer
+13914 	UNITED STATES 	customer
+13916 	PERU 	customer
+13918 	CANADA 	customer
+13927 	CANADA 	customer
+13930 	CANADA 	customer
+13940 	PERU 	customer
+13944 	CANADA 	customer
+13956 	UNITED STATES 	customer
+13957 	ARGENTINA 	customer
+13965 	ARGENTINA 	customer
+13985 	ARGENTINA 	customer
+13987 	CANADA 	customer
+14000 	UNITED STATES 	customer
+14002 	PERU 	customer
+14004 	PERU 	customer
+14009 	PERU 	customer
+14010 	PERU 	customer
+14017 	UNITED STATES 	customer
+14021 	ARGENTINA 	customer
+14023 	UNITED STATES 	customer
+14029 	PERU 	customer
+14031 	CANADA 	customer
+14033 	BRAZIL 	customer
+14052 	PERU 	customer
+14053 	UNITED STATES 	customer
+14061 	ARGENTINA 	customer
+14065 	CANADA 	customer
+14067 	ARGENTINA 	customer
+14081 	PERU 	customer
+14088 	PERU 	customer
+14090 	ARGENTINA 	customer
+14093 	ARGENTINA 	customer
+14097 	CANADA 	customer
+14101 	UNITED STATES 	customer
+14116 	UNITED STATES 	customer
+14117 	ARGENTINA 	customer
+14121 	ARGENTINA 	customer
+14130 	BRAZIL 	customer
+14148 	BRAZIL 	customer
+14149 	BRAZIL 	customer
+14150 	BRAZIL 	customer
+14153 	ARGENTINA 	customer
+14154 	CANADA 	customer
+14160 	PERU 	customer
+14166 	CANADA 	customer
+14173 	CANADA 	customer
+14177 	ARGENTINA 	customer
+14201 	ARGENTINA 	customer
+14203 	CANADA 	customer
+14207 	PERU 	customer
+14208 	ARGENTINA 	customer
+14212 	BRAZIL 	customer
+14216 	PERU 	customer
+14229 	UNITED STATES 	customer
+14231 	BRAZIL 	customer
+14233 	UNITED STATES 	customer
+14246 	BRAZIL 	customer
+14254 	PERU 	customer
+14255 	UNITED STATES 	customer
+14257 	CANADA 	customer
+14258 	CANADA 	customer
+14260 	PERU 	customer
+14268 	PERU 	customer
+14272 	CANADA 	customer
+14273 	BRAZIL 	customer
+14281 	CANADA 	customer
+14294 	CANADA 	customer
+14305 	PERU 	customer
+14313 	CANADA 	customer
+14323 	BRAZIL 	customer
+14325 	CANADA 	customer
+14339 	ARGENTINA 	customer
+14340 	CANADA 	customer
+14356 	UNITED STATES 	customer
+14361 	BRAZIL 	customer
+14363 	CANADA 	customer
+14365 	CANADA 	customer
+14366 	UNITED STATES 	customer
+14372 	UNITED STATES 	customer
+14374 	PERU 	customer
+14389 	UNITED STATES 	customer
+14392 	UNITED STATES 	customer
+14394 	BRAZIL 	customer
+14397 	BRAZIL 	customer
+14398 	UNITED STATES 	customer
+14401 	PERU 	customer
+14411 	UNITED STATES 	customer
+14419 	BRAZIL 	customer
+14420 	PERU 	customer
+14422 	CANADA 	customer
+14430 	UNITED STATES 	customer
+14435 	BRAZIL 	customer
+14444 	BRAZIL 	customer
+14448 	BRAZIL 	customer
+14450 	UNITED STATES 	customer
+14454 	CANADA 	customer
+14455 	PERU 	customer
+14457 	ARGENTINA 	customer
+14461 	PERU 	customer
+14465 	CANADA 	customer
+14468 	UNITED STATES 	customer
+14482 	ARGENTINA 	customer
+14487 	BRAZIL 	customer
+14491 	CANADA 	customer
+14492 	CANADA 	customer
+14496 	BRAZIL 	customer
+14497 	UNITED STATES 	customer
+14503 	ARGENTINA 	customer
+14504 	UNITED STATES 	customer
+14508 	PERU 	customer
+14509 	BRAZIL 	customer
+14518 	ARGENTINA 	customer
+14527 	PERU 	customer
+14529 	BRAZIL 	customer
+14536 	BRAZIL 	customer
+14541 	ARGENTINA 	customer
+14542 	ARGENTINA 	customer
+14550 	PERU 	customer
+14554 	ARGENTINA 	customer
+14555 	PERU 	customer
+14560 	ARGENTINA 	customer
+14561 	UNITED STATES 	customer
+14572 	ARGENTINA 	customer
+14578 	PERU 	customer
+14579 	BRAZIL 	customer
+14586 	ARGENTINA 	customer
+14591 	UNITED STATES 	customer
+14599 	BRAZIL 	customer
+14601 	PERU 	customer
+14609 	UNITED STATES 	customer
+14613 	UNITED STATES 	customer
+14617 	BRAZIL 	customer
+14619 	UNITED STATES 	customer
+14626 	ARGENTINA 	customer
+14628 	CANADA 	customer
+14630 	ARGENTINA 	customer
+14637 	UNITED STATES 	customer
+14638 	CANADA 	customer
+14639 	ARGENTINA 	customer
+14640 	CANADA 	customer
+14656 	BRAZIL 	customer
+14666 	BRAZIL 	customer
+14679 	ARGENTINA 	customer
+14684 	ARGENTINA 	customer
+14686 	UNITED STATES 	customer
+14687 	ARGENTINA 	customer
+14700 	PERU 	customer
+14702 	BRAZIL 	customer
+14703 	UNITED STATES 	customer
+14707 	UNITED STATES 	customer
+14711 	BRAZIL 	customer
+14713 	UNITED STATES 	customer
+14714 	ARGENTINA 	customer
+14718 	PERU 	customer
+14719 	CANADA 	customer
+14721 	BRAZIL 	customer
+14723 	UNITED STATES 	customer
+14731 	PERU 	customer
+14732 	BRAZIL 	customer
+14737 	BRAZIL 	customer
+14743 	ARGENTINA 	customer
+14744 	PERU 	customer
+14750 	BRAZIL 	customer
+14751 	BRAZIL 	customer
+14754 	PERU 	customer
+14758 	ARGENTINA 	customer
+14759 	ARGENTINA 	customer
+14762 	UNITED STATES 	customer
+14773 	ARGENTINA 	customer
+14774 	BRAZIL 	customer
+14775 	UNITED STATES 	customer
+14783 	BRAZIL 	customer
+14784 	UNITED STATES 	customer
+14786 	ARGENTINA 	customer
+14787 	ARGENTINA 	customer
+14792 	CANADA 	customer
+14793 	CANADA 	customer
+14795 	ARGENTINA 	customer
+14798 	CANADA 	customer
+14802 	CANADA 	customer
+14806 	ARGENTINA 	customer
+14813 	PERU 	customer
+14814 	BRAZIL 	customer
+14815 	ARGENTINA 	customer
+14827 	ARGENTINA 	customer
+14828 	BRAZIL 	customer
+14835 	ARGENTINA 	customer
+14840 	PERU 	customer
+14841 	CANADA 	customer
+14843 	BRAZIL 	customer
+14851 	BRAZIL 	customer
+14852 	UNITED STATES 	customer
+14882 	BRAZIL 	customer
+14885 	ARGENTINA 	customer
+14890 	UNITED STATES 	customer
+14894 	ARGENTINA 	customer
+14899 	UNITED STATES 	customer
+14902 	BRAZIL 	customer
+14907 	UNITED STATES 	customer
+14923 	BRAZIL 	customer
+14934 	BRAZIL 	customer
+14936 	PERU 	customer
+14937 	PERU 	customer
+14940 	ARGENTINA 	customer
+14946 	CANADA 	customer
+14948 	CANADA 	customer
+14955 	UNITED STATES 	customer
+14961 	ARGENTINA 	customer
+14968 	ARGENTINA 	customer
+14970 	CANADA 	customer
+14971 	UNITED STATES 	customer
+14980 	CANADA 	customer
+14983 	ARGENTINA 	customer
+14988 	PERU 	customer
+15000 	CANADA 	customer
+15022 	PERU 	customer
+15023 	BRAZIL 	customer
+15037 	ARGENTINA 	customer
+15043 	PERU 	customer
+15062 	BRAZIL 	customer
+15064 	UNITED STATES 	customer
+15067 	CANADA 	customer
+15069 	PERU 	customer
+15075 	CANADA 	customer
+15077 	BRAZIL 	customer
+15080 	PERU 	customer
+15081 	ARGENTINA 	customer
+15087 	UNITED STATES 	customer
+15088 	UNITED STATES 	customer
+15119 	CANADA 	customer
+15128 	ARGENTINA 	customer
+15132 	UNITED STATES 	customer
+15138 	UNITED STATES 	customer
+15139 	CANADA 	customer
+15150 	ARGENTINA 	customer
+15152 	UNITED STATES 	customer
+15159 	CANADA 	customer
+15161 	UNITED STATES 	customer
+15167 	UNITED STATES 	customer
+15168 	BRAZIL 	customer
+15171 	UNITED STATES 	customer
+15179 	UNITED STATES 	customer
+15192 	PERU 	customer
+15197 	ARGENTINA 	customer
+15206 	UNITED STATES 	customer
+15216 	ARGENTINA 	customer
+15227 	PERU 	customer
+15228 	CANADA 	customer
+15235 	BRAZIL 	customer
+15237 	CANADA 	customer
+15238 	UNITED STATES 	customer
+15240 	PERU 	customer
+15242 	ARGENTINA 	customer
+15245 	CANADA 	customer
+15251 	PERU 	customer
+15272 	PERU 	customer
+15283 	UNITED STATES 	customer
+15285 	UNITED STATES 	customer
+15293 	ARGENTINA 	customer
+15295 	BRAZIL 	customer
+15306 	CANADA 	customer
+15310 	ARGENTINA 	customer
+15321 	UNITED STATES 	customer
+15323 	UNITED STATES 	customer
+15324 	PERU 	customer
+15326 	UNITED STATES 	customer
+15327 	UNITED STATES 	customer
+15335 	PERU 	customer
+15342 	ARGENTINA 	customer
+15351 	UNITED STATES 	customer
+15353 	BRAZIL 	customer
+15355 	UNITED STATES 	customer
+15360 	CANADA 	customer
+15362 	BRAZIL 	customer
+15370 	BRAZIL 	customer
+15372 	UNITED STATES 	customer
+15381 	BRAZIL 	customer
+15384 	PERU 	customer
+15385 	PERU 	customer
+15390 	PERU 	customer
+15397 	PERU 	customer
+15399 	CANADA 	customer
+15404 	UNITED STATES 	customer
+15405 	ARGENTINA 	customer
+15407 	UNITED STATES 	customer
+15415 	ARGENTINA 	customer
+15416 	UNITED STATES 	customer
+15418 	ARGENTINA 	customer
+15434 	UNITED STATES 	customer
+15438 	PERU 	customer
+15443 	CANADA 	customer
+15445 	UNITED STATES 	customer
+15450 	CANADA 	customer
+15451 	PERU 	customer
+15463 	PERU 	customer
+15473 	CANADA 	customer
+15486 	BRAZIL 	customer
+15489 	UNITED STATES 	customer
+15494 	CANADA 	customer
+15495 	UNITED STATES 	customer
+15502 	BRAZIL 	customer
+15505 	UNITED STATES 	customer
+15506 	BRAZIL 	customer
+15508 	PERU 	customer
+15512 	CANADA 	customer
+15516 	BRAZIL 	customer
+15517 	BRAZIL 	customer
+15522 	BRAZIL 	customer
+15525 	UNITED STATES 	customer
+15562 	UNITED STATES 	customer
+15567 	UNITED STATES 	customer
+15570 	PERU 	customer
+15574 	UNITED STATES 	customer
+15584 	BRAZIL 	customer
+15588 	CANADA 	customer
+15592 	CANADA 	customer
+15593 	BRAZIL 	customer
+15607 	UNITED STATES 	customer
+15610 	ARGENTINA 	customer
+15612 	UNITED STATES 	customer
+15618 	CANADA 	customer
+15620 	PERU 	customer
+15622 	ARGENTINA 	customer
+15627 	BRAZIL 	customer
+15632 	ARGENTINA 	customer
+15636 	PERU 	customer
+15641 	BRAZIL 	customer
+15650 	UNITED STATES 	customer
+15652 	BRAZIL 	customer
+15661 	PERU 	customer
+15665 	ARGENTINA 	customer
+15666 	UNITED STATES 	customer
+15671 	BRAZIL 	customer
+15677 	ARGENTINA 	customer
+15679 	CANADA 	customer
+15684 	PERU 	customer
+15693 	CANADA 	customer
+15696 	BRAZIL 	customer
+15700 	PERU 	customer
+15701 	CANADA 	customer
+15702 	ARGENTINA 	customer
+15706 	PERU 	customer
+15716 	CANADA 	customer
+15717 	UNITED STATES 	customer
+15719 	ARGENTINA 	customer
+15721 	PERU 	customer
+15723 	BRAZIL 	customer
+15724 	CANADA 	customer
+15731 	UNITED STATES 	customer
+15734 	BRAZIL 	customer
+15741 	CANADA 	customer
+15744 	PERU 	customer
+15748 	ARGENTINA 	customer
+15750 	PERU 	customer
+15751 	ARGENTINA 	customer
+15752 	PERU 	customer
+15756 	CANADA 	customer
+15760 	ARGENTINA 	customer
+15761 	BRAZIL 	customer
+15762 	PERU 	customer
+15769 	CANADA 	customer
+15775 	ARGENTINA 	customer
+15776 	BRAZIL 	customer
+15788 	PERU 	customer
+15790 	BRAZIL 	customer
+15797 	UNITED STATES 	customer
+15800 	PERU 	customer
+15803 	CANADA 	customer
+15806 	UNITED STATES 	customer
+15816 	UNITED STATES 	customer
+15820 	PERU 	customer
+15829 	PERU 	customer
+15830 	PERU 	customer
+15831 	CANADA 	customer
+15833 	BRAZIL 	customer
+15837 	PERU 	customer
+15841 	UNITED STATES 	customer
+15850 	UNITED STATES 	customer
+15856 	PERU 	customer
+15872 	CANADA 	customer
+15874 	UNITED STATES 	customer
+15880 	ARGENTINA 	customer
+15884 	PERU 	customer
+15890 	BRAZIL 	customer
+15902 	ARGENTINA 	customer
+15904 	CANADA 	customer
+15909 	UNITED STATES 	customer
+15911 	UNITED STATES 	customer
+15917 	UNITED STATES 	customer
+15928 	UNITED STATES 	customer
+15930 	BRAZIL 	customer
+15938 	BRAZIL 	customer
+15940 	PERU 	customer
+15947 	PERU 	customer
+15949 	PERU 	customer
+15951 	PERU 	customer
+15952 	ARGENTINA 	customer
+15956 	UNITED STATES 	customer
+15964 	CANADA 	customer
+15965 	ARGENTINA 	customer
+15966 	PERU 	customer
+15968 	ARGENTINA 	customer
+15970 	PERU 	customer
+15971 	CANADA 	customer
+15974 	CANADA 	customer
+15978 	BRAZIL 	customer
+15982 	PERU 	customer
+15983 	PERU 	customer
+15984 	UNITED STATES 	customer
+15988 	PERU 	customer
+15990 	ARGENTINA 	customer
+15994 	BRAZIL 	customer
+15997 	CANADA 	customer
+15999 	BRAZIL 	customer
+16005 	CANADA 	customer
+16006 	PERU 	customer
+16012 	BRAZIL 	customer
+16018 	UNITED STATES 	customer
+16032 	ARGENTINA 	customer
+16033 	ARGENTINA 	customer
+16034 	ARGENTINA 	customer
+16035 	ARGENTINA 	customer
+16039 	CANADA 	customer
+16046 	BRAZIL 	customer
+16051 	PERU 	customer
+16052 	BRAZIL 	customer
+16059 	ARGENTINA 	customer
+16068 	CANADA 	customer
+16072 	CANADA 	customer
+16073 	PERU 	customer
+16078 	UNITED STATES 	customer
+16081 	BRAZIL 	customer
+16088 	PERU 	customer
+16095 	ARGENTINA 	customer
+16097 	PERU 	customer
+16099 	BRAZIL 	customer
+16100 	BRAZIL 	customer
+16101 	UNITED STATES 	customer
+16106 	ARGENTINA 	customer
+16116 	PERU 	customer
+16126 	ARGENTINA 	customer
+16128 	UNITED STATES 	customer
+16132 	ARGENTINA 	customer
+16138 	UNITED STATES 	customer
+16139 	PERU 	customer
+16142 	BRAZIL 	customer
+16143 	BRAZIL 	customer
+16147 	BRAZIL 	customer
+16152 	UNITED STATES 	customer
+16154 	UNITED STATES 	customer
+16165 	CANADA 	customer
+16166 	ARGENTINA 	customer
+16168 	PERU 	customer
+16170 	UNITED STATES 	customer
+16178 	PERU 	customer
+16183 	CANADA 	customer
+16187 	PERU 	customer
+16189 	ARGENTINA 	customer
+16193 	PERU 	customer
+16198 	UNITED STATES 	customer
+16203 	PERU 	customer
+16206 	UNITED STATES 	customer
+16207 	UNITED STATES 	customer
+16215 	PERU 	customer
+16218 	PERU 	customer
+16221 	UNITED STATES 	customer
+16237 	PERU 	customer
+16240 	ARGENTINA 	customer
+16242 	ARGENTINA 	customer
+16244 	ARGENTINA 	customer
+16247 	PERU 	customer
+16248 	ARGENTINA 	customer
+16249 	ARGENTINA 	customer
+16253 	CANADA 	customer
+16254 	PERU 	customer
+16272 	ARGENTINA 	customer
+16274 	ARGENTINA 	customer
+16275 	BRAZIL 	customer
+16276 	UNITED STATES 	customer
+16278 	CANADA 	customer
+16279 	CANADA 	customer
+16280 	ARGENTINA 	customer
+16282 	ARGENTINA 	customer
+16295 	CANADA 	customer
+16303 	UNITED STATES 	customer
+16305 	UNITED STATES 	customer
+16308 	CANADA 	customer
+16318 	ARGENTINA 	customer
+16321 	ARGENTINA 	customer
+16332 	UNITED STATES 	customer
+16334 	PERU 	customer
+16339 	UNITED STATES 	customer
+16346 	ARGENTINA 	customer
+16352 	UNITED STATES 	customer
+16355 	BRAZIL 	customer
+16356 	BRAZIL 	customer
+16363 	PERU 	customer
+16370 	CANADA 	customer
+16381 	ARGENTINA 	customer
+16382 	BRAZIL 	customer
+16388 	BRAZIL 	customer
+16390 	UNITED STATES 	customer
+16434 	UNITED STATES 	customer
+16441 	ARGENTINA 	customer
+16445 	ARGENTINA 	customer
+16451 	PERU 	customer
+16453 	BRAZIL 	customer
+16459 	BRAZIL 	customer
+16460 	BRAZIL 	customer
+16463 	CANADA 	customer
+16474 	ARGENTINA 	customer
+16485 	BRAZIL 	customer
+16490 	CANADA 	customer
+16493 	PERU 	customer
+16494 	PERU 	customer
+16501 	PERU 	customer
+16509 	UNITED STATES 	customer
+16510 	PERU 	customer
+16511 	BRAZIL 	customer
+16514 	PERU 	customer
+16524 	CANADA 	customer
+16526 	CANADA 	customer
+16531 	UNITED STATES 	customer
+16535 	UNITED STATES 	customer
+16536 	UNITED STATES 	customer
+16546 	BRAZIL 	customer
+16548 	UNITED STATES 	customer
+16552 	UNITED STATES 	customer
+16557 	BRAZIL 	customer
+16560 	ARGENTINA 	customer
+16563 	ARGENTINA 	customer
+16572 	PERU 	customer
+16584 	BRAZIL 	customer
+16589 	CANADA 	customer
+16590 	BRAZIL 	customer
+16607 	BRAZIL 	customer
+16610 	UNITED STATES 	customer
+16611 	CANADA 	customer
+16619 	BRAZIL 	customer
+16627 	PERU 	customer
+16628 	BRAZIL 	customer
+16629 	CANADA 	customer
+16633 	UNITED STATES 	customer
+16634 	BRAZIL 	customer
+16635 	ARGENTINA 	customer
+16639 	UNITED STATES 	customer
+16648 	PERU 	customer
+16649 	PERU 	customer
+16652 	UNITED STATES 	customer
+16661 	PERU 	customer
+16671 	ARGENTINA 	customer
+16678 	CANADA 	customer
+16692 	CANADA 	customer
+16699 	BRAZIL 	customer
+16701 	UNITED STATES 	customer
+16703 	BRAZIL 	customer
+16708 	BRAZIL 	customer
+16714 	PERU 	customer
+16715 	CANADA 	customer
+16718 	CANADA 	customer
+16724 	BRAZIL 	customer
+16726 	PERU 	customer
+16730 	UNITED STATES 	customer
+16731 	CANADA 	customer
+16735 	BRAZIL 	customer
+16736 	BRAZIL 	customer
+16743 	ARGENTINA 	customer
+16744 	BRAZIL 	customer
+16748 	UNITED STATES 	customer
+16750 	CANADA 	customer
+16751 	BRAZIL 	customer
+16757 	ARGENTINA 	customer
+16764 	UNITED STATES 	customer
+16765 	UNITED STATES 	customer
+16773 	UNITED STATES 	customer
+16779 	BRAZIL 	customer
+16780 	UNITED STATES 	customer
+16781 	ARGENTINA 	customer
+16783 	UNITED STATES 	customer
+16788 	CANADA 	customer
+16794 	ARGENTINA 	customer
+16799 	PERU 	customer
+16815 	CANADA 	customer
+16816 	UNITED STATES 	customer
+16817 	PERU 	customer
+16823 	BRAZIL 	customer
+16824 	PERU 	customer
+16825 	PERU 	customer
+16830 	UNITED STATES 	customer
+16831 	CANADA 	customer
+16833 	UNITED STATES 	customer
+16843 	UNITED STATES 	customer
+16847 	ARGENTINA 	customer
+16849 	BRAZIL 	customer
+16861 	BRAZIL 	customer
+16863 	PERU 	customer
+16866 	ARGENTINA 	customer
+16867 	BRAZIL 	customer
+16870 	BRAZIL 	customer
+16883 	ARGENTINA 	customer
+16896 	CANADA 	customer
+16901 	PERU 	customer
+16910 	UNITED STATES 	customer
+16918 	BRAZIL 	customer
+16925 	BRAZIL 	customer
+16926 	CANADA 	customer
+16938 	ARGENTINA 	customer
+16939 	PERU 	customer
+16940 	BRAZIL 	customer
+16942 	UNITED STATES 	customer
+16948 	UNITED STATES 	customer
+16953 	PERU 	customer
+16958 	BRAZIL 	customer
+16961 	CANADA 	customer
+16974 	PERU 	customer
+16975 	UNITED STATES 	customer
+16977 	CANADA 	customer
+16979 	PERU 	customer
+16989 	UNITED STATES 	customer
+16990 	UNITED STATES 	customer
+16997 	UNITED STATES 	customer
+17013 	UNITED STATES 	customer
+17032 	ARGENTINA 	customer
+17034 	BRAZIL 	customer
+17038 	BRAZIL 	customer
+17045 	ARGENTINA 	customer
+17051 	ARGENTINA 	customer
+17055 	BRAZIL 	customer
+17058 	UNITED STATES 	customer
+17061 	UNITED STATES 	customer
+17068 	ARGENTINA 	customer
+17070 	ARGENTINA 	customer
+17073 	ARGENTINA 	customer
+17074 	UNITED STATES 	customer
+17086 	ARGENTINA 	customer
+17092 	BRAZIL 	customer
+17094 	BRAZIL 	customer
+17098 	ARGENTINA 	customer
+17099 	BRAZIL 	customer
+17107 	ARGENTINA 	customer
+17113 	BRAZIL 	customer
+17118 	PERU 	customer
+17119 	BRAZIL 	customer
+17121 	UNITED STATES 	customer
+17126 	CANADA 	customer
+17127 	BRAZIL 	customer
+17133 	BRAZIL 	customer
+17139 	PERU 	customer
+17158 	CANADA 	customer
+17162 	ARGENTINA 	customer
+17163 	ARGENTINA 	customer
+17168 	ARGENTINA 	customer
+17176 	ARGENTINA 	customer
+17184 	PERU 	customer
+17190 	PERU 	customer
+17191 	CANADA 	customer
+17195 	ARGENTINA 	customer
+17198 	ARGENTINA 	customer
+17199 	PERU 	customer
+17210 	PERU 	customer
+17211 	BRAZIL 	customer
+17216 	ARGENTINA 	customer
+17220 	ARGENTINA 	customer
+17224 	UNITED STATES 	customer
+17232 	ARGENTINA 	customer
+17240 	UNITED STATES 	customer
+17241 	UNITED STATES 	customer
+17248 	CANADA 	customer
+17251 	PERU 	customer
+17260 	PERU 	customer
+17261 	CANADA 	customer
+17265 	BRAZIL 	customer
+17271 	ARGENTINA 	customer
+17272 	ARGENTINA 	customer
+17274 	UNITED STATES 	customer
+17281 	CANADA 	customer
+17283 	ARGENTINA 	customer
+17286 	CANADA 	customer
+17287 	CANADA 	customer
+17288 	PERU 	customer
+17290 	BRAZIL 	customer
+17293 	ARGENTINA 	customer
+17298 	UNITED STATES 	customer
+17305 	PERU 	customer
+17316 	PERU 	customer
+17327 	PERU 	customer
+17328 	ARGENTINA 	customer
+17337 	PERU 	customer
+17338 	ARGENTINA 	customer
+17340 	CANADA 	customer
+17348 	UNITED STATES 	customer
+17353 	PERU 	customer
+17354 	CANADA 	customer
+17361 	ARGENTINA 	customer
+17364 	UNITED STATES 	customer
+17367 	CANADA 	customer
+17370 	ARGENTINA 	customer
+17373 	BRAZIL 	customer
+17375 	UNITED STATES 	customer
+17376 	BRAZIL 	customer
+17377 	ARGENTINA 	customer
+17380 	PERU 	customer
+17387 	PERU 	customer
+17399 	PERU 	customer
+17402 	PERU 	customer
+17426 	CANADA 	customer
+17430 	BRAZIL 	customer
+17442 	ARGENTINA 	customer
+17447 	UNITED STATES 	customer
+17451 	ARGENTINA 	customer
+17454 	UNITED STATES 	customer
+17456 	ARGENTINA 	customer
+17458 	ARGENTINA 	customer
+17466 	PERU 	customer
+17472 	CANADA 	customer
+17482 	UNITED STATES 	customer
+17483 	UNITED STATES 	customer
+17484 	ARGENTINA 	customer
+17486 	PERU 	customer
+17490 	CANADA 	customer
+17494 	CANADA 	customer
+17504 	BRAZIL 	customer
+17515 	ARGENTINA 	customer
+17520 	ARGENTINA 	customer
+17527 	ARGENTINA 	customer
+17536 	ARGENTINA 	customer
+17540 	CANADA 	customer
+17549 	BRAZIL 	customer
+17565 	PERU 	customer
+17567 	UNITED STATES 	customer
+17575 	CANADA 	customer
+17576 	CANADA 	customer
+17587 	CANADA 	customer
+17592 	CANADA 	customer
+17599 	BRAZIL 	customer
+17607 	UNITED STATES 	customer
+17613 	BRAZIL 	customer
+17616 	BRAZIL 	customer
+17618 	CANADA 	customer
+17629 	UNITED STATES 	customer
+17630 	UNITED STATES 	customer
+17637 	BRAZIL 	customer
+17638 	ARGENTINA 	customer
+17654 	CANADA 	customer
+17659 	ARGENTINA 	customer
+17662 	ARGENTINA 	customer
+17663 	CANADA 	customer
+17670 	PERU 	customer
+17673 	ARGENTINA 	customer
+17675 	BRAZIL 	customer
+17684 	BRAZIL 	customer
+17685 	BRAZIL 	customer
+17688 	UNITED STATES 	customer
+17707 	UNITED STATES 	customer
+17712 	UNITED STATES 	customer
+17715 	CANADA 	customer
+17717 	BRAZIL 	customer
+17724 	UNITED STATES 	customer
+17735 	UNITED STATES 	customer
+17740 	BRAZIL 	customer
+17741 	CANADA 	customer
+17745 	UNITED STATES 	customer
+17749 	BRAZIL 	customer
+17752 	BRAZIL 	customer
+17754 	ARGENTINA 	customer
+17763 	PERU 	customer
+17770 	BRAZIL 	customer
+17777 	ARGENTINA 	customer
+17779 	PERU 	customer
+17783 	BRAZIL 	customer
+17788 	PERU 	customer
+17798 	UNITED STATES 	customer
+17801 	BRAZIL 	customer
+17804 	UNITED STATES 	customer
+17807 	PERU 	customer
+17808 	PERU 	customer
+17811 	UNITED STATES 	customer
+17820 	CANADA 	customer
+17824 	UNITED STATES 	customer
+17827 	BRAZIL 	customer
+17830 	ARGENTINA 	customer
+17835 	UNITED STATES 	customer
+17846 	CANADA 	customer
+17847 	ARGENTINA 	customer
+17848 	PERU 	customer
+17861 	PERU 	customer
+17874 	PERU 	customer
+17884 	UNITED STATES 	customer
+17887 	PERU 	customer
+17890 	UNITED STATES 	customer
+17891 	ARGENTINA 	customer
+17892 	UNITED STATES 	customer
+17893 	UNITED STATES 	customer
+17894 	UNITED STATES 	customer
+17896 	ARGENTINA 	customer
+17906 	UNITED STATES 	customer
+17908 	BRAZIL 	customer
+17909 	BRAZIL 	customer
+17931 	PERU 	customer
+17933 	CANADA 	customer
+17942 	CANADA 	customer
+17947 	PERU 	customer
+17954 	CANADA 	customer
+17962 	CANADA 	customer
+17965 	PERU 	customer
+17970 	BRAZIL 	customer
+17976 	CANADA 	customer
+17978 	ARGENTINA 	customer
+17982 	CANADA 	customer
+17983 	CANADA 	customer
+17985 	BRAZIL 	customer
+17986 	ARGENTINA 	customer
+17987 	CANADA 	customer
+17996 	BRAZIL 	customer
+18002 	CANADA 	customer
+18011 	BRAZIL 	customer
+18012 	UNITED STATES 	customer
+18015 	UNITED STATES 	customer
+18016 	UNITED STATES 	customer
+18019 	BRAZIL 	customer
+18030 	BRAZIL 	customer
+18034 	UNITED STATES 	customer
+18040 	UNITED STATES 	customer
+18048 	UNITED STATES 	customer
+18053 	ARGENTINA 	customer
+18057 	ARGENTINA 	customer
+18059 	BRAZIL 	customer
+18060 	ARGENTINA 	customer
+18061 	BRAZIL 	customer
+18071 	UNITED STATES 	customer
+18074 	ARGENTINA 	customer
+18075 	BRAZIL 	customer
+18077 	ARGENTINA 	customer
+18087 	ARGENTINA 	customer
+18092 	BRAZIL 	customer
+18093 	PERU 	customer
+18096 	UNITED STATES 	customer
+18099 	PERU 	customer
+18104 	UNITED STATES 	customer
+18105 	BRAZIL 	customer
+18112 	UNITED STATES 	customer
+18113 	PERU 	customer
+18114 	ARGENTINA 	customer
+18115 	PERU 	customer
+18121 	CANADA 	customer
+18122 	ARGENTINA 	customer
+18124 	ARGENTINA 	customer
+18133 	CANADA 	customer
+18145 	BRAZIL 	customer
+18149 	PERU 	customer
+18155 	BRAZIL 	customer
+18159 	BRAZIL 	customer
+18164 	PERU 	customer
+18168 	PERU 	customer
+18181 	ARGENTINA 	customer
+18192 	PERU 	customer
+18198 	ARGENTINA 	customer
+18199 	ARGENTINA 	customer
+18200 	ARGENTINA 	customer
+18205 	CANADA 	customer
+18206 	PERU 	customer
+18208 	UNITED STATES 	customer
+18209 	PERU 	customer
+18217 	BRAZIL 	customer
+18218 	CANADA 	customer
+18225 	CANADA 	customer
+18229 	PERU 	customer
+18235 	PERU 	customer
+18236 	BRAZIL 	customer
+18237 	CANADA 	customer
+18241 	UNITED STATES 	customer
+18242 	UNITED STATES 	customer
+18246 	ARGENTINA 	customer
+18248 	BRAZIL 	customer
+18252 	CANADA 	customer
+18259 	UNITED STATES 	customer
+18261 	PERU 	customer
+18267 	UNITED STATES 	customer
+18279 	UNITED STATES 	customer
+18285 	UNITED STATES 	customer
+18293 	ARGENTINA 	customer
+18306 	ARGENTINA 	customer
+18307 	PERU 	customer
+18308 	PERU 	customer
+18309 	ARGENTINA 	customer
+18314 	CANADA 	customer
+18324 	ARGENTINA 	customer
+18345 	PERU 	customer
+18347 	ARGENTINA 	customer
+18351 	PERU 	customer
+18352 	CANADA 	customer
+18353 	PERU 	customer
+18356 	BRAZIL 	customer
+18366 	PERU 	customer
+18371 	BRAZIL 	customer
+18376 	UNITED STATES 	customer
+18379 	ARGENTINA 	customer
+18389 	PERU 	customer
+18393 	BRAZIL 	customer
+18396 	CANADA 	customer
+18398 	UNITED STATES 	customer
+18404 	CANADA 	customer
+18410 	CANADA 	customer
+18416 	UNITED STATES 	customer
+18417 	BRAZIL 	customer
+18422 	BRAZIL 	customer
+18423 	UNITED STATES 	customer
+18428 	UNITED STATES 	customer
+18442 	PERU 	customer
+18445 	UNITED STATES 	customer
+18447 	ARGENTINA 	customer
+18449 	UNITED STATES 	customer
+18450 	BRAZIL 	customer
+18455 	BRAZIL 	customer
+18456 	UNITED STATES 	customer
+18460 	ARGENTINA 	customer
+18465 	UNITED STATES 	customer
+18466 	CANADA 	customer
+18482 	ARGENTINA 	customer
+18491 	PERU 	customer
+18493 	CANADA 	customer
+18494 	UNITED STATES 	customer
+18509 	CANADA 	customer
+18513 	PERU 	customer
+18515 	PERU 	customer
+18516 	UNITED STATES 	customer
+18519 	UNITED STATES 	customer
+18525 	ARGENTINA 	customer
+18527 	UNITED STATES 	customer
+18528 	ARGENTINA 	customer
+18529 	BRAZIL 	customer
+18530 	PERU 	customer
+18542 	ARGENTINA 	customer
+18546 	UNITED STATES 	customer
+18550 	UNITED STATES 	customer
+18556 	CANADA 	customer
+18558 	UNITED STATES 	customer
+18561 	ARGENTINA 	customer
+18563 	ARGENTINA 	customer
+18569 	PERU 	customer
+18570 	BRAZIL 	customer
+18575 	BRAZIL 	customer
+18577 	CANADA 	customer
+18578 	CANADA 	customer
+18587 	ARGENTINA 	customer
+18592 	ARGENTINA 	customer
+18596 	PERU 	customer
+18600 	CANADA 	customer
+18602 	UNITED STATES 	customer
+18609 	UNITED STATES 	customer
+18612 	CANADA 	customer
+18613 	UNITED STATES 	customer
+18614 	PERU 	customer
+18622 	ARGENTINA 	customer
+18632 	BRAZIL 	customer
+18635 	PERU 	customer
+18642 	ARGENTINA 	customer
+18643 	BRAZIL 	customer
+18650 	UNITED STATES 	customer
+18652 	ARGENTINA 	customer
+18661 	ARGENTINA 	customer
+18664 	PERU 	customer
+18666 	UNITED STATES 	customer
+18668 	CANADA 	customer
+18670 	BRAZIL 	customer
+18673 	PERU 	customer
+18674 	CANADA 	customer
+18681 	ARGENTINA 	customer
+18696 	CANADA 	customer
+18706 	UNITED STATES 	customer
+18715 	ARGENTINA 	customer
+18724 	PERU 	customer
+18729 	PERU 	customer
+18730 	UNITED STATES 	customer
+18732 	PERU 	customer
+18734 	ARGENTINA 	customer
+18739 	PERU 	customer
+18745 	PERU 	customer
+18754 	UNITED STATES 	customer
+18764 	PERU 	customer
+18768 	BRAZIL 	customer
+18772 	CANADA 	customer
+18777 	PERU 	customer
+18778 	ARGENTINA 	customer
+18779 	ARGENTINA 	customer
+18784 	PERU 	customer
+18789 	CANADA 	customer
+18797 	BRAZIL 	customer
+18805 	PERU 	customer
+18812 	PERU 	customer
+18816 	ARGENTINA 	customer
+18820 	CANADA 	customer
+18821 	BRAZIL 	customer
+18822 	UNITED STATES 	customer
+18842 	ARGENTINA 	customer
+18845 	CANADA 	customer
+18846 	ARGENTINA 	customer
+18860 	UNITED STATES 	customer
+18863 	CANADA 	customer
+18868 	UNITED STATES 	customer
+18870 	BRAZIL 	customer
+18873 	CANADA 	customer
+18874 	CANADA 	customer
+18881 	ARGENTINA 	customer
+18885 	BRAZIL 	customer
+18896 	BRAZIL 	customer
+18913 	PERU 	customer
+18914 	UNITED STATES 	customer
+18916 	BRAZIL 	customer
+18919 	ARGENTINA 	customer
+18920 	PERU 	customer
+18921 	PERU 	customer
+18937 	CANADA 	customer
+18938 	CANADA 	customer
+18940 	PERU 	customer
+18941 	UNITED STATES 	customer
+18943 	PERU 	customer
+18948 	PERU 	customer
+18952 	UNITED STATES 	customer
+18955 	UNITED STATES 	customer
+18956 	CANADA 	customer
+18965 	UNITED STATES 	customer
+18970 	UNITED STATES 	customer
+18993 	UNITED STATES 	customer
+18994 	ARGENTINA 	customer
+18995 	CANADA 	customer
+19002 	CANADA 	customer
+19009 	UNITED STATES 	customer
+19013 	ARGENTINA 	customer
+19016 	BRAZIL 	customer
+19020 	UNITED STATES 	customer
+19024 	UNITED STATES 	customer
+19032 	UNITED STATES 	customer
+19033 	CANADA 	customer
+19034 	ARGENTINA 	customer
+19046 	UNITED STATES 	customer
+19066 	CANADA 	customer
+19074 	ARGENTINA 	customer
+19075 	UNITED STATES 	customer
+19079 	CANADA 	customer
+19090 	PERU 	customer
+19093 	PERU 	customer
+19102 	BRAZIL 	customer
+19106 	PERU 	customer
+19111 	ARGENTINA 	customer
+19118 	ARGENTINA 	customer
+19128 	CANADA 	customer
+19130 	BRAZIL 	customer
+19132 	CANADA 	customer
+19133 	BRAZIL 	customer
+19135 	PERU 	customer
+19143 	CANADA 	customer
+19145 	PERU 	customer
+19153 	PERU 	customer
+19158 	CANADA 	customer
+19167 	UNITED STATES 	customer
+19169 	CANADA 	customer
+19170 	ARGENTINA 	customer
+19173 	BRAZIL 	customer
+19176 	ARGENTINA 	customer
+19179 	BRAZIL 	customer
+19181 	CANADA 	customer
+19189 	CANADA 	customer
+19199 	ARGENTINA 	customer
+19202 	PERU 	customer
+19205 	ARGENTINA 	customer
+19209 	CANADA 	customer
+19211 	ARGENTINA 	customer
+19213 	CANADA 	customer
+19215 	ARGENTINA 	customer
+19226 	PERU 	customer
+19227 	BRAZIL 	customer
+19236 	ARGENTINA 	customer
+19253 	BRAZIL 	customer
+19258 	CANADA 	customer
+19261 	UNITED STATES 	customer
+19263 	UNITED STATES 	customer
+19286 	UNITED STATES 	customer
+19292 	PERU 	customer
+19293 	UNITED STATES 	customer
+19304 	PERU 	customer
+19306 	BRAZIL 	customer
+19307 	UNITED STATES 	customer
+19310 	BRAZIL 	customer
+19316 	UNITED STATES 	customer
+19317 	UNITED STATES 	customer
+19321 	PERU 	customer
+19332 	ARGENTINA 	customer
+19336 	ARGENTINA 	customer
+19338 	ARGENTINA 	customer
+19340 	PERU 	customer
+19353 	PERU 	customer
+19355 	BRAZIL 	customer
+19357 	CANADA 	customer
+19363 	UNITED STATES 	customer
+19364 	BRAZIL 	customer
+19366 	BRAZIL 	customer
+19369 	PERU 	customer
+19371 	UNITED STATES 	customer
+19377 	PERU 	customer
+19380 	PERU 	customer
+19383 	CANADA 	customer
+19384 	CANADA 	customer
+19401 	BRAZIL 	customer
+19408 	UNITED STATES 	customer
+19425 	PERU 	customer
+19426 	CANADA 	customer
+19431 	BRAZIL 	customer
+19439 	ARGENTINA 	customer
+19441 	ARGENTINA 	customer
+19443 	ARGENTINA 	customer
+19447 	PERU 	customer
+19448 	UNITED STATES 	customer
+19449 	UNITED STATES 	customer
+19450 	ARGENTINA 	customer
+19455 	ARGENTINA 	customer
+19462 	UNITED STATES 	customer
+19486 	BRAZIL 	customer
+19489 	BRAZIL 	customer
+19497 	PERU 	customer
+19501 	PERU 	customer
+19502 	PERU 	customer
+19506 	ARGENTINA 	customer
+19509 	BRAZIL 	customer
+19518 	ARGENTINA 	customer
+19525 	UNITED STATES 	customer
+19531 	PERU 	customer
+19532 	BRAZIL 	customer
+19535 	ARGENTINA 	customer
+19539 	PERU 	customer
+19540 	PERU 	customer
+19555 	UNITED STATES 	customer
+19556 	CANADA 	customer
+19563 	CANADA 	customer
+19564 	UNITED STATES 	customer
+19565 	ARGENTINA 	customer
+19569 	PERU 	customer
+19588 	ARGENTINA 	customer
+19602 	CANADA 	customer
+19608 	ARGENTINA 	customer
+19616 	ARGENTINA 	customer
+19618 	BRAZIL 	customer
+19620 	PERU 	customer
+19629 	PERU 	customer
+19630 	BRAZIL 	customer
+19639 	BRAZIL 	customer
+19641 	ARGENTINA 	customer
+19642 	CANADA 	customer
+19644 	CANADA 	customer
+19658 	BRAZIL 	customer
+19660 	BRAZIL 	customer
+19663 	PERU 	customer
+19664 	BRAZIL 	customer
+19665 	PERU 	customer
+19675 	PERU 	customer
+19676 	UNITED STATES 	customer
+19681 	CANADA 	customer
+19700 	BRAZIL 	customer
+19713 	PERU 	customer
+19719 	UNITED STATES 	customer
+19725 	BRAZIL 	customer
+19728 	BRAZIL 	customer
+19733 	UNITED STATES 	customer
+19736 	BRAZIL 	customer
+19745 	BRAZIL 	customer
+19747 	CANADA 	customer
+19748 	UNITED STATES 	customer
+19754 	CANADA 	customer
+19759 	CANADA 	customer
+19765 	PERU 	customer
+19768 	UNITED STATES 	customer
+19772 	ARGENTINA 	customer
+19776 	UNITED STATES 	customer
+19786 	CANADA 	customer
+19790 	BRAZIL 	customer
+19791 	UNITED STATES 	customer
+19806 	ARGENTINA 	customer
+19810 	UNITED STATES 	customer
+19820 	BRAZIL 	customer
+19823 	ARGENTINA 	customer
+19824 	BRAZIL 	customer
+19828 	UNITED STATES 	customer
+19842 	BRAZIL 	customer
+19848 	CANADA 	customer
+19859 	BRAZIL 	customer
+19870 	CANADA 	customer
+19876 	ARGENTINA 	customer
+19885 	UNITED STATES 	customer
+19892 	CANADA 	customer
+19895 	ARGENTINA 	customer
+19898 	ARGENTINA 	customer
+19902 	UNITED STATES 	customer
+19906 	CANADA 	customer
+19907 	ARGENTINA 	customer
+19921 	BRAZIL 	customer
+19926 	PERU 	customer
+19933 	BRAZIL 	customer
+19936 	CANADA 	customer
+19937 	ARGENTINA 	customer
+19938 	BRAZIL 	customer
+19941 	UNITED STATES 	customer
+19947 	UNITED STATES 	customer
+19949 	CANADA 	customer
+19952 	BRAZIL 	customer
+19958 	BRAZIL 	customer
+19963 	ARGENTINA 	customer
+19966 	CANADA 	customer
+19979 	PERU 	customer
+19981 	ARGENTINA 	customer
+19992 	UNITED STATES 	customer
+19994 	PERU 	customer
+19995 	PERU 	customer
+19997 	ARGENTINA 	customer
+20002 	BRAZIL 	customer
+20004 	BRAZIL 	customer
+20008 	UNITED STATES 	customer
+20020 	PERU 	customer
+20029 	ARGENTINA 	customer
+20030 	CANADA 	customer
+20035 	PERU 	customer
+20047 	BRAZIL 	customer
+20054 	ARGENTINA 	customer
+20060 	CANADA 	customer
+20064 	PERU 	customer
+20065 	ARGENTINA 	customer
+20074 	UNITED STATES 	customer
+20077 	CANADA 	customer
+20079 	BRAZIL 	customer
+20085 	CANADA 	customer
+20091 	UNITED STATES 	customer
+20097 	ARGENTINA 	customer
+20099 	BRAZIL 	customer
+20103 	ARGENTINA 	customer
+20106 	CANADA 	customer
+20119 	BRAZIL 	customer
+20130 	UNITED STATES 	customer
+20133 	UNITED STATES 	customer
+20136 	CANADA 	customer
+20138 	CANADA 	customer
+20139 	CANADA 	customer
+20141 	PERU 	customer
+20143 	UNITED STATES 	customer
+20145 	UNITED STATES 	customer
+20149 	UNITED STATES 	customer
+20151 	BRAZIL 	customer
+20159 	CANADA 	customer
+20165 	ARGENTINA 	customer
+20167 	ARGENTINA 	customer
+20172 	BRAZIL 	customer
+20173 	CANADA 	customer
+20179 	CANADA 	customer
+20185 	ARGENTINA 	customer
+20188 	BRAZIL 	customer
+20189 	BRAZIL 	customer
+20197 	BRAZIL 	customer
+20198 	UNITED STATES 	customer
+20205 	PERU 	customer
+20216 	CANADA 	customer
+20219 	PERU 	customer
+20232 	PERU 	customer
+20235 	UNITED STATES 	customer
+20246 	CANADA 	customer
+20248 	BRAZIL 	customer
+20260 	PERU 	customer
+20275 	BRAZIL 	customer
+20278 	UNITED STATES 	customer
+20281 	BRAZIL 	customer
+20283 	BRAZIL 	customer
+20290 	ARGENTINA 	customer
+20293 	BRAZIL 	customer
+20294 	CANADA 	customer
+20310 	UNITED STATES 	customer
+20313 	UNITED STATES 	customer
+20319 	CANADA 	customer
+20321 	PERU 	customer
+20323 	ARGENTINA 	customer
+20331 	ARGENTINA 	customer
+20332 	ARGENTINA 	customer
+20333 	BRAZIL 	customer
+20334 	UNITED STATES 	customer
+20338 	UNITED STATES 	customer
+20339 	BRAZIL 	customer
+20344 	BRAZIL 	customer
+20349 	BRAZIL 	customer
+20358 	BRAZIL 	customer
+20360 	PERU 	customer
+20371 	ARGENTINA 	customer
+20376 	ARGENTINA 	customer
+20381 	CANADA 	customer
+20385 	ARGENTINA 	customer
+20399 	PERU 	customer
+20410 	CANADA 	customer
+20414 	ARGENTINA 	customer
+20415 	BRAZIL 	customer
+20417 	BRAZIL 	customer
+20418 	CANADA 	customer
+20419 	PERU 	customer
+20431 	PERU 	customer
+20432 	UNITED STATES 	customer
+20433 	BRAZIL 	customer
+20442 	UNITED STATES 	customer
+20452 	ARGENTINA 	customer
+20461 	BRAZIL 	customer
+20470 	BRAZIL 	customer
+20472 	UNITED STATES 	customer
+20473 	CANADA 	customer
+20475 	PERU 	customer
+20480 	BRAZIL 	customer
+20490 	PERU 	customer
+20491 	BRAZIL 	customer
+20499 	UNITED STATES 	customer
+20505 	UNITED STATES 	customer
+20506 	UNITED STATES 	customer
+20508 	PERU 	customer
+20510 	CANADA 	customer
+20516 	ARGENTINA 	customer
+20519 	CANADA 	customer
+20522 	ARGENTINA 	customer
+20523 	UNITED STATES 	customer
+20525 	BRAZIL 	customer
+20532 	BRAZIL 	customer
+20534 	BRAZIL 	customer
+20539 	ARGENTINA 	customer
+20540 	UNITED STATES 	customer
+20549 	CANADA 	customer
+20551 	BRAZIL 	customer
+20555 	UNITED STATES 	customer
+20560 	BRAZIL 	customer
+20584 	BRAZIL 	customer
+20585 	BRAZIL 	customer
+20592 	CANADA 	customer
+20605 	PERU 	customer
+20607 	ARGENTINA 	customer
+20615 	BRAZIL 	customer
+20619 	PERU 	customer
+20620 	PERU 	customer
+20626 	CANADA 	customer
+20630 	BRAZIL 	customer
+20643 	PERU 	customer
+20650 	UNITED STATES 	customer
+20652 	BRAZIL 	customer
+20653 	CANADA 	customer
+20656 	ARGENTINA 	customer
+20660 	CANADA 	customer
+20682 	PERU 	customer
+20684 	BRAZIL 	customer
+20685 	ARGENTINA 	customer
+20688 	PERU 	customer
+20692 	ARGENTINA 	customer
+20699 	ARGENTINA 	customer
+20709 	BRAZIL 	customer
+20713 	ARGENTINA 	customer
+20714 	BRAZIL 	customer
+20715 	ARGENTINA 	customer
+20718 	UNITED STATES 	customer
+20721 	CANADA 	customer
+20723 	UNITED STATES 	customer
+20725 	UNITED STATES 	customer
+20730 	CANADA 	customer
+20734 	BRAZIL 	customer
+20736 	CANADA 	customer
+20741 	ARGENTINA 	customer
+20747 	CANADA 	customer
+20749 	PERU 	customer
+20775 	BRAZIL 	customer
+20779 	ARGENTINA 	customer
+20784 	BRAZIL 	customer
+20785 	UNITED STATES 	customer
+20788 	BRAZIL 	customer
+20792 	PERU 	customer
+20796 	CANADA 	customer
+20799 	BRAZIL 	customer
+20811 	UNITED STATES 	customer
+20828 	UNITED STATES 	customer
+20831 	BRAZIL 	customer
+20843 	CANADA 	customer
+20849 	PERU 	customer
+20854 	UNITED STATES 	customer
+20857 	PERU 	customer
+20863 	UNITED STATES 	customer
+20875 	ARGENTINA 	customer
+20878 	CANADA 	customer
+20885 	PERU 	customer
+20896 	BRAZIL 	customer
+20907 	PERU 	customer
+20912 	CANADA 	customer
+20916 	UNITED STATES 	customer
+20923 	CANADA 	customer
+20927 	CANADA 	customer
+20928 	CANADA 	customer
+20932 	CANADA 	customer
+20935 	ARGENTINA 	customer
+20940 	UNITED STATES 	customer
+20943 	PERU 	customer
+20946 	ARGENTINA 	customer
+20948 	ARGENTINA 	customer
+20951 	CANADA 	customer
+20955 	UNITED STATES 	customer
+20976 	ARGENTINA 	customer
+20978 	BRAZIL 	customer
+20986 	PERU 	customer
+20989 	PERU 	customer
+20992 	PERU 	customer
+20994 	UNITED STATES 	customer
+20997 	BRAZIL 	customer
+20999 	BRAZIL 	customer
+21007 	BRAZIL 	customer
+21008 	CANADA 	customer
+21009 	BRAZIL 	customer
+21012 	BRAZIL 	customer
+21013 	UNITED STATES 	customer
+21019 	ARGENTINA 	customer
+21031 	UNITED STATES 	customer
+21047 	ARGENTINA 	customer
+21051 	CANADA 	customer
+21053 	PERU 	customer
+21055 	BRAZIL 	customer
+21061 	CANADA 	customer
+21067 	UNITED STATES 	customer
+21071 	BRAZIL 	customer
+21074 	CANADA 	customer
+21085 	CANADA 	customer
+21087 	CANADA 	customer
+21091 	UNITED STATES 	customer
+21093 	BRAZIL 	customer
+21094 	PERU 	customer
+21100 	ARGENTINA 	customer
+21107 	PERU 	customer
+21109 	ARGENTINA 	customer
+21129 	PERU 	customer
+21130 	BRAZIL 	customer
+21134 	CANADA 	customer
+21137 	PERU 	customer
+21138 	CANADA 	customer
+21140 	ARGENTINA 	customer
+21143 	UNITED STATES 	customer
+21148 	ARGENTINA 	customer
+21155 	BRAZIL 	customer
+21167 	ARGENTINA 	customer
+21172 	ARGENTINA 	customer
+21177 	CANADA 	customer
+21192 	BRAZIL 	customer
+21197 	PERU 	customer
+21198 	PERU 	customer
+21200 	CANADA 	customer
+21206 	ARGENTINA 	customer
+21210 	ARGENTINA 	customer
+21212 	UNITED STATES 	customer
+21213 	PERU 	customer
+21215 	BRAZIL 	customer
+21216 	UNITED STATES 	customer
+21221 	CANADA 	customer
+21227 	CANADA 	customer
+21229 	BRAZIL 	customer
+21234 	BRAZIL 	customer
+21239 	ARGENTINA 	customer
+21242 	UNITED STATES 	customer
+21245 	PERU 	customer
+21248 	ARGENTINA 	customer
+21249 	PERU 	customer
+21268 	CANADA 	customer
+21275 	CANADA 	customer
+21282 	PERU 	customer
+21291 	BRAZIL 	customer
+21293 	PERU 	customer
+21296 	CANADA 	customer
+21297 	BRAZIL 	customer
+21298 	BRAZIL 	customer
+21300 	UNITED STATES 	customer
+21307 	PERU 	customer
+21310 	ARGENTINA 	customer
+21311 	PERU 	customer
+21321 	UNITED STATES 	customer
+21342 	UNITED STATES 	customer
+21343 	PERU 	customer
+21344 	ARGENTINA 	customer
+21352 	UNITED STATES 	customer
+21366 	CANADA 	customer
+21372 	CANADA 	customer
+21391 	CANADA 	customer
+21392 	ARGENTINA 	customer
+21393 	PERU 	customer
+21396 	PERU 	customer
+21398 	BRAZIL 	customer
+21403 	CANADA 	customer
+21408 	PERU 	customer
+21413 	UNITED STATES 	customer
+21421 	BRAZIL 	customer
+21432 	CANADA 	customer
+21440 	PERU 	customer
+21447 	CANADA 	customer
+21449 	PERU 	customer
+21452 	CANADA 	customer
+21453 	CANADA 	customer
+21459 	UNITED STATES 	customer
+21467 	CANADA 	customer
+21469 	CANADA 	customer
+21470 	BRAZIL 	customer
+21475 	ARGENTINA 	customer
+21476 	CANADA 	customer
+21482 	CANADA 	customer
+21483 	UNITED STATES 	customer
+21499 	CANADA 	customer
+21500 	BRAZIL 	customer
+21506 	ARGENTINA 	customer
+21513 	ARGENTINA 	customer
+21517 	PERU 	customer
+21518 	BRAZIL 	customer
+21520 	UNITED STATES 	customer
+21521 	ARGENTINA 	customer
+21530 	PERU 	customer
+21539 	CANADA 	customer
+21542 	ARGENTINA 	customer
+21550 	UNITED STATES 	customer
+21565 	ARGENTINA 	customer
+21569 	PERU 	customer
+21570 	ARGENTINA 	customer
+21571 	UNITED STATES 	customer
+21575 	PERU 	customer
+21579 	UNITED STATES 	customer
+21580 	PERU 	customer
+21584 	BRAZIL 	customer
+21586 	PERU 	customer
+21588 	BRAZIL 	customer
+21590 	CANADA 	customer
+21604 	UNITED STATES 	customer
+21609 	PERU 	customer
+21610 	CANADA 	customer
+21620 	ARGENTINA 	customer
+21621 	CANADA 	customer
+21624 	ARGENTINA 	customer
+21626 	UNITED STATES 	customer
+21627 	BRAZIL 	customer
+21629 	BRAZIL 	customer
+21641 	PERU 	customer
+21644 	BRAZIL 	customer
+21651 	CANADA 	customer
+21653 	BRAZIL 	customer
+21671 	BRAZIL 	customer
+21673 	ARGENTINA 	customer
+21684 	ARGENTINA 	customer
+21685 	ARGENTINA 	customer
+21690 	BRAZIL 	customer
+21691 	PERU 	customer
+21692 	ARGENTINA 	customer
+21695 	BRAZIL 	customer
+21696 	UNITED STATES 	customer
+21697 	BRAZIL 	customer
+21701 	CANADA 	customer
+21705 	PERU 	customer
+21706 	ARGENTINA 	customer
+21707 	PERU 	customer
+21710 	ARGENTINA 	customer
+21713 	PERU 	customer
+21715 	ARGENTINA 	customer
+21717 	ARGENTINA 	customer
+21720 	ARGENTINA 	customer
+21725 	PERU 	customer
+21729 	CANADA 	customer
+21735 	UNITED STATES 	customer
+21768 	UNITED STATES 	customer
+21771 	ARGENTINA 	customer
+21772 	ARGENTINA 	customer
+21777 	UNITED STATES 	customer
+21782 	CANADA 	customer
+21785 	BRAZIL 	customer
+21786 	UNITED STATES 	customer
+21791 	ARGENTINA 	customer
+21803 	BRAZIL 	customer
+21816 	UNITED STATES 	customer
+21828 	PERU 	customer
+21831 	UNITED STATES 	customer
+21833 	ARGENTINA 	customer
+21838 	CANADA 	customer
+21840 	UNITED STATES 	customer
+21845 	PERU 	customer
+21849 	ARGENTINA 	customer
+21855 	CANADA 	customer
+21860 	CANADA 	customer
+21861 	UNITED STATES 	customer
+21863 	UNITED STATES 	customer
+21864 	UNITED STATES 	customer
+21866 	BRAZIL 	customer
+21871 	UNITED STATES 	customer
+21873 	UNITED STATES 	customer
+21878 	CANADA 	customer
+21886 	BRAZIL 	customer
+21887 	UNITED STATES 	customer
+21890 	UNITED STATES 	customer
+21899 	UNITED STATES 	customer
+21904 	UNITED STATES 	customer
+21905 	CANADA 	customer
+21906 	PERU 	customer
+21910 	CANADA 	customer
+21916 	UNITED STATES 	customer
+21921 	PERU 	customer
+21933 	BRAZIL 	customer
+21935 	CANADA 	customer
+21948 	CANADA 	customer
+21949 	BRAZIL 	customer
+21965 	PERU 	customer
+21968 	BRAZIL 	customer
+21970 	BRAZIL 	customer
+21972 	BRAZIL 	customer
+21973 	ARGENTINA 	customer
+21974 	ARGENTINA 	customer
+21975 	PERU 	customer
+21978 	BRAZIL 	customer
+21987 	ARGENTINA 	customer
+21988 	UNITED STATES 	customer
+21998 	PERU 	customer
+22006 	BRAZIL 	customer
+22009 	CANADA 	customer
+22010 	ARGENTINA 	customer
+22019 	PERU 	customer
+22022 	PERU 	customer
+22025 	CANADA 	customer
+22026 	ARGENTINA 	customer
+22033 	PERU 	customer
+22034 	BRAZIL 	customer
+22049 	ARGENTINA 	customer
+22051 	PERU 	customer
+22053 	BRAZIL 	customer
+22054 	BRAZIL 	customer
+22056 	PERU 	customer
+22057 	PERU 	customer
+22058 	UNITED STATES 	customer
+22059 	ARGENTINA 	customer
+22060 	UNITED STATES 	customer
+22067 	CANADA 	customer
+22068 	BRAZIL 	customer
+22079 	UNITED STATES 	customer
+22082 	PERU 	customer
+22084 	BRAZIL 	customer
+22091 	CANADA 	customer
+22098 	UNITED STATES 	customer
+22101 	PERU 	customer
+22112 	PERU 	customer
+22114 	PERU 	customer
+22118 	PERU 	customer
+22120 	BRAZIL 	customer
+22134 	PERU 	customer
+22139 	UNITED STATES 	customer
+22142 	PERU 	customer
+22144 	CANADA 	customer
+22151 	BRAZIL 	customer
+22155 	UNITED STATES 	customer
+22162 	ARGENTINA 	customer
+22163 	PERU 	customer
+22164 	PERU 	customer
+22165 	CANADA 	customer
+22166 	UNITED STATES 	customer
+22169 	BRAZIL 	customer
+22173 	PERU 	customer
+22174 	BRAZIL 	customer
+22183 	CANADA 	customer
+22186 	CANADA 	customer
+22193 	ARGENTINA 	customer
+22196 	BRAZIL 	customer
+22197 	ARGENTINA 	customer
+22199 	ARGENTINA 	customer
+22204 	PERU 	customer
+22208 	CANADA 	customer
+22209 	BRAZIL 	customer
+22212 	BRAZIL 	customer
+22214 	UNITED STATES 	customer
+22215 	UNITED STATES 	customer
+22222 	PERU 	customer
+22227 	BRAZIL 	customer
+22247 	CANADA 	customer
+22252 	PERU 	customer
+22253 	PERU 	customer
+22256 	ARGENTINA 	customer
+22257 	UNITED STATES 	customer
+22260 	BRAZIL 	customer
+22268 	CANADA 	customer
+22275 	PERU 	customer
+22278 	CANADA 	customer
+22280 	CANADA 	customer
+22282 	PERU 	customer
+22284 	BRAZIL 	customer
+22290 	UNITED STATES 	customer
+22293 	UNITED STATES 	customer
+22298 	UNITED STATES 	customer
+22304 	UNITED STATES 	customer
+22308 	ARGENTINA 	customer
+22309 	PERU 	customer
+22316 	CANADA 	customer
+22317 	ARGENTINA 	customer
+22320 	PERU 	customer
+22321 	CANADA 	customer
+22324 	CANADA 	customer
+22325 	CANADA 	customer
+22327 	ARGENTINA 	customer
+22334 	ARGENTINA 	customer
+22337 	CANADA 	customer
+22347 	ARGENTINA 	customer
+22348 	PERU 	customer
+22349 	CANADA 	customer
+22354 	ARGENTINA 	customer
+22361 	PERU 	customer
+22363 	CANADA 	customer
+22365 	BRAZIL 	customer
+22373 	BRAZIL 	customer
+22377 	CANADA 	customer
+22378 	ARGENTINA 	customer
+22394 	UNITED STATES 	customer
+22397 	CANADA 	customer
+22398 	ARGENTINA 	customer
+22400 	CANADA 	customer
+22402 	BRAZIL 	customer
+22403 	PERU 	customer
+22405 	ARGENTINA 	customer
+22412 	UNITED STATES 	customer
+22428 	ARGENTINA 	customer
+22429 	ARGENTINA 	customer
+22432 	BRAZIL 	customer
+22433 	UNITED STATES 	customer
+22435 	PERU 	customer
+22436 	ARGENTINA 	customer
+22442 	ARGENTINA 	customer
+22445 	CANADA 	customer
+22450 	UNITED STATES 	customer
+22453 	CANADA 	customer
+22460 	BRAZIL 	customer
+22471 	ARGENTINA 	customer
+22474 	CANADA 	customer
+22491 	CANADA 	customer
+22495 	BRAZIL 	customer
+22499 	UNITED STATES 	customer
+22503 	CANADA 	customer
+22504 	BRAZIL 	customer
+22506 	PERU 	customer
+22507 	PERU 	customer
+22526 	CANADA 	customer
+22545 	CANADA 	customer
+22551 	BRAZIL 	customer
+22552 	BRAZIL 	customer
+22554 	UNITED STATES 	customer
+22555 	UNITED STATES 	customer
+22563 	CANADA 	customer
+22573 	UNITED STATES 	customer
+22578 	UNITED STATES 	customer
+22580 	BRAZIL 	customer
+22581 	UNITED STATES 	customer
+22592 	BRAZIL 	customer
+22607 	BRAZIL 	customer
+22615 	ARGENTINA 	customer
+22626 	CANADA 	customer
+22631 	BRAZIL 	customer
+22633 	UNITED STATES 	customer
+22648 	PERU 	customer
+22649 	CANADA 	customer
+22651 	CANADA 	customer
+22667 	ARGENTINA 	customer
+22673 	UNITED STATES 	customer
+22674 	BRAZIL 	customer
+22676 	PERU 	customer
+22677 	ARGENTINA 	customer
+22684 	UNITED STATES 	customer
+22695 	UNITED STATES 	customer
+22697 	ARGENTINA 	customer
+22704 	PERU 	customer
+22707 	BRAZIL 	customer
+22715 	PERU 	customer
+22716 	PERU 	customer
+22718 	CANADA 	customer
+22745 	PERU 	customer
+22753 	PERU 	customer
+22765 	BRAZIL 	customer
+22769 	BRAZIL 	customer
+22776 	UNITED STATES 	customer
+22781 	CANADA 	customer
+22790 	ARGENTINA 	customer
+22801 	UNITED STATES 	customer
+22823 	CANADA 	customer
+22826 	CANADA 	customer
+22831 	UNITED STATES 	customer
+22833 	UNITED STATES 	customer
+22837 	CANADA 	customer
+22841 	PERU 	customer
+22847 	UNITED STATES 	customer
+22850 	CANADA 	customer
+22852 	CANADA 	customer
+22854 	BRAZIL 	customer
+22863 	BRAZIL 	customer
+22865 	CANADA 	customer
+22867 	CANADA 	customer
+22876 	CANADA 	customer
+22881 	ARGENTINA 	customer
+22887 	PERU 	customer
+22898 	UNITED STATES 	customer
+22909 	BRAZIL 	customer
+22916 	PERU 	customer
+22920 	BRAZIL 	customer
+22923 	BRAZIL 	customer
+22925 	PERU 	customer
+22933 	ARGENTINA 	customer
+22934 	CANADA 	customer
+22936 	UNITED STATES 	customer
+22937 	PERU 	customer
+22941 	UNITED STATES 	customer
+22942 	CANADA 	customer
+22943 	CANADA 	customer
+22949 	BRAZIL 	customer
+22950 	BRAZIL 	customer
+22951 	ARGENTINA 	customer
+22956 	PERU 	customer
+22960 	ARGENTINA 	customer
+22964 	ARGENTINA 	customer
+22971 	CANADA 	customer
+22972 	UNITED STATES 	customer
+22974 	PERU 	customer
+22976 	ARGENTINA 	customer
+22977 	PERU 	customer
+22978 	PERU 	customer
+22983 	BRAZIL 	customer
+22984 	BRAZIL 	customer
+22994 	BRAZIL 	customer
+23006 	CANADA 	customer
+23010 	UNITED STATES 	customer
+23015 	CANADA 	customer
+23024 	UNITED STATES 	customer
+23028 	BRAZIL 	customer
+23035 	PERU 	customer
+23039 	ARGENTINA 	customer
+23046 	PERU 	customer
+23053 	BRAZIL 	customer
+23055 	BRAZIL 	customer
+23057 	PERU 	customer
+23061 	BRAZIL 	customer
+23062 	ARGENTINA 	customer
+23065 	CANADA 	customer
+23066 	BRAZIL 	customer
+23072 	PERU 	customer
+23080 	PERU 	customer
+23082 	ARGENTINA 	customer
+23087 	ARGENTINA 	customer
+23088 	CANADA 	customer
+23100 	PERU 	customer
+23101 	UNITED STATES 	customer
+23114 	PERU 	customer
+23127 	PERU 	customer
+23130 	BRAZIL 	customer
+23131 	BRAZIL 	customer
+23133 	ARGENTINA 	customer
+23139 	ARGENTINA 	customer
+23140 	BRAZIL 	customer
+23153 	UNITED STATES 	customer
+23159 	UNITED STATES 	customer
+23162 	BRAZIL 	customer
+23165 	ARGENTINA 	customer
+23168 	PERU 	customer
+23174 	PERU 	customer
+23185 	UNITED STATES 	customer
+23186 	ARGENTINA 	customer
+23190 	PERU 	customer
+23192 	BRAZIL 	customer
+23205 	ARGENTINA 	customer
+23215 	CANADA 	customer
+23216 	PERU 	customer
+23231 	PERU 	customer
+23238 	ARGENTINA 	customer
+23241 	UNITED STATES 	customer
+23244 	BRAZIL 	customer
+23246 	UNITED STATES 	customer
+23254 	ARGENTINA 	customer
+23261 	ARGENTINA 	customer
+23262 	CANADA 	customer
+23271 	CANADA 	customer
+23276 	ARGENTINA 	customer
+23282 	BRAZIL 	customer
+23283 	ARGENTINA 	customer
+23284 	CANADA 	customer
+23286 	PERU 	customer
+23290 	UNITED STATES 	customer
+23301 	BRAZIL 	customer
+23313 	CANADA 	customer
+23323 	BRAZIL 	customer
+23327 	CANADA 	customer
+23334 	UNITED STATES 	customer
+23336 	PERU 	customer
+23341 	UNITED STATES 	customer
+23347 	CANADA 	customer
+23353 	ARGENTINA 	customer
+23362 	BRAZIL 	customer
+23370 	BRAZIL 	customer
+23375 	UNITED STATES 	customer
+23376 	ARGENTINA 	customer
+23378 	PERU 	customer
+23380 	CANADA 	customer
+23395 	CANADA 	customer
+23406 	ARGENTINA 	customer
+23411 	ARGENTINA 	customer
+23418 	BRAZIL 	customer
+23421 	ARGENTINA 	customer
+23424 	PERU 	customer
+23437 	CANADA 	customer
+23438 	PERU 	customer
+23441 	PERU 	customer
+23455 	BRAZIL 	customer
+23464 	UNITED STATES 	customer
+23467 	BRAZIL 	customer
+23479 	PERU 	customer
+23480 	BRAZIL 	customer
+23482 	BRAZIL 	customer
+23488 	UNITED STATES 	customer
+23499 	PERU 	customer
+23516 	BRAZIL 	customer
+23526 	UNITED STATES 	customer
+23528 	CANADA 	customer
+23531 	PERU 	customer
+23539 	PERU 	customer
+23540 	ARGENTINA 	customer
+23545 	ARGENTINA 	customer
+23552 	ARGENTINA 	customer
+23562 	UNITED STATES 	customer
+23565 	CANADA 	customer
+23566 	PERU 	customer
+23572 	PERU 	customer
+23576 	CANADA 	customer
+23587 	BRAZIL 	customer
+23590 	UNITED STATES 	customer
+23593 	ARGENTINA 	customer
+23596 	PERU 	customer
+23599 	ARGENTINA 	customer
+23600 	UNITED STATES 	customer
+23604 	BRAZIL 	customer
+23614 	CANADA 	customer
+23615 	CANADA 	customer
+23620 	CANADA 	customer
+23624 	UNITED STATES 	customer
+23627 	ARGENTINA 	customer
+23631 	PERU 	customer
+23633 	PERU 	customer
+23635 	BRAZIL 	customer
+23640 	BRAZIL 	customer
+23644 	CANADA 	customer
+23651 	PERU 	customer
+23661 	CANADA 	customer
+23666 	UNITED STATES 	customer
+23674 	ARGENTINA 	customer
+23680 	UNITED STATES 	customer
+23682 	CANADA 	customer
+23684 	CANADA 	customer
+23687 	BRAZIL 	customer
+23689 	ARGENTINA 	customer
+23694 	CANADA 	customer
+23697 	CANADA 	customer
+23705 	UNITED STATES 	customer
+23711 	PERU 	customer
+23713 	CANADA 	customer
+23721 	BRAZIL 	customer
+23731 	UNITED STATES 	customer
+23733 	PERU 	customer
+23734 	UNITED STATES 	customer
+23738 	BRAZIL 	customer
+23739 	UNITED STATES 	customer
+23740 	PERU 	customer
+23748 	UNITED STATES 	customer
+23758 	BRAZIL 	customer
+23764 	ARGENTINA 	customer
+23766 	CANADA 	customer
+23773 	PERU 	customer
+23774 	CANADA 	customer
+23775 	BRAZIL 	customer
+23778 	BRAZIL 	customer
+23789 	BRAZIL 	customer
+23790 	BRAZIL 	customer
+23793 	PERU 	customer
+23808 	UNITED STATES 	customer
+23822 	UNITED STATES 	customer
+23823 	ARGENTINA 	customer
+23825 	ARGENTINA 	customer
+23831 	BRAZIL 	customer
+23834 	CANADA 	customer
+23838 	BRAZIL 	customer
+23840 	CANADA 	customer
+23844 	CANADA 	customer
+23846 	ARGENTINA 	customer
+23858 	BRAZIL 	customer
+23865 	UNITED STATES 	customer
+23869 	CANADA 	customer
+23870 	CANADA 	customer
+23871 	BRAZIL 	customer
+23872 	PERU 	customer
+23874 	UNITED STATES 	customer
+23875 	UNITED STATES 	customer
+23876 	BRAZIL 	customer
+23878 	PERU 	customer
+23883 	CANADA 	customer
+23884 	PERU 	customer
+23888 	UNITED STATES 	customer
+23905 	ARGENTINA 	customer
+23908 	CANADA 	customer
+23909 	PERU 	customer
+23919 	PERU 	customer
+23925 	CANADA 	customer
+23926 	UNITED STATES 	customer
+23931 	ARGENTINA 	customer
+23932 	BRAZIL 	customer
+23934 	UNITED STATES 	customer
+23943 	CANADA 	customer
+23947 	ARGENTINA 	customer
+23965 	BRAZIL 	customer
+23966 	UNITED STATES 	customer
+23967 	BRAZIL 	customer
+23970 	PERU 	customer
+23973 	ARGENTINA 	customer
+23974 	CANADA 	customer
+23977 	PERU 	customer
+23979 	CANADA 	customer
+23982 	BRAZIL 	customer
+23986 	BRAZIL 	customer
+23991 	ARGENTINA 	customer
+23992 	PERU 	customer
+24006 	CANADA 	customer
+24016 	UNITED STATES 	customer
+24019 	PERU 	customer
+24022 	PERU 	customer
+24024 	ARGENTINA 	customer
+24026 	BRAZIL 	customer
+24028 	UNITED STATES 	customer
+24035 	UNITED STATES 	customer
+24038 	CANADA 	customer
+24040 	ARGENTINA 	customer
+24045 	PERU 	customer
+24048 	UNITED STATES 	customer
+24057 	ARGENTINA 	customer
+24058 	UNITED STATES 	customer
+24081 	PERU 	customer
+24082 	BRAZIL 	customer
+24084 	ARGENTINA 	customer
+24088 	CANADA 	customer
+24089 	PERU 	customer
+24094 	BRAZIL 	customer
+24095 	ARGENTINA 	customer
+24109 	UNITED STATES 	customer
+24111 	BRAZIL 	customer
+24121 	PERU 	customer
+24126 	ARGENTINA 	customer
+24137 	BRAZIL 	customer
+24139 	CANADA 	customer
+24146 	UNITED STATES 	customer
+24148 	UNITED STATES 	customer
+24154 	BRAZIL 	customer
+24156 	PERU 	customer
+24171 	CANADA 	customer
+24180 	CANADA 	customer
+24185 	BRAZIL 	customer
+24186 	BRAZIL 	customer
+24190 	ARGENTINA 	customer
+24199 	BRAZIL 	customer
+24201 	ARGENTINA 	customer
+24205 	UNITED STATES 	customer
+24219 	CANADA 	customer
+24223 	CANADA 	customer
+24224 	UNITED STATES 	customer
+24225 	BRAZIL 	customer
+24232 	UNITED STATES 	customer
+24234 	BRAZIL 	customer
+24236 	PERU 	customer
+24238 	CANADA 	customer
+24245 	CANADA 	customer
+24263 	UNITED STATES 	customer
+24265 	UNITED STATES 	customer
+24268 	PERU 	customer
+24269 	ARGENTINA 	customer
+24278 	BRAZIL 	customer
+24289 	ARGENTINA 	customer
+24294 	CANADA 	customer
+24297 	PERU 	customer
+24300 	UNITED STATES 	customer
+24305 	ARGENTINA 	customer
+24306 	BRAZIL 	customer
+24307 	ARGENTINA 	customer
+24326 	ARGENTINA 	customer
+24333 	CANADA 	customer
+24339 	PERU 	customer
+24344 	CANADA 	customer
+24349 	BRAZIL 	customer
+24350 	PERU 	customer
+24363 	UNITED STATES 	customer
+24366 	CANADA 	customer
+24372 	BRAZIL 	customer
+24375 	ARGENTINA 	customer
+24391 	UNITED STATES 	customer
+24401 	UNITED STATES 	customer
+24402 	BRAZIL 	customer
+24405 	ARGENTINA 	customer
+24406 	PERU 	customer
+24407 	PERU 	customer
+24410 	ARGENTINA 	customer
+24414 	BRAZIL 	customer
+24417 	ARGENTINA 	customer
+24420 	PERU 	customer
+24425 	CANADA 	customer
+24428 	BRAZIL 	customer
+24435 	UNITED STATES 	customer
+24446 	BRAZIL 	customer
+24463 	ARGENTINA 	customer
+24464 	UNITED STATES 	customer
+24465 	BRAZIL 	customer
+24466 	UNITED STATES 	customer
+24467 	UNITED STATES 	customer
+24484 	BRAZIL 	customer
+24489 	UNITED STATES 	customer
+24492 	CANADA 	customer
+24493 	BRAZIL 	customer
+24494 	PERU 	customer
+24497 	PERU 	customer
+24500 	UNITED STATES 	customer
+24501 	ARGENTINA 	customer
+24503 	PERU 	customer
+24505 	UNITED STATES 	customer
+24509 	UNITED STATES 	customer
+24510 	BRAZIL 	customer
+24518 	UNITED STATES 	customer
+24521 	UNITED STATES 	customer
+24523 	ARGENTINA 	customer
+24526 	PERU 	customer
+24530 	CANADA 	customer
+24531 	CANADA 	customer
+24533 	ARGENTINA 	customer
+24535 	CANADA 	customer
+24543 	CANADA 	customer
+24544 	UNITED STATES 	customer
+24547 	UNITED STATES 	customer
+24551 	CANADA 	customer
+24555 	PERU 	customer
+24556 	BRAZIL 	customer
+24559 	UNITED STATES 	customer
+24561 	ARGENTINA 	customer
+24564 	BRAZIL 	customer
+24570 	BRAZIL 	customer
+24588 	PERU 	customer
+24604 	PERU 	customer
+24607 	BRAZIL 	customer
+24608 	CANADA 	customer
+24611 	CANADA 	customer
+24612 	CANADA 	customer
+24620 	CANADA 	customer
+24623 	PERU 	customer
+24625 	BRAZIL 	customer
+24628 	PERU 	customer
+24633 	UNITED STATES 	customer
+24635 	UNITED STATES 	customer
+24643 	UNITED STATES 	customer
+24646 	ARGENTINA 	customer
+24658 	CANADA 	customer
+24668 	CANADA 	customer
+24669 	UNITED STATES 	customer
+24678 	UNITED STATES 	customer
+24682 	UNITED STATES 	customer
+24683 	UNITED STATES 	customer
+24707 	UNITED STATES 	customer
+24709 	UNITED STATES 	customer
+24710 	ARGENTINA 	customer
+24711 	CANADA 	customer
+24713 	CANADA 	customer
+24720 	PERU 	customer
+24723 	PERU 	customer
+24725 	ARGENTINA 	customer
+24731 	PERU 	customer
+24736 	BRAZIL 	customer
+24740 	ARGENTINA 	customer
+24742 	PERU 	customer
+24750 	UNITED STATES 	customer
+24751 	UNITED STATES 	customer
+24758 	CANADA 	customer
+24760 	ARGENTINA 	customer
+24776 	PERU 	customer
+24778 	CANADA 	customer
+24785 	CANADA 	customer
+24788 	CANADA 	customer
+24789 	UNITED STATES 	customer
+24794 	PERU 	customer
+24797 	CANADA 	customer
+24807 	ARGENTINA 	customer
+24809 	BRAZIL 	customer
+24810 	PERU 	customer
+24813 	PERU 	customer
+24815 	UNITED STATES 	customer
+24824 	CANADA 	customer
+24827 	PERU 	customer
+24828 	UNITED STATES 	customer
+24831 	PERU 	customer
+24832 	UNITED STATES 	customer
+24838 	ARGENTINA 	customer
+24840 	PERU 	customer
+24842 	ARGENTINA 	customer
+24844 	ARGENTINA 	customer
+24845 	BRAZIL 	customer
+24846 	PERU 	customer
+24856 	PERU 	customer
+24858 	UNITED STATES 	customer
+24860 	UNITED STATES 	customer
+24872 	PERU 	customer
+24874 	UNITED STATES 	customer
+24875 	ARGENTINA 	customer
+24876 	BRAZIL 	customer
+24881 	CANADA 	customer
+24882 	CANADA 	customer
+24885 	ARGENTINA 	customer
+24887 	BRAZIL 	customer
+24890 	PERU 	customer
+24894 	PERU 	customer
+24907 	BRAZIL 	customer
+24909 	ARGENTINA 	customer
+24917 	UNITED STATES 	customer
+24924 	PERU 	customer
+24929 	ARGENTINA 	customer
+24930 	UNITED STATES 	customer
+24937 	PERU 	customer
+24951 	BRAZIL 	customer
+24958 	BRAZIL 	customer
+24960 	BRAZIL 	customer
+24962 	UNITED STATES 	customer
+24969 	UNITED STATES 	customer
+24986 	BRAZIL 	customer
+24993 	CANADA 	customer
+24994 	UNITED STATES 	customer
+24995 	ARGENTINA 	customer
+25006 	BRAZIL 	customer
+25007 	UNITED STATES 	customer
+25010 	UNITED STATES 	customer
+25015 	ARGENTINA 	customer
+25024 	UNITED STATES 	customer
+25035 	CANADA 	customer
+25047 	ARGENTINA 	customer
+25048 	UNITED STATES 	customer
+25051 	UNITED STATES 	customer
+25053 	PERU 	customer
+25063 	PERU 	customer
+25065 	CANADA 	customer
+25079 	BRAZIL 	customer
+25080 	PERU 	customer
+25088 	PERU 	customer
+25098 	BRAZIL 	customer
+25099 	UNITED STATES 	customer
+25101 	UNITED STATES 	customer
+25104 	CANADA 	customer
+25113 	ARGENTINA 	customer
+25114 	UNITED STATES 	customer
+25122 	BRAZIL 	customer
+25125 	BRAZIL 	customer
+25129 	ARGENTINA 	customer
+25132 	UNITED STATES 	customer
+25136 	UNITED STATES 	customer
+25142 	PERU 	customer
+25144 	ARGENTINA 	customer
+25145 	BRAZIL 	customer
+25148 	PERU 	customer
+25151 	CANADA 	customer
+25160 	CANADA 	customer
+25161 	ARGENTINA 	customer
+25162 	PERU 	customer
+25176 	PERU 	customer
+25179 	PERU 	customer
+25184 	PERU 	customer
+25185 	CANADA 	customer
+25188 	UNITED STATES 	customer
+25194 	BRAZIL 	customer
+25197 	UNITED STATES 	customer
+25202 	CANADA 	customer
+25203 	PERU 	customer
+25210 	PERU 	customer
+25224 	CANADA 	customer
+25230 	PERU 	customer
+25243 	ARGENTINA 	customer
+25246 	CANADA 	customer
+25264 	PERU 	customer
+25267 	CANADA 	customer
+25278 	ARGENTINA 	customer
+25285 	CANADA 	customer
+25293 	UNITED STATES 	customer
+25299 	CANADA 	customer
+25305 	PERU 	customer
+25311 	UNITED STATES 	customer
+25312 	ARGENTINA 	customer
+25316 	UNITED STATES 	customer
+25318 	CANADA 	customer
+25330 	BRAZIL 	customer
+25337 	ARGENTINA 	customer
+25338 	UNITED STATES 	customer
+25340 	PERU 	customer
+25342 	BRAZIL 	customer
+25345 	CANADA 	customer
+25346 	PERU 	customer
+25350 	BRAZIL 	customer
+25351 	BRAZIL 	customer
+25356 	CANADA 	customer
+25364 	BRAZIL 	customer
+25367 	PERU 	customer
+25370 	UNITED STATES 	customer
+25376 	BRAZIL 	customer
+25382 	PERU 	customer
+25393 	PERU 	customer
+25404 	PERU 	customer
+25407 	CANADA 	customer
+25409 	PERU 	customer
+25414 	CANADA 	customer
+25417 	UNITED STATES 	customer
+25418 	UNITED STATES 	customer
+25424 	UNITED STATES 	customer
+25430 	ARGENTINA 	customer
+25432 	ARGENTINA 	customer
+25435 	PERU 	customer
+25445 	BRAZIL 	customer
+25450 	UNITED STATES 	customer
+25452 	BRAZIL 	customer
+25463 	BRAZIL 	customer
+25464 	ARGENTINA 	customer
+25467 	CANADA 	customer
+25468 	CANADA 	customer
+25473 	UNITED STATES 	customer
+25476 	UNITED STATES 	customer
+25482 	UNITED STATES 	customer
+25484 	PERU 	customer
+25489 	CANADA 	customer
+25491 	ARGENTINA 	customer
+25497 	CANADA 	customer
+25500 	UNITED STATES 	customer
+25509 	BRAZIL 	customer
+25511 	ARGENTINA 	customer
+25515 	UNITED STATES 	customer
+25516 	BRAZIL 	customer
+25517 	ARGENTINA 	customer
+25528 	CANADA 	customer
+25536 	BRAZIL 	customer
+25539 	BRAZIL 	customer
+25540 	UNITED STATES 	customer
+25546 	UNITED STATES 	customer
+25556 	CANADA 	customer
+25564 	UNITED STATES 	customer
+25575 	ARGENTINA 	customer
+25578 	PERU 	customer
+25586 	UNITED STATES 	customer
+25588 	CANADA 	customer
+25594 	CANADA 	customer
+25596 	ARGENTINA 	customer
+25600 	BRAZIL 	customer
+25601 	ARGENTINA 	customer
+25604 	UNITED STATES 	customer
+25613 	CANADA 	customer
+25614 	PERU 	customer
+25616 	CANADA 	customer
+25618 	UNITED STATES 	customer
+25620 	CANADA 	customer
+25627 	BRAZIL 	customer
+25636 	BRAZIL 	customer
+25645 	PERU 	customer
+25654 	BRAZIL 	customer
+25661 	ARGENTINA 	customer
+25662 	PERU 	customer
+25665 	BRAZIL 	customer
+25666 	PERU 	customer
+25669 	PERU 	customer
+25683 	UNITED STATES 	customer
+25689 	ARGENTINA 	customer
+25694 	ARGENTINA 	customer
+25698 	UNITED STATES 	customer
+25704 	UNITED STATES 	customer
+25709 	UNITED STATES 	customer
+25739 	ARGENTINA 	customer
+25748 	PERU 	customer
+25755 	ARGENTINA 	customer
+25757 	UNITED STATES 	customer
+25760 	CANADA 	customer
+25766 	CANADA 	customer
+25768 	BRAZIL 	customer
+25780 	UNITED STATES 	customer
+25782 	PERU 	customer
+25784 	PERU 	customer
+25790 	CANADA 	customer
+25791 	UNITED STATES 	customer
+25793 	PERU 	customer
+25805 	BRAZIL 	customer
+25809 	UNITED STATES 	customer
+25817 	PERU 	customer
+25840 	ARGENTINA 	customer
+25846 	CANADA 	customer
+25848 	BRAZIL 	customer
+25856 	UNITED STATES 	customer
+25858 	PERU 	customer
+25859 	BRAZIL 	customer
+25860 	PERU 	customer
+25861 	ARGENTINA 	customer
+25865 	UNITED STATES 	customer
+25874 	PERU 	customer
+25875 	PERU 	customer
+25887 	ARGENTINA 	customer
+25890 	UNITED STATES 	customer
+25897 	PERU 	customer
+25900 	UNITED STATES 	customer
+25903 	CANADA 	customer
+25907 	BRAZIL 	customer
+25912 	BRAZIL 	customer
+25921 	UNITED STATES 	customer
+25927 	ARGENTINA 	customer
+25928 	BRAZIL 	customer
+25936 	UNITED STATES 	customer
+25940 	UNITED STATES 	customer
+25943 	CANADA 	customer
+25954 	UNITED STATES 	customer
+25956 	PERU 	customer
+25960 	ARGENTINA 	customer
+25973 	ARGENTINA 	customer
+25977 	UNITED STATES 	customer
+25980 	CANADA 	customer
+25983 	CANADA 	customer
+25985 	UNITED STATES 	customer
+25990 	BRAZIL 	customer
+25993 	UNITED STATES 	customer
+25995 	CANADA 	customer
+25997 	UNITED STATES 	customer
+26007 	UNITED STATES 	customer
+26009 	PERU 	customer
+26013 	BRAZIL 	customer
+26028 	BRAZIL 	customer
+26031 	ARGENTINA 	customer
+26032 	CANADA 	customer
+26035 	BRAZIL 	customer
+26039 	CANADA 	customer
+26041 	CANADA 	customer
+26043 	BRAZIL 	customer
+26052 	BRAZIL 	customer
+26063 	UNITED STATES 	customer
+26071 	ARGENTINA 	customer
+26073 	BRAZIL 	customer
+26076 	UNITED STATES 	customer
+26078 	BRAZIL 	customer
+26084 	BRAZIL 	customer
+26095 	PERU 	customer
+26100 	CANADA 	customer
+26105 	PERU 	customer
+26106 	UNITED STATES 	customer
+26109 	UNITED STATES 	customer
+26117 	ARGENTINA 	customer
+26128 	UNITED STATES 	customer
+26132 	PERU 	customer
+26143 	ARGENTINA 	customer
+26148 	CANADA 	customer
+26150 	ARGENTINA 	customer
+26158 	ARGENTINA 	customer
+26163 	ARGENTINA 	customer
+26165 	ARGENTINA 	customer
+26167 	ARGENTINA 	customer
+26174 	UNITED STATES 	customer
+26181 	CANADA 	customer
+26186 	PERU 	customer
+26189 	CANADA 	customer
+26190 	BRAZIL 	customer
+26191 	CANADA 	customer
+26202 	CANADA 	customer
+26206 	ARGENTINA 	customer
+26207 	PERU 	customer
+26215 	UNITED STATES 	customer
+26216 	UNITED STATES 	customer
+26217 	UNITED STATES 	customer
+26218 	CANADA 	customer
+26233 	CANADA 	customer
+26234 	PERU 	customer
+26240 	CANADA 	customer
+26243 	UNITED STATES 	customer
+26264 	CANADA 	customer
+26265 	UNITED STATES 	customer
+26276 	ARGENTINA 	customer
+26279 	ARGENTINA 	customer
+26281 	PERU 	customer
+26282 	CANADA 	customer
+26286 	PERU 	customer
+26290 	UNITED STATES 	customer
+26294 	PERU 	customer
+26304 	ARGENTINA 	customer
+26308 	ARGENTINA 	customer
+26310 	BRAZIL 	customer
+26312 	UNITED STATES 	customer
+26314 	CANADA 	customer
+26321 	PERU 	customer
+26326 	UNITED STATES 	customer
+26329 	BRAZIL 	customer
+26334 	BRAZIL 	customer
+26335 	ARGENTINA 	customer
+26338 	PERU 	customer
+26342 	CANADA 	customer
+26352 	CANADA 	customer
+26369 	UNITED STATES 	customer
+26371 	CANADA 	customer
+26378 	CANADA 	customer
+26382 	PERU 	customer
+26394 	CANADA 	customer
+26398 	UNITED STATES 	customer
+26400 	CANADA 	customer
+26404 	PERU 	customer
+26406 	CANADA 	customer
+26407 	PERU 	customer
+26410 	UNITED STATES 	customer
+26412 	PERU 	customer
+26414 	ARGENTINA 	customer
+26423 	UNITED STATES 	customer
+26425 	PERU 	customer
+26432 	ARGENTINA 	customer
+26437 	ARGENTINA 	customer
+26443 	PERU 	customer
+26459 	PERU 	customer
+26461 	UNITED STATES 	customer
+26466 	PERU 	customer
+26467 	ARGENTINA 	customer
+26471 	UNITED STATES 	customer
+26479 	ARGENTINA 	customer
+26480 	BRAZIL 	customer
+26481 	ARGENTINA 	customer
+26483 	PERU 	customer
+26484 	BRAZIL 	customer
+26488 	UNITED STATES 	customer
+26509 	ARGENTINA 	customer
+26527 	ARGENTINA 	customer
+26529 	CANADA 	customer
+26543 	CANADA 	customer
+26544 	CANADA 	customer
+26547 	UNITED STATES 	customer
+26553 	CANADA 	customer
+26558 	UNITED STATES 	customer
+26559 	ARGENTINA 	customer
+26564 	ARGENTINA 	customer
+26582 	PERU 	customer
+26588 	UNITED STATES 	customer
+26598 	CANADA 	customer
+26603 	CANADA 	customer
+26617 	ARGENTINA 	customer
+26621 	ARGENTINA 	customer
+26622 	ARGENTINA 	customer
+26623 	UNITED STATES 	customer
+26629 	CANADA 	customer
+26631 	ARGENTINA 	customer
+26637 	BRAZIL 	customer
+26641 	CANADA 	customer
+26644 	ARGENTINA 	customer
+26649 	PERU 	customer
+26650 	CANADA 	customer
+26651 	CANADA 	customer
+26659 	PERU 	customer
+26664 	CANADA 	customer
+26667 	UNITED STATES 	customer
+26673 	BRAZIL 	customer
+26678 	UNITED STATES 	customer
+26683 	ARGENTINA 	customer
+26686 	CANADA 	customer
+26691 	BRAZIL 	customer
+26692 	ARGENTINA 	customer
+26695 	UNITED STATES 	customer
+26696 	BRAZIL 	customer
+26706 	CANADA 	customer
+26711 	ARGENTINA 	customer
+26719 	PERU 	customer
+26729 	CANADA 	customer
+26731 	ARGENTINA 	customer
+26735 	ARGENTINA 	customer
+26743 	UNITED STATES 	customer
+26752 	PERU 	customer
+26758 	ARGENTINA 	customer
+26761 	ARGENTINA 	customer
+26762 	CANADA 	customer
+26764 	UNITED STATES 	customer
+26768 	BRAZIL 	customer
+26778 	BRAZIL 	customer
+26785 	CANADA 	customer
+26787 	UNITED STATES 	customer
+26793 	ARGENTINA 	customer
+26794 	UNITED STATES 	customer
+26795 	BRAZIL 	customer
+26796 	BRAZIL 	customer
+26797 	UNITED STATES 	customer
+26828 	BRAZIL 	customer
+26835 	UNITED STATES 	customer
+26837 	UNITED STATES 	customer
+26838 	CANADA 	customer
+26846 	PERU 	customer
+26870 	CANADA 	customer
+26872 	PERU 	customer
+26879 	ARGENTINA 	customer
+26880 	ARGENTINA 	customer
+26881 	CANADA 	customer
+26883 	BRAZIL 	customer
+26889 	UNITED STATES 	customer
+26892 	BRAZIL 	customer
+26893 	UNITED STATES 	customer
+26894 	CANADA 	customer
+26895 	CANADA 	customer
+26903 	BRAZIL 	customer
+26905 	ARGENTINA 	customer
+26926 	UNITED STATES 	customer
+26940 	PERU 	customer
+26949 	BRAZIL 	customer
+26953 	CANADA 	customer
+26955 	UNITED STATES 	customer
+26959 	PERU 	customer
+26961 	CANADA 	customer
+26965 	PERU 	customer
+26969 	ARGENTINA 	customer
+26970 	PERU 	customer
+26976 	BRAZIL 	customer
+26983 	BRAZIL 	customer
+26984 	ARGENTINA 	customer
+26986 	ARGENTINA 	customer
+26988 	UNITED STATES 	customer
+26991 	CANADA 	customer
+26992 	CANADA 	customer
+26993 	ARGENTINA 	customer
+26996 	BRAZIL 	customer
+26998 	PERU 	customer
+27002 	PERU 	customer
+27007 	CANADA 	customer
+27010 	UNITED STATES 	customer
+27012 	BRAZIL 	customer
+27016 	CANADA 	customer
+27017 	BRAZIL 	customer
+27019 	CANADA 	customer
+27025 	CANADA 	customer
+27028 	UNITED STATES 	customer
+27036 	ARGENTINA 	customer
+27045 	BRAZIL 	customer
+27050 	BRAZIL 	customer
+27053 	PERU 	customer
+27055 	UNITED STATES 	customer
+27056 	BRAZIL 	customer
+27066 	ARGENTINA 	customer
+27071 	BRAZIL 	customer
+27073 	CANADA 	customer
+27082 	CANADA 	customer
+27083 	CANADA 	customer
+27087 	ARGENTINA 	customer
+27091 	CANADA 	customer
+27097 	UNITED STATES 	customer
+27100 	UNITED STATES 	customer
+27106 	BRAZIL 	customer
+27109 	BRAZIL 	customer
+27110 	PERU 	customer
+27117 	ARGENTINA 	customer
+27120 	ARGENTINA 	customer
+27121 	BRAZIL 	customer
+27123 	PERU 	customer
+27129 	PERU 	customer
+27130 	UNITED STATES 	customer
+27137 	ARGENTINA 	customer
+27138 	BRAZIL 	customer
+27139 	ARGENTINA 	customer
+27141 	PERU 	customer
+27147 	PERU 	customer
+27153 	PERU 	customer
+27159 	PERU 	customer
+27162 	PERU 	customer
+27173 	ARGENTINA 	customer
+27186 	ARGENTINA 	customer
+27194 	PERU 	customer
+27204 	PERU 	customer
+27205 	UNITED STATES 	customer
+27209 	UNITED STATES 	customer
+27211 	BRAZIL 	customer
+27214 	CANADA 	customer
+27216 	BRAZIL 	customer
+27222 	UNITED STATES 	customer
+27223 	ARGENTINA 	customer
+27234 	PERU 	customer
+27235 	UNITED STATES 	customer
+27236 	UNITED STATES 	customer
+27239 	ARGENTINA 	customer
+27240 	BRAZIL 	customer
+27241 	CANADA 	customer
+27250 	ARGENTINA 	customer
+27251 	CANADA 	customer
+27256 	BRAZIL 	customer
+27262 	CANADA 	customer
+27269 	PERU 	customer
+27271 	CANADA 	customer
+27272 	BRAZIL 	customer
+27275 	PERU 	customer
+27281 	ARGENTINA 	customer
+27287 	CANADA 	customer
+27288 	UNITED STATES 	customer
+27291 	PERU 	customer
+27293 	UNITED STATES 	customer
+27295 	PERU 	customer
+27303 	UNITED STATES 	customer
+27306 	BRAZIL 	customer
+27307 	UNITED STATES 	customer
+27311 	UNITED STATES 	customer
+27315 	UNITED STATES 	customer
+27316 	BRAZIL 	customer
+27317 	ARGENTINA 	customer
+27320 	UNITED STATES 	customer
+27322 	CANADA 	customer
+27334 	BRAZIL 	customer
+27345 	ARGENTINA 	customer
+27347 	ARGENTINA 	customer
+27352 	ARGENTINA 	customer
+27359 	UNITED STATES 	customer
+27360 	UNITED STATES 	customer
+27363 	CANADA 	customer
+27367 	ARGENTINA 	customer
+27373 	PERU 	customer
+27380 	PERU 	customer
+27397 	CANADA 	customer
+27400 	PERU 	customer
+27401 	BRAZIL 	customer
+27403 	PERU 	customer
+27405 	PERU 	customer
+27407 	CANADA 	customer
+27411 	ARGENTINA 	customer
+27412 	UNITED STATES 	customer
+27414 	UNITED STATES 	customer
+27428 	UNITED STATES 	customer
+27429 	CANADA 	customer
+27430 	CANADA 	customer
+27435 	BRAZIL 	customer
+27437 	UNITED STATES 	customer
+27441 	CANADA 	customer
+27445 	ARGENTINA 	customer
+27446 	PERU 	customer
+27454 	PERU 	customer
+27455 	CANADA 	customer
+27462 	BRAZIL 	customer
+27464 	UNITED STATES 	customer
+27480 	UNITED STATES 	customer
+27489 	CANADA 	customer
+27492 	UNITED STATES 	customer
+27495 	BRAZIL 	customer
+27499 	UNITED STATES 	customer
+27502 	CANADA 	customer
+27515 	PERU 	customer
+27518 	BRAZIL 	customer
+27531 	BRAZIL 	customer
+27534 	BRAZIL 	customer
+27535 	ARGENTINA 	customer
+27542 	ARGENTINA 	customer
+27553 	ARGENTINA 	customer
+27565 	CANADA 	customer
+27571 	CANADA 	customer
+27575 	CANADA 	customer
+27576 	BRAZIL 	customer
+27584 	BRAZIL 	customer
+27589 	ARGENTINA 	customer
+27594 	CANADA 	customer
+27604 	ARGENTINA 	customer
+27608 	ARGENTINA 	customer
+27610 	BRAZIL 	customer
+27614 	CANADA 	customer
+27622 	ARGENTINA 	customer
+27624 	PERU 	customer
+27627 	ARGENTINA 	customer
+27634 	ARGENTINA 	customer
+27636 	UNITED STATES 	customer
+27638 	ARGENTINA 	customer
+27639 	UNITED STATES 	customer
+27651 	BRAZIL 	customer
+27657 	PERU 	customer
+27667 	BRAZIL 	customer
+27684 	PERU 	customer
+27687 	UNITED STATES 	customer
+27699 	PERU 	customer
+27701 	UNITED STATES 	customer
+27702 	ARGENTINA 	customer
+27703 	UNITED STATES 	customer
+27706 	BRAZIL 	customer
+27711 	BRAZIL 	customer
+27713 	UNITED STATES 	customer
+27717 	PERU 	customer
+27726 	ARGENTINA 	customer
+27727 	ARGENTINA 	customer
+27735 	PERU 	customer
+27739 	PERU 	customer
+27742 	ARGENTINA 	customer
+27743 	UNITED STATES 	customer
+27746 	UNITED STATES 	customer
+27749 	BRAZIL 	customer
+27763 	CANADA 	customer
+27768 	PERU 	customer
+27773 	BRAZIL 	customer
+27774 	CANADA 	customer
+27780 	UNITED STATES 	customer
+27789 	UNITED STATES 	customer
+27790 	ARGENTINA 	customer
+27814 	PERU 	customer
+27821 	BRAZIL 	customer
+27824 	UNITED STATES 	customer
+27825 	CANADA 	customer
+27837 	CANADA 	customer
+27853 	UNITED STATES 	customer
+27863 	PERU 	customer
+27864 	PERU 	customer
+27866 	ARGENTINA 	customer
+27878 	PERU 	customer
+27879 	UNITED STATES 	customer
+27897 	BRAZIL 	customer
+27902 	PERU 	customer
+27903 	CANADA 	customer
+27906 	PERU 	customer
+27909 	UNITED STATES 	customer
+27921 	CANADA 	customer
+27930 	UNITED STATES 	customer
+27937 	PERU 	customer
+27940 	PERU 	customer
+27942 	UNITED STATES 	customer
+27944 	ARGENTINA 	customer
+27950 	PERU 	customer
+27962 	CANADA 	customer
+27965 	UNITED STATES 	customer
+27969 	PERU 	customer
+27982 	BRAZIL 	customer
+27993 	CANADA 	customer
+27995 	CANADA 	customer
+28006 	PERU 	customer
+28009 	BRAZIL 	customer
+28010 	BRAZIL 	customer
+28011 	PERU 	customer
+28017 	BRAZIL 	customer
+28020 	UNITED STATES 	customer
+28024 	PERU 	customer
+28031 	ARGENTINA 	customer
+28035 	UNITED STATES 	customer
+28037 	CANADA 	customer
+28038 	CANADA 	customer
+28040 	ARGENTINA 	customer
+28054 	UNITED STATES 	customer
+28058 	BRAZIL 	customer
+28065 	UNITED STATES 	customer
+28071 	BRAZIL 	customer
+28074 	PERU 	customer
+28075 	PERU 	customer
+28077 	ARGENTINA 	customer
+28080 	UNITED STATES 	customer
+28082 	ARGENTINA 	customer
+28084 	UNITED STATES 	customer
+28085 	ARGENTINA 	customer
+28090 	ARGENTINA 	customer
+28094 	CANADA 	customer
+28097 	PERU 	customer
+28098 	UNITED STATES 	customer
+28101 	ARGENTINA 	customer
+28102 	CANADA 	customer
+28103 	UNITED STATES 	customer
+28106 	CANADA 	customer
+28113 	BRAZIL 	customer
+28114 	CANADA 	customer
+28119 	UNITED STATES 	customer
+28134 	ARGENTINA 	customer
+28142 	BRAZIL 	customer
+28144 	ARGENTINA 	customer
+28146 	PERU 	customer
+28148 	PERU 	customer
+28149 	ARGENTINA 	customer
+28150 	PERU 	customer
+28152 	ARGENTINA 	customer
+28153 	ARGENTINA 	customer
+28156 	BRAZIL 	customer
+28157 	UNITED STATES 	customer
+28161 	UNITED STATES 	customer
+28165 	ARGENTINA 	customer
+28166 	BRAZIL 	customer
+28168 	CANADA 	customer
+28175 	ARGENTINA 	customer
+28182 	CANADA 	customer
+28184 	BRAZIL 	customer
+28185 	PERU 	customer
+28189 	CANADA 	customer
+28193 	PERU 	customer
+28201 	ARGENTINA 	customer
+28203 	ARGENTINA 	customer
+28205 	UNITED STATES 	customer
+28207 	UNITED STATES 	customer
+28216 	ARGENTINA 	customer
+28222 	CANADA 	customer
+28230 	UNITED STATES 	customer
+28235 	BRAZIL 	customer
+28237 	ARGENTINA 	customer
+28252 	BRAZIL 	customer
+28255 	ARGENTINA 	customer
+28264 	PERU 	customer
+28266 	ARGENTINA 	customer
+28269 	ARGENTINA 	customer
+28275 	BRAZIL 	customer
+28278 	PERU 	customer
+28279 	CANADA 	customer
+28282 	UNITED STATES 	customer
+28286 	UNITED STATES 	customer
+28306 	ARGENTINA 	customer
+28307 	UNITED STATES 	customer
+28321 	BRAZIL 	customer
+28322 	CANADA 	customer
+28324 	UNITED STATES 	customer
+28326 	PERU 	customer
+28328 	BRAZIL 	customer
+28329 	PERU 	customer
+28348 	CANADA 	customer
+28355 	PERU 	customer
+28359 	ARGENTINA 	customer
+28364 	UNITED STATES 	customer
+28365 	UNITED STATES 	customer
+28370 	BRAZIL 	customer
+28371 	CANADA 	customer
+28382 	ARGENTINA 	customer
+28384 	CANADA 	customer
+28387 	CANADA 	customer
+28391 	CANADA 	customer
+28395 	UNITED STATES 	customer
+28398 	CANADA 	customer
+28401 	ARGENTINA 	customer
+28403 	BRAZIL 	customer
+28411 	UNITED STATES 	customer
+28416 	PERU 	customer
+28424 	ARGENTINA 	customer
+28440 	ARGENTINA 	customer
+28441 	UNITED STATES 	customer
+28442 	PERU 	customer
+28445 	PERU 	customer
+28449 	ARGENTINA 	customer
+28456 	UNITED STATES 	customer
+28458 	ARGENTINA 	customer
+28460 	CANADA 	customer
+28461 	BRAZIL 	customer
+28467 	CANADA 	customer
+28468 	UNITED STATES 	customer
+28471 	CANADA 	customer
+28475 	UNITED STATES 	customer
+28481 	PERU 	customer
+28485 	BRAZIL 	customer
+28491 	PERU 	customer
+28496 	BRAZIL 	customer
+28499 	PERU 	customer
+28504 	PERU 	customer
+28505 	UNITED STATES 	customer
+28507 	UNITED STATES 	customer
+28515 	BRAZIL 	customer
+28516 	ARGENTINA 	customer
+28518 	ARGENTINA 	customer
+28527 	PERU 	customer
+28532 	BRAZIL 	customer
+28535 	CANADA 	customer
+28536 	ARGENTINA 	customer
+28540 	BRAZIL 	customer
+28544 	PERU 	customer
+28547 	ARGENTINA 	customer
+28553 	ARGENTINA 	customer
+28555 	UNITED STATES 	customer
+28564 	PERU 	customer
+28566 	BRAZIL 	customer
+28572 	ARGENTINA 	customer
+28580 	PERU 	customer
+28587 	BRAZIL 	customer
+28592 	PERU 	customer
+28597 	CANADA 	customer
+28599 	UNITED STATES 	customer
+28600 	PERU 	customer
+28609 	CANADA 	customer
+28613 	CANADA 	customer
+28615 	BRAZIL 	customer
+28625 	CANADA 	customer
+28628 	BRAZIL 	customer
+28629 	UNITED STATES 	customer
+28634 	UNITED STATES 	customer
+28640 	CANADA 	customer
+28642 	CANADA 	customer
+28648 	PERU 	customer
+28651 	UNITED STATES 	customer
+28655 	PERU 	customer
+28664 	CANADA 	customer
+28666 	UNITED STATES 	customer
+28677 	UNITED STATES 	customer
+28688 	CANADA 	customer
+28692 	PERU 	customer
+28694 	CANADA 	customer
+28697 	BRAZIL 	customer
+28699 	UNITED STATES 	customer
+28706 	UNITED STATES 	customer
+28709 	PERU 	customer
+28711 	CANADA 	customer
+28713 	ARGENTINA 	customer
+28718 	BRAZIL 	customer
+28723 	ARGENTINA 	customer
+28724 	ARGENTINA 	customer
+28726 	CANADA 	customer
+28732 	UNITED STATES 	customer
+28744 	CANADA 	customer
+28745 	CANADA 	customer
+28750 	ARGENTINA 	customer
+28751 	CANADA 	customer
+28758 	BRAZIL 	customer
+28766 	ARGENTINA 	customer
+28779 	BRAZIL 	customer
+28785 	ARGENTINA 	customer
+28786 	CANADA 	customer
+28791 	ARGENTINA 	customer
+28796 	CANADA 	customer
+28798 	UNITED STATES 	customer
+28799 	UNITED STATES 	customer
+28802 	CANADA 	customer
+28823 	PERU 	customer
+28825 	CANADA 	customer
+28828 	BRAZIL 	customer
+28832 	PERU 	customer
+28845 	UNITED STATES 	customer
+28857 	BRAZIL 	customer
+28861 	ARGENTINA 	customer
+28866 	PERU 	customer
+28874 	ARGENTINA 	customer
+28879 	CANADA 	customer
+28886 	BRAZIL 	customer
+28893 	BRAZIL 	customer
+28894 	PERU 	customer
+28898 	BRAZIL 	customer
+28905 	UNITED STATES 	customer
+28916 	UNITED STATES 	customer
+28921 	UNITED STATES 	customer
+28930 	ARGENTINA 	customer
+28949 	ARGENTINA 	customer
+28956 	PERU 	customer
+28971 	BRAZIL 	customer
+28975 	ARGENTINA 	customer
+28983 	BRAZIL 	customer
+28985 	UNITED STATES 	customer
+28988 	PERU 	customer
+28991 	BRAZIL 	customer
+28997 	ARGENTINA 	customer
+29001 	ARGENTINA 	customer
+29002 	ARGENTINA 	customer
+29005 	BRAZIL 	customer
+29010 	CANADA 	customer
+29011 	UNITED STATES 	customer
+29013 	UNITED STATES 	customer
+29020 	ARGENTINA 	customer
+29021 	PERU 	customer
+29037 	PERU 	customer
+29046 	CANADA 	customer
+29052 	BRAZIL 	customer
+29057 	UNITED STATES 	customer
+29073 	PERU 	customer
+29076 	BRAZIL 	customer
+29080 	UNITED STATES 	customer
+29085 	CANADA 	customer
+29090 	UNITED STATES 	customer
+29093 	ARGENTINA 	customer
+29099 	UNITED STATES 	customer
+29101 	CANADA 	customer
+29103 	ARGENTINA 	customer
+29113 	ARGENTINA 	customer
+29114 	UNITED STATES 	customer
+29122 	UNITED STATES 	customer
+29128 	UNITED STATES 	customer
+29132 	UNITED STATES 	customer
+29139 	ARGENTINA 	customer
+29142 	PERU 	customer
+29145 	UNITED STATES 	customer
+29146 	ARGENTINA 	customer
+29150 	CANADA 	customer
+29151 	ARGENTINA 	customer
+29154 	CANADA 	customer
+29158 	BRAZIL 	customer
+29168 	UNITED STATES 	customer
+29172 	UNITED STATES 	customer
+29176 	PERU 	customer
+29190 	BRAZIL 	customer
+29191 	PERU 	customer
+29192 	BRAZIL 	customer
+29196 	BRAZIL 	customer
+29198 	CANADA 	customer
+29200 	CANADA 	customer
+29202 	CANADA 	customer
+29206 	BRAZIL 	customer
+29208 	PERU 	customer
+29224 	PERU 	customer
+29225 	ARGENTINA 	customer
+29230 	PERU 	customer
+29234 	PERU 	customer
+29235 	CANADA 	customer
+29242 	BRAZIL 	customer
+29243 	ARGENTINA 	customer
+29245 	UNITED STATES 	customer
+29264 	UNITED STATES 	customer
+29268 	ARGENTINA 	customer
+29269 	PERU 	customer
+29270 	CANADA 	customer
+29273 	UNITED STATES 	customer
+29275 	UNITED STATES 	customer
+29278 	CANADA 	customer
+29280 	CANADA 	customer
+29290 	PERU 	customer
+29293 	UNITED STATES 	customer
+29298 	PERU 	customer
+29305 	ARGENTINA 	customer
+29312 	PERU 	customer
+29318 	PERU 	customer
+29323 	CANADA 	customer
+29324 	ARGENTINA 	customer
+29331 	BRAZIL 	customer
+29333 	PERU 	customer
+29338 	ARGENTINA 	customer
+29340 	CANADA 	customer
+29344 	ARGENTINA 	customer
+29353 	ARGENTINA 	customer
+29359 	ARGENTINA 	customer
+29361 	BRAZIL 	customer
+29364 	PERU 	customer
+29375 	UNITED STATES 	customer
+29385 	BRAZIL 	customer
+29393 	UNITED STATES 	customer
+29398 	BRAZIL 	customer
+29401 	ARGENTINA 	customer
+29404 	BRAZIL 	customer
+29408 	CANADA 	customer
+29414 	PERU 	customer
+29419 	PERU 	customer
+29421 	BRAZIL 	customer
+29424 	PERU 	customer
+29435 	PERU 	customer
+29437 	CANADA 	customer
+29441 	UNITED STATES 	customer
+29445 	PERU 	customer
+29448 	PERU 	customer
+29457 	UNITED STATES 	customer
+29459 	UNITED STATES 	customer
+29460 	BRAZIL 	customer
+29461 	ARGENTINA 	customer
+29462 	BRAZIL 	customer
+29465 	CANADA 	customer
+29466 	CANADA 	customer
+29467 	CANADA 	customer
+29473 	CANADA 	customer
+29475 	ARGENTINA 	customer
+29488 	UNITED STATES 	customer
+29491 	PERU 	customer
+29492 	PERU 	customer
+29501 	BRAZIL 	customer
+29502 	UNITED STATES 	customer
+29508 	CANADA 	customer
+29519 	BRAZIL 	customer
+29524 	CANADA 	customer
+29527 	BRAZIL 	customer
+29528 	UNITED STATES 	customer
+29530 	PERU 	customer
+29539 	CANADA 	customer
+29547 	UNITED STATES 	customer
+29548 	CANADA 	customer
+29549 	UNITED STATES 	customer
+29560 	ARGENTINA 	customer
+29570 	UNITED STATES 	customer
+29581 	ARGENTINA 	customer
+29583 	ARGENTINA 	customer
+29587 	ARGENTINA 	customer
+29589 	UNITED STATES 	customer
+29591 	BRAZIL 	customer
+29597 	ARGENTINA 	customer
+29606 	CANADA 	customer
+29609 	ARGENTINA 	customer
+29613 	ARGENTINA 	customer
+29615 	BRAZIL 	customer
+29616 	CANADA 	customer
+29623 	PERU 	customer
+29627 	BRAZIL 	customer
+29632 	CANADA 	customer
+29636 	ARGENTINA 	customer
+29637 	PERU 	customer
+29648 	PERU 	customer
+29654 	CANADA 	customer
+29662 	ARGENTINA 	customer
+29671 	UNITED STATES 	customer
+29677 	UNITED STATES 	customer
+29686 	CANADA 	customer
+29687 	UNITED STATES 	customer
+29690 	UNITED STATES 	customer
+29698 	ARGENTINA 	customer
+29701 	CANADA 	customer
+29702 	CANADA 	customer
+29704 	UNITED STATES 	customer
+29708 	CANADA 	customer
+29709 	BRAZIL 	customer
+29713 	UNITED STATES 	customer
+29717 	CANADA 	customer
+29718 	CANADA 	customer
+29726 	PERU 	customer
+29743 	UNITED STATES 	customer
+29744 	PERU 	customer
+29747 	CANADA 	customer
+29755 	PERU 	customer
+29757 	CANADA 	customer
+29761 	PERU 	customer
+29763 	PERU 	customer
+29771 	UNITED STATES 	customer
+29776 	ARGENTINA 	customer
+29788 	UNITED STATES 	customer
+29791 	CANADA 	customer
+29792 	ARGENTINA 	customer
+29794 	PERU 	customer
+29799 	BRAZIL 	customer
+29804 	CANADA 	customer
+29807 	PERU 	customer
+29808 	BRAZIL 	customer
+29816 	BRAZIL 	customer
+29818 	ARGENTINA 	customer
+29822 	BRAZIL 	customer
+29824 	PERU 	customer
+29826 	CANADA 	customer
+29828 	BRAZIL 	customer
+29849 	UNITED STATES 	customer
+29850 	CANADA 	customer
+29852 	PERU 	customer
+29855 	CANADA 	customer
+29859 	UNITED STATES 	customer
+29862 	UNITED STATES 	customer
+29871 	UNITED STATES 	customer
+29876 	BRAZIL 	customer
+29877 	CANADA 	customer
+29879 	ARGENTINA 	customer
+29880 	ARGENTINA 	customer
+29885 	ARGENTINA 	customer
+29892 	ARGENTINA 	customer
+29893 	UNITED STATES 	customer
+29899 	CANADA 	customer
+29902 	CANADA 	customer
+29911 	PERU 	customer
+29930 	ARGENTINA 	customer
+29932 	BRAZIL 	customer
+29935 	UNITED STATES 	customer
+29948 	PERU 	customer
+29959 	ARGENTINA 	customer
+29960 	UNITED STATES 	customer
+29970 	BRAZIL 	customer
+29980 	CANADA 	customer
+29986 	ARGENTINA 	customer
+29989 	UNITED STATES 	customer
